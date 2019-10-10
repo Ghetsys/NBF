@@ -1,0 +1,416 @@
+mob/var/tmp
+	SpiderNPC=0
+	NenkinOn=0
+	Kumosenkyuu=0
+	ImmuneToWebs=0
+	Webdelay=0
+	MazeG=0
+
+mob/proc
+	RemoveImmunityToWebs()
+		spawn(75)
+			if(src.ImmuneToWebs)
+				src.ImmuneToWebs=0
+obj/Jutsu/Spider
+	icon='Icons/Jutsus/SpiderTechniques.dmi'
+	webshot
+		icon_state="Shot"
+		density=1
+		layer = 4
+		New()
+			..()
+			spawn(10)
+				del(src)
+		Bump(A)
+			..()
+			if(ismob(A))
+				var/mob/M = A
+				if(M.Kaiten||M.sphere)
+					return
+				if(M==src.Owner)
+					return
+				del(src)
+			if(istype(A,/turf/))
+				var/turf/T = A
+				if(T.density)
+					del(src)
+			if(istype(A,/obj/))
+				del(src)
+		Del()
+			var/obj/Jutsu/Spider/web/K=new();K.loc=src.loc;K.Owner=src.Owner
+			..()
+	web
+		icon_state="5"
+		layer=TURF_LAYER+1
+		density=0
+		var/list/CaptureList=list()
+		var/StruggleOutofWebs=50
+		var/CanBind=1
+		Owner
+		New()
+			..()
+			overlays+=/obj/Jutsu/Spider/web/A;overlays+=/obj/Jutsu/Spider/web/B;overlays+=/obj/Jutsu/Spider/web/C;overlays+=/obj/Jutsu/Spider/web/D
+			overlays+=/obj/Jutsu/Spider/web/E;overlays+=/obj/Jutsu/Spider/web/F;overlays+=/obj/Jutsu/Spider/web/G;overlays+=/obj/Jutsu/Spider/web/H
+			spawn()
+				while(src)
+					sleep(1)
+					for(var/mob/M in oview(1,src))
+						var/mob/O=src.Owner
+						if(M!=O&&CanBind==1)
+							if(!M.knockedout&&!M.ImmuneToDeath&&M.FrozenBind==""&&!M.ImmuneToWebs)
+								M.FrozenBind="Spider Web"
+								M<<"You've been binded by the webs! Quickly tap the space bar to struggle out!"
+								M.Struggle=0
+								src.CaptureList.Add(M)
+							if(M in src.CaptureList)
+								if(M.Struggle>src.StruggleOutofWebs)
+									src.CaptureList.Remove(M)
+									M.ImmuneToWebs=1
+									if(M.FrozenBind=="Spider Web")
+										M.FrozenBind=""
+									M.RemoveImmunityToWebs()
+									M<<"You've broken free of the webs!"
+					for(var/obj/Jutsu/Spider/kunai/A in oview(1,src))
+						walk(A,0)
+					for(var/obj/Jutsu/Spider/arrow/A in oview(1,src))
+						walk(A,0)
+			spawn(300)
+				del(src)
+		Click()
+			var/mob/O=src.Owner
+			if(src.CanBind==0&&O.Webdelay==0)
+				src.CanBind=1;
+				O.Webdelay=300
+		Del()
+			var/mob/O=src.Owner
+			O.MazeG=0;
+			for(var/mob/M in src.CaptureList)
+				src.CaptureList.Remove(M)
+				if(M.FrozenBind=="Spider Web")
+					M.FrozenBind=""
+				M.ImmuneToWebs=1;M.RemoveImmunityToWebs()
+			for(var/obj/Jutsu/Spider/kunai/A in oview(1,src))
+				walk(A,A.dir)
+			for(var/obj/Jutsu/Spider/arrow/A in oview(1,src))
+				walk(A,A.dir)
+			..()
+		A
+			icon_state="1"
+			pixel_x = -32
+			pixel_y = 32
+		B
+			icon_state="5"
+			pixel_y = 32
+		C
+			icon_state="3"
+			pixel_x = 32
+			pixel_y = 32
+		D
+			icon_state="5"
+			pixel_x = -32
+		E
+			icon_state="5"
+			pixel_x = 32
+		F
+			icon_state="7"
+			pixel_x = -32
+			pixel_y = -32
+		G
+			icon_state="5"
+			pixel_y = -32
+		H
+			icon_state="8"
+			pixel_x = 32
+			pixel_y = -32
+	Kumosouiki
+		icon_state="Souki"
+		density=0
+		layer=TURF_LAYER+1
+		New()
+			spawn()
+				while(src)
+					sleep(1)
+					for(var/mob/M in src.loc)
+						var/mob/O=src.Owner
+						if(M==O)
+							return
+						else
+							O<<"[M] has touched your spider web at [src.x],[src.y],[src.z]."
+					sleep(11)
+			spawn(6000)
+				del(src)
+	kunai
+		icon_state = "NenkinKunai"
+		density = 1
+		var/Exploding=0
+		Bump(A)
+			..()
+			var/mob/O = src.Owner
+			if(ismob(A))
+				var/mob/M = A
+				var/ArmorAddUpForM=0
+				for(var/obj/Clothes/Headband/CA in M.contents)
+					if(CA.worn)
+						ArmorAddUpForM+=CA.ArmorAddOn
+				for(var/obj/Clothes/ANBUArmor/CA in M.contents)
+					if(CA.worn)
+						ArmorAddUpForM+=CA.ArmorAddOn
+				for(var/obj/Clothes/ANBUHandGuards/CA in M.contents)
+					if(CA.worn)
+						ArmorAddUpForM+=CA.ArmorAddOn
+				if(prob(ArmorAddUpForM))
+					view(M)<<sound('SFX/SwordClash.wav',0);src.dir=turn(src.dir,45);walk(src,src.dir);M.Deflection=0;sleep(5)
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc
+					del(src)
+				if(M.Deflection)
+					view(M)<<sound('SFX/SwordClash.wav',0);src.dir=turn(src.dir,45);walk(src,src.dir);M.Deflection=0;sleep(5)
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc
+					del(src)
+				if(M.sphere)
+					src.loc=M.loc
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc
+					del(src)
+				if(M.Kaiten)
+					walk(src,0);src.dir = turn(src.dir,45);walk(src,src.dir,0);return
+				if(M.sphere)
+					return
+				var/percentile=O.GoldenSpike*0.01
+				var/damage=(M.maxhealth*0.05)+(M.maxhealth*percentile)
+				if(prob(src.Percision*3))
+					M.DamageProc(damage*2,"Health",O)
+					view(M)<<"[M] was hit by [O]'s Kunai for [damage] damage!!"
+					view(M)<<sound('SFX/Slice.wav',0)
+					M.Bloody()
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc
+					if(prob(4))
+						M.GashSystem()
+				else
+					M.DamageProc(damage,"Health",O)
+					view(M)<<"[M] was hit by [O]'s Kunai for [damage] damage!!"
+					view(M)<<sound('SFX/Slice.wav',0)
+					M.Bloody()
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc
+					if(prob(2))
+						M.GashSystem()
+				del(src)
+			if(istype(A,/obj/WEAPONS))
+				//var/obj/W = A
+				src.dir=turn(src.dir,pick(45,-45))
+				sleep(6)
+				if(src.Exploding)
+					var/obj/Jutsu/Explosion/K=new();K.loc=src.loc;K.Owner=src.Owner
+				del(src)
+			if(istype(A,/obj/Jutsu/Elemental))
+				//var/obj/W = A
+				if(src.Exploding)
+					var/obj/Jutsu/Explosion/K=new();K.loc=src.loc;K.Owner=src.Owner
+				del(src)
+			if(istype(A,/turf/))
+				var/turf/T = A
+				if(T.density)
+					if(src.Exploding)
+						var/obj/Jutsu/Explosion/K=new();K.loc=src.loc;K.Owner=src.Owner
+					del(src)
+	arrow
+		icon_state="arrow"
+		density = 1
+		layer = MOB_LAYER+999999999
+		New()
+			..()
+			spawn(25)
+				del(src)
+		Bump(A)
+			..()
+			var/mob/O = src.Owner
+			if(ismob(A))
+				var/mob/M = A
+				if(M.Deflection)
+					view(M)<<sound('SFX/SwordClash.wav',0);src.dir=turn(src.dir,45);walk(src,src.dir);M.Deflection=0
+				if(M.sphere)
+					src.loc=M.loc;del(src)
+				if(M.Kaiten)
+					walk(src,0)
+					src.dir = turn(src.dir,pick(45,-45))
+					walk(src,src.dir,0)
+					return
+				if(M.sphere)
+					return
+				var/percentile=O.GoldenSpike*0.02
+				var/damage=(M.maxhealth*0.25)+(M.maxhealth*percentile)
+				if(prob(src.Percision*3))
+					M.DamageProc(damage*2,"Health",O)
+					view(M)<<"[M] was hit by [O]'s the arrow for [damage] damage!!"
+					view(M)<<sound('SFX/Slice.wav',0)
+					spawn() M.Bloody();M.Bloody();M.Bloody()
+				else
+					M.DamageProc(damage,"Health",O)
+					view(M)<<"[M] was hit by [O]'s the arrow for [damage] damage!!"
+					view(M)<<sound('SFX/Slice.wav',0)
+					spawn() M.Bloody();M.Bloody();M.Bloody()
+				src.loc=M.loc
+			if(istype(A,/turf/))
+				var/turf/T = A
+				if(T.density)
+					del(src)
+	bow
+		icon='Icons/Jutsus/SpiderTechniques.dmi'
+		icon_state="Warbow"
+		density = 0
+		layer = MOB_LAYER+999999999
+	bowU
+		icon='Icons/Jutsus/bow underlay.dmi'
+		icon_state="Warbow"
+		density = 0
+		layer = OBJ_LAYER
+mob/NPC
+	KumojinSpider
+		name="Kumo Spider(NPC)"
+		icon='Icons/NPCs/Spider.dmi'
+		icon_state=""
+		health=1000
+		stamina=1000
+		chakra=1000
+		SpiderNPC=1
+		CNNPC=0
+		Move()
+			if(src.Frozen||src.FrozenBind!="")
+				if(src.FrozenBind=="Spider Web")
+					src.FrozenBind=""
+					src.FrozenBindedBy=""
+					return 1
+				else
+					return 0
+			..()
+		Bump(mob/M)
+			..()
+			if(istype(M,/mob/))
+				if(M==Owner||M.name==src.name)
+					return
+				else
+					if(src.AttackDelay)
+						return
+					if(M.knockedout)
+						walk(src,0);return
+					src.AttackDelay=1;flick("Attack",src);src.Attacking(M,1)
+					if(prob(src.DoubleStrike*10))
+						src.Attacking(M,1)
+					sleep(11-src.Swift);src.AttackDelay=0;return
+	KumojinSpider
+		name="Kumo Spider(NPC)"
+		icon='Icons/NPCs/Spider.dmi'
+		icon_state=""
+		health=1000
+		stamina=1000
+		chakra=1000
+		SpiderNPC=1
+		CNNPC=0
+		Move()
+			if(src.Frozen||src.FrozenBind!="")
+				if(src.FrozenBind=="Spider Web")
+					src.FrozenBind=""
+					src.FrozenBindedBy=""
+					return 1
+				else
+					return 0
+			..()
+		Bump(mob/M)
+			..()
+			if(istype(M,/mob/))
+				if(M==Owner||M.name==src.name)
+					return
+				else
+					if(src.AttackDelay)
+						return
+					if(M.knockedout)
+						walk(src,0);return
+					src.AttackDelay=1;flick("Attack",src);src.Attacking(M,1)
+					if(prob(src.DoubleStrike*10))
+						src.Attacking(M,1)
+					sleep(11-src.Swift);src.AttackDelay=0;return
+mob/proc
+	SpiderSummon()
+		if(src.Status=="Asleep"||src.intank||src.Guarding||src.DoingHandseals||src.doingG||src.Kaiten||src.resting||src.meditating||src.sphere||src.ingat||src.firing||src.FrozenBind!=""&&src.FrozenBind!="Spider Web"||src.doingG||src.Chidorion||src.Rasenganon)
+			return
+		src.icon_state="handseal"
+		src.ChakraDrain(30000-(src.SpiderMastery*100))
+		spawn(10)
+			var/obj/SmokeCloud/S=new();S.loc=src.loc
+			var/mob/NPC/KumojinSpider/A=new();A.loc=src.loc;A.Owner=src;A.tai=src.SpiderMastery;src.icon_state=""
+	Kumosouiki()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			var/ChakraLoss=10
+			src.chakra-=ChakraLoss
+			src<<"You place down a Spider Web, anyone touching it will automatically alert you."
+	KumoshibariZ()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			src.ChakraDrain(5000);var/obj/Jutsu/Spider/webshot/K=new();K.name="[src]";K.loc=locate(src.x,src.y,src.z);K.dir=src.dir;K.Owner=src;K.JutsuLevel=1;walk(K,src.dir)
+	KumosoukaZ()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			src.ChakraDrain(10000);var/i=5
+			while(i>0)
+				var/obj/Jutsu/Spider/webshot/F=new();F.JutsuLevel=1;F.name="[src]";F.loc=locate(src.x,src.y,src.z);F.dir=src.dir;F.Owner=src
+				if(i==4) F.dir = turn(F.dir,45);step(F,F.dir);F.dir=src.dir
+				if(i==3) F.dir = turn(F.dir,-45);step(F,F.dir);F.dir = src.dir
+				if(i==2) F.dir = turn(F.dir,45)
+				if(i==1) F.dir = turn(F.dir,-45)
+				walk(F,F.dir);i --
+			return
+	NenkinNoYoroi()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			src.NenkinOn=1;var/I='Icons/New Base/Base.dmi';I += rgb(138,104,0);src.Oicon=src.icon;src.icon=I;src.overlays+='Icons/New Base/EyesClosed.dmi';src.ChakraDrain(20000)
+			spawn(130+src.GoldenSpike)
+				src.NenkinOn=0;src<<"The armor wears off!";src.icon=usr.Oicon;src.overlays-='Icons/New Base/EyesClosed.dmi'
+	NenkinShoot()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			src.ChakraDrain(15000)
+			var/obj/Jutsu/Spider/kunai/K=new();K.name="[src]";K.loc = locate(src.x,src.y,src.z);K.dir=src.dir;K.Owner=src;K.JutsuLevel=1
+			walk(K,src.dir)
+	Kumosenkyuu()
+		if(src.Kumosenkyuu)
+			src<<"You take back in the bow.";src.Kumosenkyuu=0;src.Frozen=0;src.Normal()
+			usr.overlays-= /obj/Jutsu/Spider/bow;usr.underlays-= /obj/Jutsu/Spider/bowU
+			return
+		if(src.firing||src.Kaiten||src.Frozen)
+			return
+		else
+			src.ChakraDrain(20000);src<<"You harden your webbing into a bow!";oview(8,src)<<"<b>[src] hardens his webbing into a bow!</b>";src.Kumosenkyuu=1;src.Face()
+			usr.overlays+=new /obj/Jutsu/Spider/bow;usr.underlays+=new /obj/Jutsu/Spider/bowU
+			usr<<"Attack to shoot arrows, while it's on you cannot move, but you can change directions."
+
+	GiantWebMaze()
+		if(src.firing||src.Kaiten)
+			return
+		else
+			Webdelay=0
+			src.ChakraDrain(30000)
+			var/obj/Jutsu/Spider/web/A=new();A.loc=locate(src.x,src.y,src.z);A.name="[src]";A.Owner=src;A.CanBind=0;
+			src.Frozen=1;
+			var/X=1
+			while(X<14)
+				for(var/turf/D in oview(X,src))
+					if(!(D in oview(X-1)))
+						var/obj/Jutsu/Spider/web/B=new();B.loc=D;B.name="[src]";B.Owner=src;B.CanBind=0;
+				sleep(1)
+				X++
+			src.Frozen=0;
+			usr<<"You form a Spider web field."
+			usr<<"Click the web fields to cause them to bind"
+			src.MazeG=1;
+			while(src.MazeG==1)
+				Webdelay--
+				sleep(1)

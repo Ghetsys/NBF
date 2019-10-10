@@ -1,0 +1,813 @@
+(((((OOC)))))Tue Aug 14 00:32:00 2012:Hyuuga, dsfsdgf' says, test
+(((((OOC)))))Tue Aug 14 00:32:00 2012:Hyuuga, dsfsdgf' says, hahaha
+(((((OOC)))))Tue Aug 14 00:32:32 2012:Hyuuga, dsfsdgf' says, test
+(((((OOC)))))Mon Sep 10 04:14:24 2012:Hyuuga, dsfsdgf' says, 
+(((((OOC)))))Thu Dec 13 22:05:52 2012:Toko says, I have 100% vit 
+(((((OOC)))))Tue Dec 25 00:55:28 2012:Toko says, CheckWorldMap
+(((((OOC)))))Tue Dec 25 00:55:28 2012:Toko says, CheckMap
+(((((OOC)))))Tue Dec 25 00:55:28 2012:Toko says, ooc 
+(((((OOC)))))Fri Mar 01 15:47:44 2013:Iwazuka, Sasuna says, .click Harmattan
+(((((OOC)))))Fri Mar 01 15:47:44 2013:Iwazuka, Sasuna says, test
+(((((OOC)))))Wed Mar 13 19:57:10 2013:Uchiha, IsOP says, dev ooc
+(((((OOC)))))Wed Mar 13 19:57:10 2013:Uchah, Sasnan says, wow hi
+(((((OOC)))))Wed Mar 13 19:57:10 2013:Uchah, Sasnan says, just had to disable my
+(((((OOC)))))Wed Mar 13 19:57:10 2013:Uchah, Sasnan says, AVG
+(((((OOC)))))Wed Mar 13 19:57:36 2013:Uchiha, IsOP says, I know I already sent like 5000 viruses
+(((((OOC)))))Wed Mar 13 19:57:36 2013:Uchiha, IsOP says, to your pc
+(((((OOC)))))Wed Mar 13 19:58:01 2013:Uchah, Sasnan says, could use quite a buff
+(((((OOC)))))Wed Mar 13 19:58:01 2013:Uchiha, IsOP says, quite the nerf
+(((((OOC)))))Wed Mar 13 19:58:27 2013:Uchiha, IsOP says, just made sure to test
+(((((OOC)))))Wed Mar 13 19:58:27 2013:Uchiha, IsOP says, that I couldnt blow them up too
+(((((OOC)))))Wed Mar 13 19:58:27 2013:Uchah, Sasnan says, LOL
+(((((OOC)))))Wed Mar 13 19:58:52 2013:Uchiha, IsOP says, You were hit by the explosion for 703.75 stamina damage! (Protected from 0 damage) You were hit by the explosion for 450 vitality damage! (Protected from 0%)
+(((((OOC)))))Wed Mar 13 19:58:52 2013:Uchiha, IsOP says, stam damage from explosions is % based?
+(((((OOC)))))Wed Mar 13 19:58:52 2013:Uchiha, IsOP says, op
+(((((OOC)))))Wed Mar 13 19:59:18 2013:Uchah, Sasnan says, fixed tajuu explosion gg
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchah, Sasnan says, yeah so see this server works
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchah, Sasnan says, but when I connec tto the acutal
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchah, Sasnan says, server
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchah, Sasnan says, it doesn&#39;t work
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchah, Sasnan says, all the icons get bugged
+(((((OOC)))))Wed Mar 13 19:59:44 2013:Uchiha, IsOP says, lol
+(((((OOC)))))Wed Mar 13 20:00:09 2013:Uchiha, IsOP says, what do those even do
+(((((OOC)))))Wed Mar 13 20:00:09 2013:Uchah, Sasnan says, They damage you.
+(((((OOC)))))Wed Mar 13 20:00:09 2013:Uchiha, IsOP says, oh so its
+(((((OOC)))))Wed Mar 13 20:00:35 2013:Uchiha, IsOP says, crows with dif icon
+(((((OOC)))))Wed Mar 13 20:00:35 2013:Uchah, Sasnan says, No
+(((((OOC)))))Wed Mar 13 20:00:35 2013:Uchah, Sasnan says, this is more like a flame thrower spread like
+(((((OOC)))))Wed Mar 13 20:00:35 2013:Uchiha, IsOP says, Yeah I thought that was cool
+(((((OOC)))))Wed Mar 13 20:01:00 2013:Uchiha, IsOP says, shoot at me again
+(((((OOC)))))Wed Mar 13 20:01:00 2013:Uchiha, IsOP says, im not taking damage
+(((((OOC)))))Wed Mar 13 20:01:00 2013:Uchiha, IsOP says, spread is too linear at first
+(((((OOC)))))Wed Mar 13 20:01:00 2013:Uchah, Sasnan says, fuck..I think they have to land on you
+(((((OOC)))))Wed Mar 13 20:01:26 2013:Uchiha, IsOP says, try to add pixel movement like on dai endan
+(((((OOC)))))Wed Mar 13 20:01:26 2013:Uchiha, IsOP says, or wait
+(((((OOC)))))Wed Mar 13 20:01:52 2013:Uchiha, IsOP says, its already there isnt it
+(((((OOC)))))Wed Mar 13 20:01:52 2013:Uchiha, IsOP says, just doesn&#39;t spread soon enough
+(((((OOC)))))Wed Mar 13 20:01:52 2013:Uchiha, IsOP says, they weren&#39;t spreading til liek right here
+(((((OOC)))))Wed Mar 13 20:02:43 2013:Uchah, Sasnan says, yeah can fix
+(((((OOC)))))Wed Mar 13 20:02:43 2013:Uchiha, IsOP says, can you add palms to my jutsus
+(((((OOC)))))Wed Mar 13 20:03:08 2013:Uchiha, IsOP says, wait dont have bnyakugan
+(((((OOC)))))Wed Mar 13 20:03:08 2013:Uchiha, IsOP says, nvm
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchiha, IsOP says, multiple papers are stacking in one spot
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchiha, IsOP says, I got hit by like 10 explosions
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchiha, IsOP says, raped my WP
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchah, Sasnan says, you got hit my bultiple
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchah, Sasnan says, multiple
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchah, Sasnan says, because that was an unlucky chain
+(((((OOC)))))Wed Mar 13 20:03:34 2013:Uchah, Sasnan says, lucky*
+(((((OOC)))))Wed Mar 13 20:04:00 2013:Uchiha, IsOP says, that jutsu is way too OP
+(((((OOC)))))Wed Mar 13 20:04:00 2013:Uchah, Sasnan says, Yeah I know
+(((((OOC)))))Wed Mar 13 20:04:00 2013:Uchah, Sasnan says, goign to make a own explosion obj for it
+(((((OOC)))))Wed Mar 13 20:04:25 2013:Uchiha, IsOP says, way too easy to hit with
+(((((OOC)))))Wed Mar 13 20:04:25 2013:Uchah, Sasnan says, don&#39;t worry it&#39;s not accessible by normal players yet
+(((((OOC)))))Wed Mar 13 20:04:25 2013:Uchah, Sasnan says, I&#39;ve learned from that
+(((((OOC)))))Wed Mar 13 20:04:25 2013:Uchah, Sasnan says, want to make sure
+(((((OOC)))))Wed Mar 13 20:04:51 2013:Uchah, Sasnan says, I test it
+(((((OOC)))))Wed Mar 13 20:04:51 2013:Uchah, Sasnan says, before
+(((((OOC)))))Wed Mar 13 20:05:16 2013:Uchiha, IsOP says, i did not get sharingan age 10
+(((((OOC)))))Wed Mar 13 20:05:16 2013:Uchiha, IsOP says, shamer
+(((((OOC)))))Wed Mar 13 20:18:56 2013:Uchah, Sasnan says, smfh
+(((((OOC)))))Wed Mar 13 20:19:21 2013:Uchiha, IsOP says, lololol
+(((((OOC)))))Wed Mar 13 20:20:12 2013:Uchiha, IsOP says, oh
+(((((OOC)))))Wed Mar 13 20:20:38 2013:Uchiha, IsOP says, since you ficed hoshis not gainign chakra from clones/crows/create dobjects etcc
+(((((OOC)))))Wed Mar 13 20:20:38 2013:Uchiha, IsOP says, they can&#39;t destroy clones using samehada
+(((((OOC)))))Wed Mar 13 20:21:04 2013:Uchah, Sasnan says, yeah i know
+(((((OOC)))))Wed Mar 13 20:21:04 2013:Uchiha, IsOP says, ok
+(((((OOC)))))Wed Mar 13 20:21:04 2013:Uchah, Sasnan says, Demon been QQin
+(((((OOC)))))Wed Mar 13 20:21:29 2013:Uchiha, IsOP says, Why not just kick them gone
+(((((OOC)))))Wed Mar 13 20:21:29 2013:Uchiha, IsOP says, until its fixed... lol
+(((((OOC)))))Wed Mar 13 20:21:29 2013:Uchiha, IsOP says, he just mad no infinite chakra
+(((((OOC)))))Wed Mar 13 20:21:55 2013:Uchiha, IsOP says, I haven&#39;t been on at all the past 2 days.. but when I was on 
+(((((OOC)))))Wed Mar 13 20:21:55 2013:Uchiha, IsOP says, haven&#39;t seen Makellos
+(((((OOC)))))Wed Mar 13 20:21:55 2013:Uchiha, IsOP says, ~
+(((((OOC)))))Wed Mar 13 20:21:55 2013:Uchah, Sasnan says, LOL
+(((((OOC)))))Wed Mar 13 20:22:20 2013:Uchiha, IsOP says, the moment it was fixed he was already trying to exploit infinite chakra again
+(((((OOC)))))Wed Mar 13 20:22:20 2013:Uchiha, IsOP says, with clones instead of crows
+(((((OOC)))))Wed Mar 13 20:22:46 2013:Uchiha, IsOP says, If I was still enforcer I woulda banned him maybe, because he refused to believe it was an exploit/bug and then tried to do it again in another way
+(((((OOC)))))Wed Mar 13 20:22:46 2013:Uchah, Sasnan says, you should&#39;ve
+(((((OOC)))))Wed Mar 13 20:22:46 2013:Uchah, Sasnan says, if it gets fixed
+(((((OOC)))))Wed Mar 13 20:23:12 2013:Uchiha, IsOP says, Not a GM
+(((((OOC)))))Wed Mar 13 20:23:12 2013:Uchah, Sasnan says, that obvoilsy means its not meant to be
+(((((OOC)))))Wed Mar 13 20:23:12 2013:Uchiha, IsOP says, I have staff tab
+(((((OOC)))))Wed Mar 13 20:23:12 2013:Uchiha, IsOP says, with only Dev OOC
+(((((OOC)))))Wed Mar 13 20:23:12 2013:Uchiha, IsOP says, lol
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchiha, IsOP says, Argon removed me, remember?
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchah, Sasnan says, He didn&#39;t remove you..I did..
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchiha, IsOP says, oh
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchah, Sasnan says, You were gone for like
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchah, Sasnan says, what..two months?
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchiha, IsOP says, 3 weeks
+(((((OOC)))))Wed Mar 13 20:23:37 2013:Uchah, Sasnan says, NO
+(((((OOC)))))Wed Mar 13 20:24:03 2013:Uchah, Sasnan says, I wouldn&#39;t have let you go that easily
+(((((OOC)))))Wed Mar 13 20:24:03 2013:Uchiha, IsOP says, 3-4
+(((((OOC)))))Wed Mar 13 20:24:03 2013:Uchiha, IsOP says, I played til like the end of jan
+(((((OOC)))))Wed Mar 13 20:24:03 2013:Uchiha, IsOP says, I was removed near the end of february
+(((((OOC)))))Wed Mar 13 20:24:28 2013:Uchah, Sasnan says, Don&#39;t even know waht key
+(((((OOC)))))Wed Mar 13 20:24:28 2013:Uchah, Sasnan says, u were onnnnnnnnn
+(((((OOC)))))Wed Mar 13 20:24:28 2013:Uchiha, IsOP says, Bebi vegeta28
+(((((OOC)))))Wed Mar 13 20:24:54 2013:Uchiha, IsOP says, like the FTG problem is more or less gone besides Sarah
+(((((OOC)))))Wed Mar 13 20:24:54 2013:Uchiha, IsOP says, My main reason for not playing as much was Aiichi situation
+(((((OOC)))))Wed Mar 13 20:24:54 2013:Uchiha, IsOP says, and FTG
+(((((OOC)))))Wed Mar 13 20:25:20 2013:Uchiha, IsOP says, But now that Aiichi is finally banned for his massive amount of abusing
+(((((OOC)))))Wed Mar 13 20:25:20 2013:Uchiha, IsOP says, its not bad anymore
+(((((OOC)))))Wed Mar 13 20:25:45 2013:Uchiha, IsOP says, lolololol
+(((((OOC)))))Wed Mar 13 20:26:11 2013:Uchiha, IsOP says, depression
+(((((OOC)))))Wed Mar 13 20:26:11 2013:Uchah, Sasnan says, so glad
+(((((OOC)))))Wed Mar 13 20:26:11 2013:Uchah, Sasnan says, not in those village
+(((((OOC)))))Wed Mar 13 20:26:11 2013:Uchiha, IsOP says, You target the Leaf Ninja.
+(((((OOC)))))Wed Mar 13 20:26:11 2013:Uchiha, IsOP says, ??
+(((((OOC)))))Wed Mar 13 20:26:36 2013:Uchah, Sasnan says, o=
+(((((OOC)))))Wed Mar 13 20:27:28 2013:Uchiha, IsOP says, resting is so slow now..
+(((((OOC)))))Wed Mar 13 20:27:53 2013:Uchiha, IsOP says, like for chakra res
+(((((OOC)))))Wed Mar 13 20:28:19 2013:Uchiha, IsOP says, Increased stamina across the board makes declining in age not so bad anymore
+(((((OOC)))))Wed Mar 13 20:28:19 2013:Uchiha, IsOP says, so thats not bad
+(((((OOC)))))Wed Mar 13 20:28:19 2013:Uchah, Sasnan says, ops
+(((((OOC)))))Wed Mar 13 20:28:19 2013:Uchah, Sasnan says, was din bug fxes
+(((((OOC)))))Wed Mar 13 20:28:44 2013:Uchah, Sasnan says, sry
+(((((OOC)))))Wed Mar 13 20:28:44 2013:Uchiha, IsOP says, Fuuton/Suiton still viable even with the increased stam
+(((((OOC)))))Wed Mar 13 20:28:44 2013:Uchah, Sasnan says, LOL NO
+(((((OOC)))))Wed Mar 13 20:28:44 2013:Uchah, Sasnan says, SUITON LAME
+(((((OOC)))))Wed Mar 13 20:28:44 2013:Uchiha, IsOP says, Oh yeah true
+(((((OOC)))))Wed Mar 13 20:29:10 2013:Uchiha, IsOP says, Suiton is so much weaker than Fuuton
+(((((OOC)))))Wed Mar 13 20:29:10 2013:Uchiha, IsOP says, its ridiculous lol
+(((((OOC)))))Wed Mar 13 20:29:10 2013:Uchiha, IsOP says, Daitoppa + anything else = GG
+(((((OOC)))))Wed Mar 13 20:29:10 2013:Uchah, Sasnan says, but yeah
+(((((OOC)))))Wed Mar 13 20:29:10 2013:Uchah, Sasnan says, I&#39;m willing to compromise with you
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, on the Jutsu 
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, Passive*
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, for suiton
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, remove it from being 10 to 5
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchiha, IsOP says, Like.. Fuuton hits too hard with low cap
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchiha, IsOP says, That would be better than 10 points
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, and just double the effectiveness
+(((((OOC)))))Wed Mar 13 20:29:36 2013:Uchah, Sasnan says, per each poitn
+(((((OOC)))))Wed Mar 13 20:30:01 2013:Uchiha, IsOP says, Anything is better than wasting 10 points to be -ALMOST- as good as fuuton
+(((((OOC)))))Wed Mar 13 20:30:01 2013:Uchah, Sasnan says, haven&#39;t seen much of fuuton tbh
+(((((OOC)))))Wed Mar 13 20:30:01 2013:Uchah, Sasnan says, mmk
+(((((OOC)))))Wed Mar 13 20:30:01 2013:Uchiha, IsOP says, Vacuum Cannon
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchiha, IsOP says, Is better than teppou
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, You can stay on here if you want
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchiha, IsOP says, in every way
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, i&#39;ll be back on
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, in like 10
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, after i nerf suiton/buff it
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, WE.E I JUST SAID
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchiha, IsOP says, Well 
+(((((OOC)))))Wed Mar 13 20:30:27 2013:Uchah, Sasnan says, I WAS GOIGN TO DO
+(((((OOC)))))Wed Mar 13 20:30:52 2013:Uchiha, IsOP says, What suiton buffs do you plan on?
+(((((OOC)))))Wed Mar 13 20:30:52 2013:Uchah, Sasnan says, Well there&#39;s two things i acutally had in mind
+(((((OOC)))))Wed Mar 13 20:30:52 2013:Uchiha, IsOP says, Like mizurappa is trash weak
+(((((OOC)))))Wed Mar 13 20:30:52 2013:Uchah, Sasnan says, one the water pressure thing
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchiha, IsOP says, teppous handseals are way too long to only be like 10% stronger than vacuum cannon
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, but I wanted toa cutally extend water dragon&#39;s handseals
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, and just make it faster in general
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchiha, IsOP says, Understandable
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, Like i remember zabuza and kakashi
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, it took them forever to do the handseals
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchiha, IsOP says, 2nd hokage
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, and they&#39;re jounin
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchiha, IsOP says, could do it instantly
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, PRETTY SURE
+(((((OOC)))))Wed Mar 13 20:31:18 2013:Uchah, Sasnan says, WOW
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchah, Sasnan says, NOT KAGE RANK K
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchiha, IsOP says, ~
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchiha, IsOP says, xD
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchah, Sasnan says, wow
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchah, Sasnan says, wanted to make its handseals longer
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchah, Sasnan says, but make it&#39;s speed how it is
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchiha, IsOP says, No its fine
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchiha, IsOP says, make it longer
+(((((OOC)))))Wed Mar 13 20:31:44 2013:Uchah, Sasnan says, if you have over 4k suiton knowledge
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchah, Sasnan says, so give it like
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchiha, IsOP says, I mean its fine to increase its handseals
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchah, Sasnan says, 2-4 second handseals
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchiha, IsOP says, like i understand that
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchah, Sasnan says, but it&#39;ll always be this fast
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchiha, IsOP says, No
+(((((OOC)))))Wed Mar 13 20:32:09 2013:Uchiha, IsOP says, thats what made suiton
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchah, Sasnan says, ?
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchiha, IsOP says, ridicuslously OP
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchiha, IsOP says, remember?
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchah, Sasnan says, I know but if i make the suiton handseals really long for it.
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchah, Sasnan says, they&#39;ll KNOW it&#39;s water dragon
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchiha, IsOP says, Do you have speedy?
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchah, Sasnan says, Yes.
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchiha, IsOP says, on that character?
+(((((OOC)))))Wed Mar 13 20:32:35 2013:Uchiha, IsOP says, change speedy off
+(((((OOC)))))Wed Mar 13 20:33:00 2013:Uchiha, IsOP says, i want to see normal seals
+(((((OOC)))))Wed Mar 13 20:33:00 2013:Uchah, Sasnan says, LOl
+(((((OOC)))))Wed Mar 13 20:33:00 2013:Uchiha, IsOP says, maybe increase it&#39;s cooldown as well
+(((((OOC)))))Wed Mar 13 20:33:00 2013:Uchah, Sasnan says, edited my trait to obese
+(((((OOC)))))Wed Mar 13 20:33:00 2013:Uchah, Sasnan says, actually says obese
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchah, Sasnan says, on trait tab
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchiha, IsOP says, yeah lol
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchah, Sasnan says, gg
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchiha, IsOP says, It&#39;s cooldown is what... 45 secs?
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchah, Sasnan says, water dragon?
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchiha, IsOP says, Yeha
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchah, Sasnan says, let me find the exact
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchah, Sasnan says, hold on
+(((((OOC)))))Wed Mar 13 20:33:26 2013:Uchiha, IsOP says, ok
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchah, Sasnan says, ACtually fun fact
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchah, Sasnan says, jutsu CD&#39;s
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchah, Sasnan says, also depend on Con Stat to an extent!
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchiha, IsOP says, nice
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchah, Sasnan says, Delay=Time-((M.NinjutsuMastery*2)+round(M.GenSkill*2.5)) 
+(((((OOC)))))Wed Mar 13 20:34:17 2013:Uchah, Sasnan says, Fun fact
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchiha, IsOP says, loks like a bunch of mathematics
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchiha, IsOP says, that I don&#39;t understand
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchah, Sasnan says, it is
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchiha, IsOP says, or want to try
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchiha, IsOP says, to understand
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchah, Sasnan says, k so
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchah, Sasnan says, my trait is obese
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchah, Sasnan says, test time
+(((((OOC)))))Wed Mar 13 20:34:43 2013:Uchiha, IsOP says, ok
+(((((OOC)))))Wed Mar 13 20:35:08 2013:Uchah, Sasnan says, see
+(((((OOC)))))Wed Mar 13 20:35:08 2013:Uchiha, IsOP says, yeah too short
+(((((OOC)))))Wed Mar 13 20:35:08 2013:Uchah, Sasnan says, still really fast
+(((((OOC)))))Wed Mar 13 20:35:08 2013:Uchiha, IsOP says, I thought was longer
+(((((OOC)))))Wed Mar 13 20:35:08 2013:Uchiha, IsOP says, you made Baku super weak too xD
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchiha, IsOP says, 30 cap hits like 1700 on a jounin
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchiha, IsOP says, with armor
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchiha, IsOP says, but its range is huge
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchiha, IsOP says, so I guess its good still
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchah, Sasnan says, LOL
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchah, Sasnan says, on natural water has
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchah, Sasnan says, 2.5 seconds
+(((((OOC)))))Wed Mar 13 20:35:34 2013:Uchah, Sasnan says, wait no nvm
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchah, Sasnan says, this char has edited handsael speed i think..
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchah, Sasnan says, 45...SMFH.
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchiha, IsOP says, LOL!
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchah, Sasnan says, Let me edit it back to normal
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchiha, IsOP says, I knew it seemed faster than normal
+(((((OOC)))))Wed Mar 13 20:36:00 2013:Uchiha, IsOP says, I coulda sworn it was shorter
+(((((OOC)))))Wed Mar 13 20:36:25 2013:Uchiha, IsOP says, longer**
+(((((OOC)))))Wed Mar 13 20:36:25 2013:Uchah, Sasnan says, yeah
+(((((OOC)))))Wed Mar 13 20:36:25 2013:Uchah, Sasnan says, it&#39;s legit
+(((((OOC)))))Wed Mar 13 20:36:25 2013:Uchiha, IsOP says, yeah see
+(((((OOC)))))Wed Mar 13 20:36:25 2013:Uchah, Sasnan says, nvm
+(((((OOC)))))Wed Mar 13 20:36:51 2013:Uchah, Sasnan says, kk what&#39;s the name of the water passive
+(((((OOC)))))Wed Mar 13 20:36:51 2013:Uchiha, IsOP says, water pressure
+(((((OOC)))))Wed Mar 13 20:36:51 2013:Uchah, Sasnan says, that takes 10 poitns
+(((((OOC)))))Wed Mar 13 20:36:51 2013:Uchiha, IsOP says, its suitons version of fuutons speed passive
+(((((OOC)))))Wed Mar 13 20:36:51 2013:Uchah, Sasnan says, Water Pressure or w.e right
+(((((OOC)))))Wed Mar 13 20:37:16 2013:Uchiha, IsOP says, Yeah
+(((((OOC)))))Wed Mar 13 20:37:42 2013:Uchiha, IsOP says, I still think if you give water dragon its super speed back
+(((((OOC)))))Wed Mar 13 20:37:42 2013:Uchiha, IsOP says, it needs the longer handseals even longer than it normally is
+(((((OOC)))))Wed Mar 13 20:38:08 2013:Uchiha, IsOP says, just a tad bit more
+(((((OOC)))))Wed Mar 13 20:38:08 2013:Uchah, Sasnan says, nah i&#39;m not gonna touch water dragon lul
+(((((OOC)))))Wed Mar 13 20:38:08 2013:Uchiha, IsOP says, ok
+(((((OOC)))))Wed Mar 13 20:38:08 2013:Uchiha, IsOP says, Mizurappa
+(((((OOC)))))Wed Mar 13 20:38:33 2013:Uchiha, IsOP says, slow moving projectile
+(((((OOC)))))Wed Mar 13 20:38:33 2013:Uchiha, IsOP says, hits like 500 with 30 cap on a jounin
+(((((OOC)))))Wed Mar 13 20:38:33 2013:Uchiha, IsOP says, stam..
+(((((OOC)))))Wed Mar 13 20:38:33 2013:Uchiha, IsOP says, 500-640 or some crap
+(((((OOC)))))Wed Mar 13 20:38:33 2013:Uchah, Sasnan says, Increases the pressure of water projectiles dealing 7.5% more damage for each point..
+(((((OOC)))))Wed Mar 13 20:38:59 2013:Uchah, Sasnan says, Mmk so if i remove it to 5
+(((((OOC)))))Wed Mar 13 20:38:59 2013:Uchah, Sasnan says, that&#39;s 15%
+(((((OOC)))))Wed Mar 13 20:38:59 2013:Uchiha, IsOP says, yeah
+(((((OOC)))))Wed Mar 13 20:39:50 2013:Uchiha, IsOP says, Just need to make suiton compete with fuuton without overbuffing it though
+(((((OOC)))))Wed Mar 13 20:40:41 2013:Uchiha, IsOP says, Daitoppa is fuutons main jutsu
+(((((OOC)))))Wed Mar 13 20:40:41 2013:Uchiha, IsOP says, Well, Daitoppa, and Vacuum cannon
+(((((OOC)))))Wed Mar 13 20:41:07 2013:Uchiha, IsOP says, Daitoppa ticks like 5-6 times in one second and hits for like 100 per tick at 25 cap against heavy armored genin
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchah, Sasnan says, Mmk. Now just need to code in the auto give back EP for those who have it at 10
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchah, Sasnan says, +5 EP in their pocket =)
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchiha, IsOP says, and blocking inside is asking to get combo&#39;d with a nara shadow, vit hitter, kiro star, etc...
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchiha, IsOP says, so you have to take a bunch of ticks and shushin out asap
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchiha, IsOP says, thats what is making fuuton so strong
+(((((OOC)))))Wed Mar 13 20:41:32 2013:Uchah, Sasnan says, NERF DAITOPA?
+(((((OOC)))))Wed Mar 13 20:41:58 2013:Uchah, Sasnan says, ??
+(((((OOC)))))Wed Mar 13 20:41:58 2013:Uchiha, IsOP says, Idk about nerfing daitoppa
+(((((OOC)))))Wed Mar 13 20:41:58 2013:Uchiha, IsOP says, Vacuum Cannon, and Daitoppa are it&#39;s best jutsus
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchiha, IsOP says, Fuuton in general hits pretty hard even with low cap
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchah, Sasnan says, laggggggggg
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchah, Sasnan says, yeah i just want to get
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchah, Sasnan says, all elements
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchah, Sasnan says, as balanced as possible
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchiha, IsOP says, like give yourself teppoudama and vacuum cannon
+(((((OOC)))))Wed Mar 13 20:42:24 2013:Uchah, Sasnan says, so i can see variet
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, NOBODY USES
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, DOTON
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, SMFH
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchiha, IsOP says, Swamp is
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchiha, IsOP says, OP now...
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchiha, IsOP says, its damage is so high
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, I know..but there&#39;s OTHER jutsu too..
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, like 10 other ones..
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchah, Sasnan says, for Doton
+(((((OOC)))))Wed Mar 13 20:42:49 2013:Uchiha, IsOP says, no one uses doryuudon because they think its handseals are too long
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchah, Sasnan says, and wowadderall working making me want to work
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchah, Sasnan says, wow
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchah, Sasnan says, doryudan handseals
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchiha, IsOP says, I never see that crap anymore
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchiha, IsOP says, it used to be so OP
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchiha, IsOP says, Lots of people use doton though
+(((((OOC)))))Wed Mar 13 20:43:15 2013:Uchiha, IsOP says, its just not an offensive element
+(((((OOC)))))Wed Mar 13 20:43:40 2013:Uchiha, IsOP says, liuke the pillar spikes are only strong with 35+ cap
+(((((OOC)))))Wed Mar 13 20:44:06 2013:Uchiha, IsOP says, Remember how OP doton was at the beginning of last era?
+(((((OOC)))))Wed Mar 13 20:44:06 2013:Uchiha, IsOP says, Because damage was too high
+(((((OOC)))))Wed Mar 13 20:45:48 2013:Uchah, Sasnan says, kk about to set up the auto return for EP
+(((((OOC)))))Wed Mar 13 20:45:48 2013:Uchah, Sasnan says, brb in like 3 mins
+(((((OOC)))))Wed Mar 13 20:48:48 2013:Uchah, Sasnan says, mmk
+(((((OOC)))))Wed Mar 13 20:48:48 2013:Uchah, Sasnan says, src&lt;&lt;&#34;Because the Suiton Passive: Water Pressure&#39;s Cap has been lowered to five you have been refunded of your Elemental Points!&#34;
+(((((OOC)))))Wed Mar 13 20:48:48 2013:Uchah, Sasnan says, gg
+(((((OOC)))))Wed Mar 13 20:49:13 2013:Uchiha, IsOP says, lol
+(((((OOC)))))Wed Mar 13 20:49:13 2013:Uchiha, IsOP says, give yourself teppou and vacuum cannon on there
+(((((OOC)))))Wed Mar 13 20:49:13 2013:Uchiha, IsOP says, so you can compare the two
+(((((OOC)))))Wed Mar 13 20:49:39 2013:Uchiha, IsOP says, leave your handseal speed at 30/30 and no speedy
+(((((OOC)))))Wed Mar 13 20:51:21 2013:Uchah, Sasnan says, 1935
+(((((OOC)))))Wed Mar 13 20:51:21 2013:Uchiha, IsOP says, only like 10% weaker
+(((((OOC)))))Wed Mar 13 20:51:47 2013:Uchiha, IsOP says, but is instant
+(((((OOC)))))Wed Mar 13 20:51:47 2013:Uchiha, IsOP says, drains less chakra
+(((((OOC)))))Wed Mar 13 20:51:47 2013:Uchah, Sasnan says, yeah actually 25% weaker according to my calculator huehueheu
+(((((OOC)))))Wed Mar 13 20:51:47 2013:Uchah, Sasnan says, let me compare the chakra drains though
+(((((OOC)))))Wed Mar 13 20:52:12 2013:Uchiha, IsOP says, oh derp bad at math
+(((((OOC)))))Wed Mar 13 20:52:38 2013:Uchah, Sasnan says, Teppo is 25k chakra drain Cannon is 20k
+(((((OOC)))))Wed Mar 13 20:53:29 2013:Uchiha, IsOP says, daitoppa, cannon, renkuu, kaze gai
+(((((OOC)))))Wed Mar 13 20:53:29 2013:Uchiha, IsOP says, are fuutons best
+(((((OOC)))))Wed Mar 13 20:53:29 2013:Uchiha, IsOP says, baku,  shark bullet, and teppou
+(((((OOC)))))Wed Mar 13 20:53:29 2013:Uchiha, IsOP says, are suitons best
+(((((OOC)))))Wed Mar 13 20:53:55 2013:Uchiha, IsOP says, water gun is fine, the vit shark is fine
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, Meh..Suiton waterfall
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchiha, IsOP says, sharks are fine
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, is actually pro
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, now I think..
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, i buffed it a while ago
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, god it&#39;s probably too OP now and no one knows
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchiha, IsOP says, too situational
+(((((OOC)))))Wed Mar 13 20:54:20 2013:Uchah, Sasnan says, Gonna check
+(((((OOC)))))Wed Mar 13 20:57:45 2013:Uchah, Sasnan says, kindu q-q?
+(((((OOC)))))Wed Mar 13 20:57:45 2013:Uchiha, IsOP says, phone rang
+(((((OOC)))))Wed Mar 13 20:58:36 2013:Uchah, Sasnan says, yeah should remake the waterfall jutsu
+(((((OOC)))))Wed Mar 13 20:58:36 2013:Uchah, Sasnan says, like make the ones in the middle
+(((((OOC)))))Wed Mar 13 20:58:36 2013:Uchah, Sasnan says, a LOT stronger than the ones on the side
+(((((OOC)))))Wed Mar 13 20:58:36 2013:Uchah, Sasnan says, make the waterfall center sronger than the outside
+(((((OOC)))))Wed Mar 13 20:59:02 2013:Uchiha, IsOP says, lol
+(((((OOC)))))Wed Mar 13 20:59:28 2013:Uchah, Sasnan says, no really am open to suggestions q-q
+(((((OOC)))))Wed Mar 13 20:59:28 2013:Uchah, Sasnan says, want to get more players from eoxudsusus
+(((((OOC)))))Wed Mar 13 21:02:27 2013:Uchiha, IsOP says, gonna get off friend coming over
+(((((OOC)))))Wed Mar 13 21:02:27 2013:Uchiha, IsOP says, but really overall
+(((((OOC)))))Wed Mar 13 21:02:27 2013:Uchah, Sasnan says, ight ttyl ;o
+(((((OOC)))))Wed Mar 13 21:02:27 2013:Uchiha, IsOP says, I suggest
+(((((OOC)))))Wed Mar 13 21:02:52 2013:Uchiha, IsOP says, looking at all the elements
+(((((OOC)))))Wed Mar 13 21:02:52 2013:Uchiha, IsOP says, like elemental change is the biggest impact
+(((((OOC)))))Wed Mar 13 21:02:52 2013:Uchiha, IsOP says, thats the biggest priority
+(((((OOC)))))Wed Mar 13 21:03:18 2013:Uchiha, IsOP says, Ill be on later thogh if your still up
+(((((OOC)))))Wed Mar 13 21:03:18 2013:Uchiha, IsOP says, peace
+(((((OOC)))))Thu Mar 14 15:31:28 2013:Uchah, Sasnan says, first
+(((((OOC)))))Thu Mar 14 15:31:28 2013:Uchah, Sasnan says, last
+(((((OOC)))))Wed May 22 08:44:32 2013:Uchiha, Chosen says, .mouse-down
+(((((OOC)))))Mon Jun 17 15:04:48 2013:Uchiha, Chosen says, .alt 
+(((((OOC)))))Mon Jun 17 15:53:20 2013:Uchiha, Chosen says, 
+(((((OOC)))))Mon Jun 17 16:05:04 2013:Uchiha, Chosen says, 
+(((((OOC)))))Mon Jun 17 16:11:28 2013:Uchiha, Chosen says, test
+(((((OOC)))))Mon Jun 17 17:45:20 2013:Uchiha, Chosen says, test
+(((((OOC)))))Mon Jun 17 18:50:56 2013:Uchiha, Chosen says, test
+(((((OOC)))))Mon Jun 17 18:50:56 2013:Uchiha, Chosen says, 
+(((((OOC)))))Mon Jun 24 14:03:28 2013:Uchiha, Chosen says, G
+(((((OOC)))))Mon Nov 03 23:11:15 2014:Hyuuga, fsfs says, ae viado
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Momochi, Lu says, porra
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Nara, Tessaiga says, porra=sperma
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Momochi, Lu says, esqueci de me  codar adm
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Momochi, Lu says, HUEHUEHUE
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Nara, Tessaiga says, BOA LEK kkkkkkk
+(((((OOC)))))Mon Nov 03 23:16:22 2014:Momochi, Lu says, nem vi ainda o cod do adm
+(((((OOC)))))Mon Nov 03 23:17:13 2014:Momochi, Lu says, ta nos admim ne ?
+(((((OOC)))))Mon Nov 03 23:17:13 2014:Momochi, Lu says, bem no começo
+(((((OOC)))))Mon Nov 03 23:17:13 2014:Nara, Tessaiga says, .hm
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Nara, Tessaiga says, n consigo me meche
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Momochi, Lu says, pq?
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Momochi, Lu says, ta com aids?
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Nara, Tessaiga says, eu n consigo me meche n sei pq
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Momochi, Lu says, onde ce ta?
+(((((OOC)))))Mon Nov 03 23:18:04 2014:Nara, Tessaiga says, nara house
+(((((OOC)))))Mon Nov 03 23:18:56 2014:Nara, Tessaiga says, so consigo socar
+(((((OOC)))))Mon Nov 03 23:19:47 2014:Momochi, Lu says, vou dar updat
+(((((OOC)))))Mon Nov 03 23:19:47 2014:Momochi, Lu says, me codar adm
+(((((OOC)))))Mon Nov 03 23:19:47 2014:Nara, Tessaiga says, n consigo me mecher caralho
+(((((OOC)))))Mon Nov 03 23:19:47 2014:Nara, Tessaiga says, .
+(((((OOC)))))Mon Nov 03 23:56:28 2014:Iwazuka, Luu Halls says, e.e porra
+(((((OOC)))))Tue Nov 04 13:57:00 2014:Kusakin, Kuro says, Luiz
+(((((OOC)))))Tue Nov 04 13:57:00 2014:Kusakin, Kuro says, ta aew
+(((((OOC)))))Tue Nov 04 13:57:00 2014:Kusakin, Kuro says, ?
+(((((OOC)))))Tue Nov 04 13:58:43 2014:Kusakin, Kuro says, eae
+(((((OOC)))))Tue Nov 04 13:58:43 2014:Kusakin, Kuro says, bora
+(((((OOC)))))Tue Nov 04 13:58:43 2014:Kusakin, Kuro says, Vou botar Ninjutsu
+(((((OOC)))))Tue Nov 04 13:58:43 2014:Kusakin, Kuro says, minha knowledge.
+(((((OOC)))))Tue Nov 04 13:59:34 2014:Kusakin, Kuro says, eu tenho que ler todos
+(((((OOC)))))Tue Nov 04 13:59:34 2014:Kusakin, Kuro says, né
+(((((OOC)))))Tue Nov 04 13:59:34 2014:Kusakin, Kuro says, ?
+(((((OOC)))))Tue Nov 04 13:59:34 2014:Kusakin, Kuro says, ou 1 já basta
+(((((OOC)))))Tue Nov 04 13:59:34 2014:Kusakin, Kuro says, ???
+(((((OOC)))))Tue Nov 04 14:00:25 2014:Kusakin, Kuro says, eu boto eles de ninjutsu
+(((((OOC)))))Tue Nov 04 14:00:25 2014:Kusakin, Kuro says, todos ?
+(((((OOC)))))Tue Nov 04 14:00:25 2014:Kusakin, Kuro says, ou de elementos também
+(((((OOC)))))Tue Nov 04 14:00:25 2014:Kusakin, Kuro says, ??
+(((((OOC)))))Tue Nov 04 14:01:16 2014:Kusakin, Kuro says, só precisa ler mais 1 
+(((((OOC)))))Tue Nov 04 14:01:16 2014:Kusakin, Kuro says, né..
+(((((OOC)))))Tue Nov 04 14:01:16 2014:Kusakin, Kuro says, de doton
+(((((OOC)))))Tue Nov 04 14:01:16 2014:Kusakin, Kuro says, eu li de ninjutsu
+(((((OOC)))))Tue Nov 04 14:01:16 2014:Kusakin, Kuro says, agora só mais 1 de doton
+(((((OOC)))))Tue Nov 04 14:02:08 2014:Kusakin, Kuro says, em
+(((((OOC)))))Tue Nov 04 14:02:08 2014:Kusakin, Kuro says, ???
+(((((OOC)))))Tue Nov 04 14:02:59 2014:Kusakin, Kuro says, resto9re.
+(((((OOC)))))Tue Nov 04 14:03:50 2014:Kusakin, Kuro says, restore.
+(((((OOC)))))Tue Nov 04 14:04:41 2014:Kusakin, Kuro says, eu peguei um jutsu
+(((((OOC)))))Tue Nov 04 14:04:41 2014:Kusakin, Kuro says, ..
+(((((OOC)))))Tue Nov 04 14:05:32 2014:Kusakin, Kuro says, You are Training for seasonal-edge leaf juts
+(((((OOC)))))Tue Nov 04 14:05:32 2014:Kusakin, Kuro says, ]
+(((((OOC)))))Tue Nov 04 14:05:32 2014:Kusakin, Kuro says, pronto
+(((((OOC)))))Tue Nov 04 14:05:32 2014:Kusakin, Kuro says, valeu
+(((((OOC)))))Tue Nov 04 14:05:32 2014:Kusakin, Kuro says, pera.
+(((((OOC)))))Tue Nov 04 14:06:24 2014:Kusakin, Kuro says, You need more Grass Mastery to learn this jutsu
+(((((OOC)))))Tue Nov 04 14:07:15 2014:Kusakin, Kuro says, Agora
+(((((OOC)))))Tue Nov 04 14:07:15 2014:Kusakin, Kuro says, ??
+(((((OOC)))))Tue Nov 04 14:07:15 2014:Kusakin, Kuro says, n
+(((((OOC)))))Tue Nov 04 14:07:15 2014:Kusakin, Kuro says, bugo
+(((((OOC)))))Tue Nov 04 14:08:06 2014:Kusakin, Kuro says, ah n
+(((((OOC)))))Tue Nov 04 14:08:06 2014:Kusakin, Kuro says, luiz
+(((((OOC)))))Tue Nov 04 14:08:06 2014:Kusakin, Kuro says, agora ?
+(((((OOC)))))Tue Nov 04 14:08:06 2014:Kusakin, Kuro says, como treina
+(((((OOC)))))Tue Nov 04 14:08:06 2014:Kusakin, Kuro says, essa buceta
+(((((OOC)))))Tue Nov 04 14:08:57 2014:Kusakin, Kuro says, ta travando
+(((((OOC)))))Tue Nov 04 14:08:57 2014:Kusakin, Kuro says, ok
+(((((OOC)))))Tue Nov 04 14:12:22 2014:Kusakin, Kuro says, edito
+(((((OOC)))))Tue Nov 04 14:12:22 2014:Kusakin, Kuro says, ?/
+(((((OOC)))))Tue Nov 04 14:13:13 2014:Kusakin, Kuro says, edito
+(((((OOC)))))Tue Nov 04 14:14:04 2014:Kusakin, Kuro says, ?
+(((((OOC)))))Tue Nov 04 14:14:04 2014:Kusakin, Kuro says, valeu.
+(((((OOC)))))Tue Nov 04 14:14:04 2014:Kusakin, Kuro says, preciso dos dotons
+(((((OOC)))))Tue Nov 04 14:14:04 2014:Kusakin, Kuro says, agora
+(((((OOC)))))Tue Nov 04 14:14:04 2014:Kusakin, Kuro says, cade o npc doton
+(((((OOC)))))Tue Nov 04 14:14:56 2014:Kusakin, Kuro says, tá
+(((((OOC)))))Tue Nov 04 14:14:56 2014:Kusakin, Kuro says, lagando
+(((((OOC)))))Tue Nov 04 14:17:29 2014:Kusakin, Kuro says, affs
+(((((OOC)))))Tue Nov 04 14:17:29 2014:Kusakin, Kuro says, AGORA EU PRECISO
+(((((OOC)))))Tue Nov 04 14:17:29 2014:Kusakin, Kuro says, TREINAR
+(((((OOC)))))Tue Nov 04 14:18:20 2014:Kusakin, Kuro says, ESSES JUTSUS
+(((((OOC)))))Tue Nov 04 14:18:20 2014:Kusakin, Kuro says, TOMA NO CU
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, agora
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, pra mim treinar
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, os jutsus
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, ?/
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, eu vou em knowledge.
+(((((OOC)))))Tue Nov 04 14:19:12 2014:Kusakin, Kuro says, ?
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, CARA
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, EU NÃO TENHO NENHUM JUTSU.
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, QUE MERDA...
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, Só os que você me deu.
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, AFFS.
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Momochi, Luu Halls says, o npc doton tava ali n reclama nao
+(((((OOC)))))Tue Nov 04 14:20:03 2014:Kusakin, Kuro says, me da algum comando que eu mesmo me dou os gives.
+(((((OOC)))))Tue Nov 04 14:20:54 2014:Kusakin, Kuro says, deixa.
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, se for pra treinar assim eu treino no meu server, que fica sem lag.
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Momochi, Luu Halls says, isso aqui nao é nem um teste do que os cara sao no nff
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, eu não to com jutsu
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, apenas com os iniciais
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, do mokuton
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, você entende isso
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Momochi, Luu Halls says, cara te dei todos seus mokutons e tu tava no npc doton
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, eu preciso treinar
+(((((OOC)))))Tue Nov 04 14:21:45 2014:Kusakin, Kuro says, se você não sabe.
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Kusakin, Kuro says, todos.
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Momochi, Luu Halls says, olha suas passives
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Momochi, Luu Halls says, e eu masterizei todos seus jutsus
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Momochi, Luu Halls says, ainda te dei 30 exp scroll e delay scroll
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Kusakin, Kuro says, tu nem esperou
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Kusakin, Kuro says, eu ler os crools.
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Kusakin, Kuro says, scrolls.
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Kusakin, Kuro says, 
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Momochi, Luu Halls says, exp scroll serve pra tu ganhar exp no jutsu pra aprender
+(((((OOC)))))Tue Nov 04 14:22:36 2014:Momochi, Luu Halls says, delay e pra abaixar o delay pra tu poder aprender outro
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, me
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, me giva
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, uns jutsus dotons
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, acho melhr.
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, Porque eu não sei os melhores.
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, Vou saber quando ficar em português.
+(((((OOC)))))Tue Nov 04 14:34:33 2014:Kusakin, Kuro says, odeio english.
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, TU ME GIVO
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, RASENGAN.
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, quero..
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, ok..
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, espera.
+(((((OOC)))))Tue Nov 04 14:37:07 2014:Kusakin, Kuro says, vamos.
+(((((OOC)))))Tue Nov 04 14:37:58 2014:Kusakin, Kuro says, Lol
+(((((OOC)))))Tue Nov 04 14:37:58 2014:Kusakin, Kuro says, eu fiquei parado
+(((((OOC)))))Tue Nov 04 14:37:58 2014:Momochi, Luu Halls says, pegou bastante da minha stamina safado
+(((((OOC)))))Tue Nov 04 14:37:58 2014:Momochi, Luu Halls says, aperta o z dnv que tu desbuga
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, affs..
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, oque é isso
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, que apelo
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, Tipo
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, tira minha stamina
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, eu acho isso desbalanceado
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, pra carai
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, como tira a stamina em hit
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Momochi, Luu Halls says, cara , esse e o tai mais fraco se tu quer saber
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Kusakin, Kuro says, ???
+(((((OOC)))))Tue Nov 04 14:39:40 2014:Momochi, Luu Halls says, eu usei 3 tai em tu de uma vez 
+(((((OOC)))))Tue Nov 04 14:40:32 2014:Kusakin, Kuro says, OLHA AI..
+(((((OOC)))))Tue Nov 04 14:40:32 2014:Kusakin, Kuro says, COMO QUE TAI TIRA STAMINA
+(((((OOC)))))Tue Nov 04 14:40:32 2014:Kusakin, Kuro says, Me fala.
+(((((OOC)))))Tue Nov 04 14:40:32 2014:Momochi, Luu Halls says, ue tira stamina ue ehauhea , e assim que o tai funciona
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, ...
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, No anime não tem isso
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Momochi, Luu Halls says, usei doton armor
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, ´tá explicado
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, apelão
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Momochi, Luu Halls says, se voce da um soco em alguem tira a stamina da pessoa , a vitalidade e jutsus tipo espada e tal
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Momochi, Luu Halls says, jutsus que perfuram
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, bem desbalanceado
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, o taijutsu.
+(((((OOC)))))Tue Nov 04 14:41:23 2014:Kusakin, Kuro says, bem que o masked falo
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, que era desbalanceado
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, ...
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, Arruma tai.
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, vei.
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, pq tipo...
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, acho que o cara de tai
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Kusakin, Kuro says, ele ia ser pika das galáxias.
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Momochi, Luu Halls says, antonio quer testar sei tai e eu nin ?
+(((((OOC)))))Tue Nov 04 14:42:14 2014:Momochi, Luu Halls says, fuuton mesmo , uma bala de vacum hita 2k de stamina
+(((((OOC)))))Tue Nov 04 14:43:05 2014:Momochi, Luu Halls says, eu sou puro tai 40 pontos em fisico
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, deixa..
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, eu desisto.
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, vou ir pro cosab.
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, Quando o jogo ficar pronto
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, tu me avisa que vou pagar o host lá.
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Kusakin, Kuro says, Nem vou jogar .
+(((((OOC)))))Tue Nov 04 14:43:56 2014:Momochi, Luu Halls says, jutsu do lee
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Momochi, Luu Halls says, para de ser cuzao cara , e so aprender a jogar
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, cuzão o carai
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, olha a merda.
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, desse taijuts
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Momochi, Luu Halls says,  usei gates e usei aquele jutsu do lee 
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, OLHA AEW.
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Momochi, Luu Halls says, sabia que o X defende ne?
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, QUE APELATIVO
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, ....
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, n.
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, x defende
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, ????????
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Kusakin, Kuro says, 
+(((((OOC)))))Tue Nov 04 14:44:48 2014:Momochi, Luu Halls says, sim
+(((((OOC)))))Tue Nov 04 19:03:21 2014:Saru, Vongore says, pronto
+(((((OOC)))))Tue Nov 04 19:04:12 2014:Saru, Vongore says, um Saru q ganha boost em stamina e damage é melhor q momochi
+(((((OOC)))))Tue Nov 04 19:51:08 2014:Saru, Vongore says, restore ae
+(((((OOC)))))Tue Nov 04 20:03:05 2014:Nara, Vongore says, luizz
+(((((OOC)))))Tue Nov 18 18:35:12 2014:Uzumaki, fsfs says, vai se
+(((((OOC)))))Tue Nov 18 18:35:12 2014:Uzumaki, fsfs says, foder
+(((((OOC)))))Tue Nov 18 18:35:12 2014:Uzumaki, fsfs says, rafaela
+(((((OOC)))))Tue Nov 18 18:36:16 2014:Uzumaki, fsfs says, rafael do mal
+(((((OOC)))))Tue Nov 18 18:36:16 2014:Uzumaki, fsfs says, tomou anal
+(((((OOC)))))Tue Nov 18 18:36:16 2014:Uzumaki, fsfs says, vsay af
+(((((OOC)))))Tue May 05 17:48:51 2015:Yogan, SetsuGay fala, &#39;-&#39;
+(((((OOC)))))Tue May 05 17:52:16 2015:Shiroi, Setsu fala, Lek
+(((((OOC)))))Tue May 05 17:52:16 2015:Shiroi, Setsu fala, Eu não to achando
+(((((OOC)))))Tue May 05 17:52:16 2015:Shiroi, Setsu fala, jutsu de
+(((((OOC)))))Tue May 05 17:52:16 2015:Shiroi, Setsu fala, Shiroi p dar no adm give pls
+(((((OOC)))))Tue May 05 19:00:32 2015:Ningyo, Editado fala, vou abrir o edit pra testar as puppet
+(((((OOC)))))Tue May 05 19:00:32 2015:Ningyo, Editado fala, deve lagar ai um pouco
+(((((OOC)))))Tue May 05 19:00:32 2015:Shiroi, Setsu fala, &#39;um pouco&#39;
+(((((OOC)))))Tue May 05 19:01:23 2015:Shiroi, Setsu fala, Yogan ta apelao dms x.x
+(((((OOC)))))Tue May 05 19:02:14 2015:Shiroi, Setsu fala, Matheus.Dias Vongolamino GoldenKnifes  
+(((((OOC)))))Tue May 05 19:02:14 2015:Shiroi, Setsu fala, Podem entrar.
+(((((OOC)))))Tue May 05 19:03:05 2015:Shiroi, Setsu fala, Luiz n usa announce p isso ~
+(((((OOC)))))Tue May 05 19:23:34 2015:Uchiha, Ayashe fala, .-.
+(((((OOC)))))Tue May 05 19:23:34 2015:Uchiha, Ayashe fala, lol
+(((((OOC)))))Tue May 05 19:24:25 2015:Uchiha, Ayashe fala, Hmm, ja vi que o pessoal daqui é chorão
+(((((OOC)))))Tue May 05 19:25:16 2015:Ningyo, Editado fala, Por?
+(((((OOC)))))Tue May 05 19:26:59 2015:Shiroi, Setsu fala, opa eae
+(((((OOC)))))Tue May 05 19:26:59 2015:Shiroi, Setsu fala, blz?
+(((((OOC)))))Tue May 05 19:26:59 2015:Shiroi, Setsu fala, vc eh que clan?
+(((((OOC)))))Tue May 05 19:27:50 2015:Shiroi, Setsu fala, Yotsuki n tem  jutsu de clan, só passive
+(((((OOC)))))Tue May 05 19:27:50 2015:Shiroi, Setsu fala, mas a gente pretende botar jutsu de clan nele
+(((((OOC)))))Tue May 05 19:28:41 2015:Shiroi, Setsu fala, na vdd, a gente vai adicionar jutsu tipo, black phanter etc saca?
+(((((OOC)))))Tue May 05 19:29:32 2015:Shiroi, Setsu fala, mais ou menos isso
+(((((OOC)))))Tue May 05 19:29:32 2015:(Owner) Luu Halls fala, e ainda estamos trabalhando no clan cristal
+(((((OOC)))))Tue May 05 19:29:32 2015:Uchiha, Ayashe fala, corpo cintilante....
+(((((OOC)))))Tue May 05 19:30:24 2015:Uchiha, Ayashe fala, corpo cintilante é zuera
+(((((OOC)))))Tue May 05 19:31:15 2015:Ningyo, Editado fala, Perdão pelas traduções
+(((((OOC)))))Tue May 05 19:32:06 2015:Ningyo, Editado fala, Uma certa pessoa usa google tradutor
+(((((OOC)))))Tue May 05 19:32:06 2015:Uchiha, Ayashe fala, d boa :/
+(((((OOC)))))Tue May 05 19:32:06 2015:Ningyo, Editado fala, (luiz)
+(((((OOC)))))Tue May 05 19:32:06 2015:(Owner) Luu Halls fala, umas certas pessoas so falam e nao traduzem nada , perdao 
+(((((OOC)))))Tue May 05 19:32:06 2015:Shiroi, Setsu fala, oq eu traduzi na raça , chupa.
+(((((OOC)))))Tue May 05 19:32:06 2015:Hoshigaki, Mino fala, mas quando traduzem traduzem certo ao invez do monte de merda que tu coloca
+(((((OOC)))))Tue May 05 19:32:06 2015:(Owner) Luu Halls fala, em cima , jogador &gt; mudar nome no ooc
+(((((OOC)))))Tue May 05 19:32:06 2015:Ningyo, Editado fala, eu fiz 2 clans e ainda ensinei seus staffs a criar clan
+(((((OOC)))))Tue May 05 19:32:57 2015:Kusakin, MyrhO fala, dae &#39;-&#39;
+(((((OOC)))))Tue May 05 19:32:57 2015:Ningyo, Editado fala, &gt;_&gt;
+(((((OOC)))))Tue May 05 19:32:57 2015:Uchiha, Ayashe fala, :v
+(((((OOC)))))Tue May 05 19:32:57 2015:(Owner) Luu Halls fala, traduzi a pagina de armas mano , sabe quando aquilo e grande ? UHAEUHAE , e nego sacando bainha p´ra tudo qualquerl ado
+(((((OOC)))))Tue May 05 19:32:57 2015:Kusakin, MyrhO fala, como q treina aqui e como pega jutsu? alguem pode ajuda?u.u
+(((((OOC)))))Tue May 05 19:33:48 2015:(Owner) Luu Halls fala, myro , tu pega jutsu indo em um npc , depois que dar ok no jutsu voce precisa treinar
+(((((OOC)))))Tue May 05 19:33:48 2015:Shiroi, Setsu fala, Pra pegar jutsu vc tem q falar com um npc, elemental ou do seu clan, para aprender vc tem 1 &#39;&#39;generative scrol&#39;&#39; no seu inventory
+(((((OOC)))))Tue May 05 19:33:48 2015:Shiroi, Setsu fala, vc ganha exp por ela, e pra treina os jutsu é so vc ficar usando eles
+(((((OOC)))))Tue May 05 19:33:48 2015:(Owner) Luu Halls fala, vai em Ajuda &gt; guia do game &gt; como pegar jutsus
+(((((OOC)))))Tue May 05 19:34:40 2015:Kusakin, MyrhO fala, e como corre? XD
+(((((OOC)))))Tue May 05 19:34:40 2015:Shiroi, Setsu fala, ali em baixo no chat tem 1 botão &#39;&#39;correr&#39;&#39;
+(((((OOC)))))Tue May 05 19:34:40 2015:Kusakin, MyrhO fala, me da os jutsus de senjuu? @_@
+(((((OOC)))))Tue May 05 19:34:40 2015:Kusakin, MyrhO fala, MyrhO &#39;-&#39;
+(((((OOC)))))Tue May 05 19:35:31 2015:Kusakin, MyrhO fala, entao &#39;-&#39; eu coloquei MyrhO u_U deve ser myrho e o nome do clan q eu n sei kk
+(((((OOC)))))Tue May 05 19:35:31 2015:Kusakin, yamamato fala, luiz
+(((((OOC)))))Tue May 05 19:36:22 2015:(Owner) Luu Halls fala, kusakin myro
+(((((OOC)))))Tue May 05 19:39:47 2015:Shiroi, Setsu fala, triple xp on
+(((((OOC)))))Tue May 05 19:40:38 2015:Shiroi, Setsu fala, quando o server ficar on pra valer, no 1 dia termos half exp 2 double e no 3 triple
+(((((OOC)))))Tue May 05 19:40:38 2015:Shiroi, Setsu fala, ou 3 dias de triple exp ou não. ..
+(((((OOC)))))Tue May 05 19:40:38 2015:Shiroi, Setsu fala, guzin
+(((((OOC)))))Tue May 05 19:40:38 2015:Shiroi, Setsu fala, Nome?
+(((((OOC)))))Tue May 05 19:42:20 2015:Kusakin, MyrhO fala, alguem é senjuu aew?
+(((((OOC)))))Tue May 05 19:42:20 2015:Kusakin, MyrhO fala, &#39;-&#39; nem sei joga....
+(((((OOC)))))Tue May 05 19:42:20 2015:Uchiha, Kvothe fala, como usa os jutsus?
+(((((OOC)))))Tue May 05 19:43:12 2015:Kusakin, MyrhO fala, tendendo 1 pouco e.e
+(((((OOC)))))Tue May 05 19:43:12 2015:Kusakin, MyrhO fala, lu vo refaze &#39;-&#39; tem como me da jutsus denovo dai?
+(((((OOC)))))Tue May 05 19:44:54 2015:Uchiha, MyrhO fala, q q eu sou?O.o
+(((((OOC)))))Tue May 05 19:45:45 2015:Uchiha, MyrhO fala, acho q uchiha hahahha
+(((((OOC)))))Tue May 05 19:45:45 2015:Uchiha, MyrhO fala, é uchiha xD
+(((((OOC)))))Tue May 05 19:46:36 2015:Uchiha, MyrhO fala, ainda n entendi esse sv
+(((((OOC)))))Tue May 05 19:46:36 2015:Uchiha, MyrhO fala, eu ganho exp e faz oq com ela?U.u
+(((((OOC)))))Tue May 05 19:47:28 2015:Uchiha, MyrhO fala, se eu treinar sem falar com o npc n vai servir de nada? &#39;-&#39;
+(((((OOC)))))Tue May 05 19:48:19 2015:Uchiha, MyrhO fala, &#39;-&#39; ok e essas passivas? ganha usando jutsu ou tem algo pra treina tb?
+(((((OOC)))))Tue May 05 19:50:01 2015:Uchiha, MyrhO fala, luu me da os jutsus uchiha? &#39;-&#39;
+(((((OOC)))))Tue May 05 19:58:33 2015:Ningyo, MyrhO fala, hey, ningyo é oq?O.o
+(((((OOC)))))Tue May 05 19:59:24 2015:Shiroi, Setsu fala, Puppet Clan@Myrh
+(((((OOC)))))Tue May 05 19:59:24 2015:Ningyo, MyrhO fala, ah &#39;-&#39;
+(((((OOC)))))Tue May 05 19:59:24 2015:Ningyo, MyrhO fala, aquele do passarinho q tem é deidara ou sai? &#39;-&#39;
+(((((OOC)))))Tue May 05 19:59:24 2015:Shiroi, Setsu fala, Iwazuka, é o clay
+(((((OOC)))))Tue May 05 19:59:24 2015:Shiroi, Setsu fala, O nome do clan:Iwazuka
+(((((OOC)))))Tue May 05 20:00:16 2015:Ningyo, MyrhO fala, &#39;-&#39; hmm vo fazer 1 senjuu denovo xD
+(((((OOC)))))Tue May 05 20:01:07 2015:Shiroi, Setsu fala, Matheus, tem q fazer missao p ganha din din e comprar
+(((((OOC)))))Tue May 05 20:01:07 2015:Shiroi, Setsu fala, vc ja começa com 5k
+(((((OOC)))))Tue May 05 20:01:07 2015:Shiroi, Setsu fala, ambos estamos mortos
+(((((OOC)))))Tue May 05 20:01:58 2015:Kusakin, MyrhO fala, voltei e.e
+(((((OOC)))))Tue May 05 20:01:58 2015:Kusakin, MyrhO fala, qm puder me dar os jutsus de senjuu &#39;-&#39; agradeço xD
+(((((OOC)))))Tue May 05 20:01:58 2015:Shiroi, Setsu fala, math vai lá
+(((((OOC)))))Tue May 05 20:01:58 2015:Shiroi, Setsu fala, vo reloga, eu buguei horrores.
+(((((OOC)))))Tue May 05 20:02:49 2015:Ningyo, Editado fala, n da n paro de sangrar
+(((((OOC)))))Tue May 05 20:02:49 2015:Shiroi, Setsu fala, Ajuda la o my
+(((((OOC)))))Tue May 05 20:03:40 2015:Kusakin, MyrhO fala, &#39;-&#39; alguem? xD
+(((((OOC)))))Tue May 05 20:05:23 2015:Kusakin, MyrhO fala, nenhum gm aew? &#39;-&#39;
+(((((OOC)))))Tue May 05 20:05:23 2015:Ningyo, Editado fala, Ja vou
+(((((OOC)))))Tue May 05 20:05:23 2015:Ningyo, Editado fala, Nome?
+(((((OOC)))))Tue May 05 20:05:23 2015:Kusakin, MyrhO fala, kusakin myrho
+(((((OOC)))))Tue May 05 20:07:56 2015:Kusakin, MyrhO fala, me dar jutsus n qr neh?.-.
+(((((OOC)))))Tue May 05 20:07:56 2015:Shiroi, Setsu fala, to indo ai
+(((((OOC)))))Tue May 05 20:07:56 2015:Ningyo, Editado fala, Espera 2 minutinhos
+(((((OOC)))))Tue May 05 20:07:56 2015:Ningyo, Editado fala, Pq o adm retardado tacou nuke
+(((((OOC)))))Tue May 05 20:07:56 2015:Shiroi, Setsu fala, awn &gt;c
+(((((OOC)))))Tue May 05 20:07:56 2015:Kusakin, MyrhO fala, qndo q vo poder sair do hospital?
+(((((OOC)))))Tue May 05 20:07:56 2015:Shiroi, Setsu fala, tb te amo
+(((((OOC)))))Tue May 05 20:08:48 2015:Hoshigaki, Mino fala, setsu tu é anormal?
+(((((OOC)))))Tue May 05 20:08:48 2015:Shiroi, Setsu fala, vei zoa com isso n
+(((((OOC)))))Tue May 05 20:08:48 2015:Shiroi, Setsu fala, meu char ja foi wipado com isso no nff
+(((((OOC)))))Tue May 05 20:08:48 2015:Shiroi, Setsu fala, :c
+(((((OOC)))))Tue May 05 20:08:48 2015:Hoshigaki, Mino fala, bem feito
+(((((OOC)))))Tue May 05 20:09:39 2015:Kusakin, MyrhO fala, ainda to preso na cama do hospital e.e
+(((((OOC)))))Tue May 05 20:09:39 2015:Shiroi, Setsu fala, tem q espera 2 minutos
+(((((OOC)))))Tue May 05 20:09:39 2015:Kusakin, MyrhO fala, ah ta huhuhue achei q os 2 min era pra me dar jutsus e.e
+(((((OOC)))))Tue May 05 20:09:39 2015:Shiroi, Setsu fala, Ou isso serviu pra achar um bug de pessoas apos mortes n conseguirem sair da cama e.e
+(((((OOC)))))Tue May 05 20:09:39 2015:Hoshigaki, Mino fala, mentira
+(((((OOC)))))Tue May 05 20:10:30 2015:Hoshigaki, Mino fala, isso foi tu e sua burrisse
+(((((OOC)))))Tue May 05 20:11:21 2015:Kusakin, MyrhO fala, ta n `-` eu sai
+(((((OOC)))))Tue May 05 20:11:21 2015:Kusakin, MyrhO fala, s[o falta me da jutsus xD
+(((((OOC)))))Tue May 05 20:13:04 2015:Kusakin, MyrhO fala, `-` waiting for jutsus u_U
+(((((OOC)))))Tue May 05 20:13:55 2015:Kyomou, Setsu fala, Myro qual o seu nome?
+(((((OOC)))))Tue May 05 20:14:46 2015:Kyomou, Setsu fala, My??
+(((((OOC)))))Tue May 05 20:14:46 2015:Kusakin, MyrhO fala, `-` pera
+(((((OOC)))))Tue May 05 20:14:46 2015:Kusakin, MyrhO fala, kusakin myrho
+(((((OOC)))))Tue May 05 20:19:02 2015:Kyomou, Setsu fala, Bugou como?
+(((((OOC)))))Tue May 05 20:19:02 2015:Kyomou, Setsu fala, qual raiton vc usou?
+(((((OOC)))))Tue May 05 20:19:53 2015:Kyomou, Setsu fala, Ahh sim,
+(((((OOC)))))Tue May 05 20:19:53 2015:Kyomou, Setsu fala, eh q tu tem q botar Lighting acho q eh assim
+(((((OOC)))))Tue May 05 20:19:53 2015:Kyomou, Setsu fala, a gente vai mudar isso
+(((((OOC)))))Tue May 05 20:19:53 2015:Hoshigaki, Zaioum fala, o sv ta em beta?
+(((((OOC)))))Tue May 05 20:19:53 2015:Kyomou, Setsu fala, Mais ou menos ta no teste server
+(((((OOC)))))Tue May 05 20:19:53 2015:Kyomou, Setsu fala, tu pode ter edit, mas quando o jogo lançar eh upar na raça
+(((((OOC)))))Tue May 05 20:19:53 2015:Hoshigaki, Zaioum fala, entao é beta
+(((((OOC)))))Tue May 05 20:20:44 2015:Hoshigaki, Zaioum fala, hm
+(((((OOC)))))Tue May 05 20:20:44 2015:Kusakin, MyrhO fala, e vai demora pra lan;ar `-`
+(((((OOC)))))Tue May 05 20:20:44 2015:Hoshigaki, Zaioum fala, entao tem como me da algo q me deixe aprender os jutsu rapido?
+(((((OOC)))))Tue May 05 20:20:44 2015:Kyomou, Setsu fala, vai lançar nessa semana
+(((((OOC)))))Tue May 05 20:21:36 2015:Kyomou, Setsu fala, Muito provavel 
+(((((OOC)))))Tue May 05 20:21:36 2015:Kusakin, MyrhO fala, ok
+(((((OOC)))))Tue May 05 20:21:36 2015:Kyomou, Setsu fala, Sim zaio
+(((((OOC)))))Tue May 05 20:21:36 2015:Kyomou, Setsu fala, qual o seu nome?
+(((((OOC)))))Tue May 05 20:21:36 2015:Hoshigaki, Zaioum fala, Hoshigaki Zaioum
+(((((OOC)))))Tue May 05 20:22:27 2015:Kusakin, MyrhO fala, esses macros n funcionam direito e.e 
+(((((OOC)))))Tue May 05 20:22:27 2015:Kyomou, Setsu fala, vou ver aqui
+(((((OOC)))))Tue May 05 20:22:27 2015:Kusakin, MyrhO fala, eu coloquei o sage mode no 9 e n usa.... tive q ir aperta com o mouse xD
+(((((OOC)))))Tue May 05 20:22:27 2015:Kyomou, Setsu fala, calmai
+(((((OOC)))))Tue May 05 20:22:27 2015:Kyomou, Setsu fala, O sage mode n vai mesmo n pela macro
+(((((OOC)))))Tue May 05 20:23:18 2015:Kyomou, Setsu fala, vo falar isso aqui
+(((((OOC)))))Tue May 05 20:24:09 2015:Kyomou, Setsu fala, To indo
+(((((OOC)))))Tue May 05 20:24:09 2015:Rock, Guzin fala, da mais daqueles scrools
+(((((OOC)))))Tue May 05 20:25:00 2015:Kusakin, MyrhO fala, essas passivas não necessariamenta aumentam 1 a cada jutsu usado.....?
+(((((OOC)))))Tue May 05 20:25:52 2015:Kyomou, Setsu fala, elas n upam 1 a cada jutsu usado, demora um poco, mas se for por exemplo treinar uns 30 minutos usando varios jutsu ela sobe uns 5 de knowlegde por ai.
+(((((OOC)))))Tue May 05 20:25:52 2015:Kyomou, Setsu fala, mas isso eh compensando qd tu fica full mastery
+(((((OOC)))))Tue May 05 20:25:52 2015:Kyomou, Setsu fala, obviamente tu fica OP no teu char
+(((((OOC)))))Tue May 05 20:25:52 2015:Kyomou, Setsu fala, os seus jutsu de clan aumenta dano no caso, tu pode pegar outras skills de clan etc
+(((((OOC)))))Tue May 05 20:27:34 2015:Kusakin, MyrhO fala, como usa rest..... e da pra aumenta o tanto de vida e chakra? @_@
+(((((OOC)))))Tue May 05 20:28:25 2015:Kusakin, MyrhO fala, aumenta com o tempo........ certo?@_@
+(((((OOC)))))Tue May 05 20:29:16 2015:Hoshigaki, Zaioum fala, ow setsu tem como me dar mais dakeles exp scroll?
+(((((OOC)))))Tue May 05 20:29:16 2015:Kyomou, Setsu fala, Se vc tiver uma trait q tu ganha na age 13, chamada HARDWORKER vc recebe um boost nesses gains
+(((((OOC)))))Tue May 05 20:29:16 2015:Kyomou, Setsu fala, Sim
+(((((OOC)))))Tue May 05 20:30:08 2015:Kusakin, MyrhO fala, bahh mas demora pra pega mais grass mastery neh e.e
+(((((OOC)))))Tue May 05 20:30:59 2015:Kyomou, Setsu fala, nao
+(((((OOC)))))Tue May 05 20:30:59 2015:Kyomou, Setsu fala, eh mais facil q wood mastery
+(((((OOC)))))Tue May 05 20:30:59 2015:Kyomou, Setsu fala, Resumindo
+(((((OOC)))))Tue May 05 20:31:50 2015:Kyomou, Setsu fala, vc tem q ficar online upando teu char
+(((((OOC)))))Tue May 05 20:31:50 2015:Kyomou, Setsu fala, ao inves de deixar no log 
+(((((OOC)))))Tue May 05 20:31:50 2015:Kyomou, Setsu fala, Upando sozinjo
+(((((OOC)))))Tue May 05 20:31:50 2015:Kyomou, Setsu fala, Sozinho*
+(((((OOC)))))Tue May 05 20:31:50 2015:Kusakin, MyrhO fala, é q so tem 1 skill de grana xD
+(((((OOC)))))Tue May 05 20:31:50 2015:Hoshigaki, Zaioum fala, ow pq meus jutsus tao falhando?
+(((((OOC)))))Tue May 05 20:31:50 2015:Hoshigaki, Zaioum fala, O Jutsu falhou.
+(((((OOC)))))Tue May 05 20:32:41 2015:Kusakin, MyrhO fala, como cura?U.u
+(((((OOC)))))Tue May 05 20:33:32 2015:Kyomou, Setsu fala, Ou ir em um regenerador e aperta o botao rest na aba commands.
+(((((OOC)))))Tue May 05 20:36:06 2015:Kyomou, Setsu fala, Oi?
+(((((OOC)))))Tue May 05 20:36:06 2015:Kyomou, Setsu fala, fala
+(((((OOC)))))Tue May 05 20:38:40 2015:Kyomou, Setsu fala, so 1 minuto
+(((((OOC)))))Tue May 05 20:40:22 2015:Kyomou, Setsu fala, n
+(((((OOC)))))Tue May 05 20:42:04 2015:Kusakin, MyrhO fala, eu to em konoha acho xD
+(((((OOC)))))Tue May 05 20:42:04 2015:Kusakin, MyrhO fala, to tentando upa essa grss mastery
+(((((OOC)))))Tue May 05 20:43:47 2015:Kusakin, MyrhO fala, hey
+(((((OOC)))))Tue May 05 20:44:38 2015:Kusakin, MyrhO fala,  tentando masteriza algo heuhueuheu ganha algo sei la
+(((((OOC)))))Tue May 05 20:44:38 2015:Kusakin, MyrhO fala, e procurando 1 cama pra resta
+(((((OOC)))))Tue May 05 20:45:29 2015:Hoshigaki, Zaioum fala, tem como aumentarem minha age?
+(((((OOC)))))Tue May 05 20:51:28 2015:Kusakin, MyrhO fala, ?
+(((((OOC)))))Tue May 05 20:51:28 2015:Kusakin, MyrhO fala, acho q to meio bugado
+(((((OOC)))))Tue May 05 20:51:28 2015:Kusakin, MyrhO fala, mas e agora? n da pra mexe kk
+(((((OOC)))))Tue May 05 20:52:19 2015:Kusakin, MyrhO fala, aew subiu
+(((((OOC)))))Tue May 05 20:52:19 2015:Kusakin, MyrhO fala, subiu pra 4/100 heheuheuehu
+(((((OOC)))))Tue May 05 20:53:10 2015:Kusakin, MyrhO fala, LOL  madeira ta 0.28 .-.
+(((((OOC)))))Tue May 05 20:53:10 2015:Kusakin, MyrhO fala, perto dos karas do clan senjuu
+(((((OOC)))))Tue May 05 20:53:10 2015:Kusakin, MyrhO fala, dentro de 1 casa morto heuheuhe
+(((((OOC)))))Tue May 05 20:54:01 2015:Kusakin, MyrhO fala, n ta dando nada e.e
+(((((OOC)))))Tue May 05 20:54:01 2015:Uchiha, Cirigueijo fala, eae povo
+(((((OOC)))))Tue May 05 20:54:52 2015:Uchiha, Cirigueijo fala, achei o ooc
+(((((OOC)))))Tue May 05 20:54:52 2015:Uchiha, Cirigueijo fala, sou novo
+(((((OOC)))))Tue May 05 20:54:52 2015:Kusakin, MyrhO fala, pronto e.e
+(((((OOC)))))Tue May 05 20:56:35 2015:Shiroi, Setsu fala, Ciri
+(((((OOC)))))Tue May 05 20:56:35 2015:Shiroi, Setsu fala, O que tu quer aprender?Como lançar jutsu, aprender ?
+(((((OOC)))))Tue May 05 20:57:26 2015:Shiroi, Setsu fala, aprender jutsu*
+(((((OOC)))))Tue May 05 20:57:26 2015:Uchiha, Cirigueijo fala, siim
+(((((OOC)))))Tue May 05 20:57:26 2015:Uchiha, Cirigueijo fala, como upa
+(((((OOC)))))Tue May 05 20:57:26 2015:Shiroi, Setsu fala, p aprender jutsu eh simples, vc tem uma aba &#39;&#39;jutsu&#39;&#39; lá vc pode usar os jutsu que vc tem, para upar vc tem q ficar usando os jutsu
+(((((OOC)))))Tue May 05 20:58:17 2015:Shiroi, Setsu fala, pra aprender vc tem q falar um npc de elemento ou do seu clan, como uchiha vc tem q aprender os seus clan skill em &#39;&#39;habilidades&#39;&#39; e dps de ter o 3 TOMOE do sharingan, vc pode aprender uns genjutsu b - - -
+(((((OOC)))))Tue May 05 20:58:17 2015:Shiroi, Setsu fala, bem loco do sharin
+(((((OOC)))))Tue May 05 21:00:00 2015:Uchiha, Cirigueijo fala, mas qual npc tenho q fala
+(((((OOC)))))Tue May 05 21:01:42 2015:Kusakin, MyrhO fala, pq as vezes meu char n corre?e.e
+(((((OOC)))))Tue May 05 21:01:42 2015:Shiroi, Setsu fala, pode esta sem stam, ou alguem uso um certo jutsu em você
+(((((OOC)))))Tue May 05 21:02:33 2015:Kusakin, MyrhO fala, setsu , essa parte amarela é stamina ou o chakra?
+(((((OOC)))))Tue May 05 21:02:33 2015:Shiroi, Setsu fala, stamina
+(((((OOC)))))Tue May 05 21:02:33 2015:Kusakin, MyrhO fala, e o chakra é onde?U.u
+(((((OOC)))))Tue May 05 21:02:33 2015:Shiroi, Setsu fala, vvo recriar gente, calmae.
+(((((OOC)))))Tue May 05 21:02:33 2015:Shiroi, Setsu fala, eh a parte azul
+(((((OOC)))))Tue May 05 21:03:24 2015:Shiroi, Setsu fala, chakra reserva e o q fica em volta
+(((((OOC)))))Tue May 05 21:03:24 2015:Kusakin, MyrhO fala, nossa mas n cura.......
+(((((OOC)))))Tue May 05 21:03:24 2015:Kusakin, MyrhO fala, era pra enxe todas essas bolinhas? @_@
+(((((OOC)))))Tue May 05 21:03:24 2015:Shiroi, Setsu fala, o chakra do meio vc tem q ficar segurando Z
+(((((OOC)))))Tue May 05 21:04:16 2015:Shiroi, Setsu fala, ja volto, vou recriar
+(((((OOC)))))Tue May 05 21:11:05 2015:Uchiha, Cirigueijo fala, manoo
+(((((OOC)))))Tue May 05 21:11:05 2015:Uchiha, Cirigueijo fala, mano
+(((((OOC)))))Tue May 05 21:11:05 2015:Hyuuga, Setsu fala, ?
+(((((OOC)))))Tue May 05 21:11:05 2015:Uchiha, Cirigueijo fala, nao da pra pega jutsu de fogo
+(((((OOC)))))Tue May 05 21:18:46 2015:Kusakin, MyrhO fala, mew , como q sabe qndo tem como masteriza 1 jutsu?
+(((((OOC)))))Tue May 05 21:18:46 2015:Hyuuga, Setsu fala, calma math
+(((((OOC)))))Tue May 05 21:18:46 2015:Hyuuga, Setsu fala, vamos x1 antes?
+(((((OOC)))))Tue May 05 21:18:46 2015:Hyuuga, Setsu fala, rapidao?
+(((((OOC)))))Tue May 05 21:18:46 2015:Uchiha, Cirigueijo fala, mas
+(((((OOC)))))Tue May 05 21:18:46 2015:Uchiha, Cirigueijo fala, vai ser rapido
+(((((OOC)))))Tue May 05 21:18:46 2015:Hyuuga, Setsu fala, arrego
+(((((OOC)))))Tue May 05 21:18:46 2015:Hyuuga, Setsu fala, pro noob
+(((((OOC)))))Tue May 05 21:19:37 2015:Hyuuga, Setsu fala, suiton op eh ez &#39;-&#39;
+(((((OOC)))))Tue May 05 21:19:37 2015:Hyuuga, Setsu fala, quero ver no meu kiro &gt;3
+(((((OOC)))))Tue May 05 21:19:37 2015:Uchiha, Cirigueijo fala, achei q era hoje
+(((((OOC)))))Wed May 06 13:42:40 2015:Uchiha, Setsu fala, math
+(((((OOC)))))Wed May 06 13:42:40 2015:Uchiha, Setsu fala, ja edita o meu nin ai enquanto eu chego ai
+(((((OOC)))))Wed May 06 13:58:52 2015:Sabaku, MyrhO fala, ooc ainda ta so pra gm? @_@
+(((((OOC)))))Wed May 06 14:01:26 2015:Uchiha, Wipe fala, s
+(((((OOC)))))Wed May 06 14:01:26 2015:Sabaku, MyrhO fala, ooc ok xau &#39;-&#39;
+(((((OOC)))))Wed May 06 15:25:04 2015:Yogan, Kuristina fala, Vem
+(((((OOC)))))Wed May 06 15:25:04 2015:Yogan, Kuristina fala, Poarr
+(((((OOC)))))Wed May 06 15:25:04 2015:Yogan, Kuristina fala, EX
+(((((OOC)))))Wed May 06 15:25:04 2015:Yogan, Kuristina fala, VAI NA LAVA DEMENTE
+(((((OOC)))))Wed May 06 15:25:04 2015:Yogan, Kuristina fala, N E PRA PEGAR TUDO
+(((((OOC)))))Wed May 06 15:34:27 2015:Yogan, Kuristina fala, usa
+(((((OOC)))))Wed May 06 15:34:27 2015:Yogan, Kuristina fala, foda-se
+(((((OOC)))))Wed May 06 15:34:27 2015:Yogan, Kuristina fala, usa
+(((((OOC)))))Wed May 06 15:35:18 2015:Yogan, Kuristina fala, apago
+(((((OOC)))))Wed May 06 15:35:18 2015:Yogan, Kuristina fala, otimo
+(((((OOC)))))Wed May 06 15:35:18 2015:Yogan, Kuristina fala, esse dano ainda ta bem altinho
+(((((OOC)))))Wed May 06 15:35:18 2015:Yogan, Kuristina fala, na stamina
+(((((OOC)))))Wed May 06 15:37:00 2015:Yogan, Kuristina fala, fik ai otario
+(((((OOC)))))Wed May 06 17:19:24 2015:Sabaku, MyrhO fala, ja pode joga?U.u
+(((((OOC)))))Fri Oct 21 18:04:03 2016:Yogan, Luui fala, 
+(((((OOC)))))Fri Oct 21 18:16:00 2016:Yogan, Luui fala, /
+(((((OOC)))))Wed Nov 01 20:57:16 2017:Inuzuka, Lui fala, a
+(((((OOC)))))Wed Nov 01 20:58:08 2017:Inuzuka, Lui fala, occ kk
+(((((OOC)))))Thu Nov 02 12:34:14 2017:Yogan, Luui fala, aaa

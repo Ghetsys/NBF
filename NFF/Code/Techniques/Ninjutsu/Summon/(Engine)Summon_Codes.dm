@@ -1,0 +1,17 @@
+mob/Summons
+	ASummon=1
+	Controllable_Summons
+		Bump(mob/M)
+			..()
+			if(istype(M,/mob/))
+				if(M==Owner||M.name==src.name)
+					return
+				else
+					if(M.knockedout||src.AttackDelay)
+						return
+					src.AttackDelay=1;flick("Attack",src);src.Attacking(M,1)
+					if(prob(src.DoubleStrike*5))
+						src.Attacking(M,1)
+					sleep(15-src.Swift);src.AttackDelay=0;return
+	Rideable_Summons
+	NPC_Summons

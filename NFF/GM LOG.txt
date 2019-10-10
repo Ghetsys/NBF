@@ -1,0 +1,1828 @@
+(((((SPY)))))Thu Oct 29 22:19:12 2009:Kaguya, Argon spied Boss(NPC)
+(((((edit)))))Sun Jul 17 04:20:48 2011:Mouchy edited 
+(((((edit)))))Tue Jul 19 00:08:32 2011:Argon edited demonick
+(((((edit)))))Wed Jul 20 02:46:24 2011:Argon edited demonick
+(((((edit)))))Wed Jul 20 02:46:56 2011:Argon edited demonick
+(((((edit)))))Wed Jul 20 03:33:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:36:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:36:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:37:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:38:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:38:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 03:51:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:23:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:26:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:26:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:27:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 04:27:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 12:33:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 12:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 12:34:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 13:22:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 13:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 13:46:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Jul 20 13:47:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:35:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:35:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:35:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:35:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:40:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:40:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:40:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:40:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:41:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 00:44:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 01:13:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 01:13:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 01:14:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 02:30:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 02:31:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 02:32:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 02:32:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 13:02:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 13:04:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 13:05:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:19:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:19:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:19:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:19:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:20:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 16:48:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 17:00:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 17:20:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:08:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:09:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:17:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:17:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:18:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:24:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:24:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 18:53:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 19:00:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 19:46:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 19:50:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 19:50:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 19:56:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:10:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:14:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:18:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:25:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:25:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:26:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:29:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:31:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:59:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:59:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:59:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:59:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 20:59:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:24:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:24:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:24:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 24 22:25:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Jul 25 18:20:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 13:09:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 13:14:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:18:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:18:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:21:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:21:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:22:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:23:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:24:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:24:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:24:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:25:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Jul 26 15:25:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:14:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:15:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:16:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:16:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:16:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 01:16:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 02:00:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 04:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 04:25:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:24:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:24:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:24:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:25:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:25:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:26:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:26:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:26:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:27:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:29:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:30:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Jul 28 13:30:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Fri Jul 29 01:02:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Fri Jul 29 01:02:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Fri Jul 29 01:02:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:44:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:44:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:45:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:48:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:48:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 02:51:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:40:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:40:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:41:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:42:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:42:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:44:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:45:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:46:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:46:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:47:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:47:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:47:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:47:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:53:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:54:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:54:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 11:58:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:17:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:18:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:21:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:26:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:29:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:39:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 12:42:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:37:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:37:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:38:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 18:40:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:06:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:10:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:14:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:14:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:14:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:15:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:19:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:19:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sat Jul 30 19:19:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:02:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:02:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:02:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:03:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:04:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:04:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:04:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:04:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:13:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:20:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 14:20:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:30:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:31:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:31:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:31:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:31:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:58:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:58:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:58:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:59:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 15:59:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Sun Jul 31 16:54:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:16:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:16:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 00:17:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 10:27:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Mon Aug 01 10:35:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:57:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:58:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:59:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:59:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:59:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:59:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 12:59:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:00:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:00:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:00:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:00:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:07:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:07:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:07:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:08:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 13:08:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 18:13:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 18:13:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 18:13:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 18:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Tue Aug 02 19:15:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 20:22:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 20:22:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:15:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:15:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:15:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:15:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:16:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:17:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:17:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:17:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:23:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:24:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:24:16 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:26:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:32:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:33:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:33:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:33:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:37:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:37:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:38:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:45:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:45:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:46:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:47:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:52:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:52:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:53:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:53:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 21:53:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:02:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:03:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:14:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:14:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:14:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:16:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:16:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:17:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:18:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:18:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:18:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:18:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:33:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Wed Aug 03 22:34:08 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:37:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:38:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:38:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:38:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:38:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:39:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:40:00 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:44:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:44:48 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:45:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 12:45:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 13:44:32 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 13:45:04 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 13:45:36 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 13:46:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 14:14:24 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 14:14:56 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 14:15:28 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:06:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:06:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:06:40 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:07:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:07:12 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:07:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:07:44 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:09:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:09:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:09:20 2011:Rawr, Argon edited demonick
+(((((edit)))))Thu Aug 04 15:09:52 2011:Rawr, Argon edited demonick
+(((((edit)))))Fri Aug 05 12:43:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Aug 05 12:47:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Aug 05 12:48:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:06:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:06:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:06:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:19:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:20:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:20:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:20:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:21:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:22:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:24:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:47:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:48:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 02:48:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 23:20:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 23:20:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 23:20:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 23:22:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 06 23:22:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 02:11:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 02:12:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 09:29:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 09:29:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 09:34:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 10:09:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 10:11:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 10:16:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 07 10:16:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 08 13:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 08 13:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 09 17:02:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 09 17:23:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 09 17:23:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 09 17:23:44 2011:Akimichi, Argon edited Rock Ninja(NPC)(Genin)
+(((((edit)))))Tue Aug 09 17:55:44 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Aug 09 18:05:52 2011:Akimichi, Argon edited Rock Ninja(NPC)(Chuunin)
+(((((edit)))))Thu Aug 11 12:14:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:14:56 2011:Akimichi, Argon edited Great Fireball Jutsu
+(((((edit)))))Thu Aug 11 12:16:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:16:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:18:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:19:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:19:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:19:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 12:20:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 11 16:44:48 2011:Akimichi, Argon edited NPC
+(((((edit)))))Thu Aug 11 16:57:04 2011:Akimichi, Argon edited Hyuuga Leaf Ninja(NPC)(Chuunin)
+(((((edit)))))Sat Aug 13 03:12:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 03:12:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 03:12:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 03:12:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 03:13:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 22:54:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 22:54:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 22:54:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 13 22:54:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:25:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:25:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:25:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:26:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:26:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:26:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 14:26:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 20:40:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Aug 15 20:40:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 16 15:45:04 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:45:36 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:45:36 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:45:36 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:45:36 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:08 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:08 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:08 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:08 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:08 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:40 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:40 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:40 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:46:40 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:12 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:12 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:12 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:44 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:44 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:47:44 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:16 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:16 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:16 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:16 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:48 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:48:48 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:20 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:20 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:20 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:20 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:52 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:52 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:52 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:49:52 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:50:24 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:50:56 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:50:56 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:51:28 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:52:00 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:52:00 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:52:00 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 15:52:32 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 16:29:52 2011:Uchiha, Enkou edited fruitjuice
+(((((edit)))))Tue Aug 16 16:35:12 2011:Uchiha, Enkou edited Blizzard Storm Illusion
+(((((edit)))))Tue Aug 16 16:35:12 2011:Uchiha, Enkou edited Blazing Burn
+(((((edit)))))Tue Aug 16 16:35:12 2011:Uchiha, Enkou edited Bringer of Darkness
+(((((edit)))))Tue Aug 16 16:35:12 2011:Uchiha, Enkou edited Thirst
+(((((edit)))))Tue Aug 16 16:35:12 2011:Uchiha, Enkou edited Hunger
+(((((edit)))))Tue Aug 16 16:35:44 2011:Uchiha, Enkou edited Grand Dragon Fire
+(((((edit)))))Tue Aug 16 16:35:44 2011:Uchiha, Enkou edited Super Fire Rocket Jutsu
+(((((edit)))))Tue Aug 16 16:35:44 2011:Uchiha, Enkou edited Fire Rocket Jutsu
+(((((edit)))))Tue Aug 16 16:35:44 2011:Uchiha, Enkou edited Fire Dragon Flame Projectile
+(((((edit)))))Tue Aug 16 16:35:44 2011:Uchiha, Enkou edited Dragon Fire Jutsu
+(((((edit)))))Tue Aug 16 16:36:16 2011:Uchiha, Enkou edited Great Fireball Jutsu
+(((((edit)))))Tue Aug 16 16:36:16 2011:Uchiha, Enkou edited Mythical Fire Phoenix Jutsu
+(((((edit)))))Tue Aug 16 16:36:16 2011:Uchiha, Enkou edited Fire Trick
+(((((edit)))))Tue Aug 16 16:36:16 2011:Uchiha, Enkou edited Transformation Jutsu
+(((((edit)))))Tue Aug 16 16:36:48 2011:Uchiha, Enkou edited Shadow Clone Jutsu
+(((((edit)))))Tue Aug 16 16:36:48 2011:Uchiha, Enkou edited Clone Jutsu
+(((((edit)))))Tue Aug 16 16:36:48 2011:Uchiha, Enkou edited Body Flicker
+(((((edit)))))Tue Aug 16 16:36:48 2011:Uchiha, Enkou edited Exploding Substitution Jutsu
+(((((edit)))))Tue Aug 16 16:36:48 2011:Uchiha, Enkou edited Substitution Jutsu
+(((((edit)))))Tue Aug 16 16:37:20 2011:Uchiha, Enkou edited Sharingan
+(((((edit)))))Thu Aug 18 22:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:13:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:13:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:18:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:20:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:21:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:21:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 22:22:24 2011:Akimichi, Argon edited Water Shark Jutsu
+(((((edit)))))Thu Aug 18 22:22:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 23:28:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 23:28:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Aug 18 23:46:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 20 00:49:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 20 00:50:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 21 00:12:16 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:15:28 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:24:32 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:25:36 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:26:40 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:33:36 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:33:36 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:33:36 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:34:08 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:34:08 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:34:40 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:34:40 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:42:40 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:42:40 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:43:12 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Sun Aug 21 00:44:48 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Mon Aug 22 21:07:44 2011:Kusakin, Korona edited mouchy
+(((((edit)))))Wed Aug 24 15:55:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Aug 24 15:55:12 2011:Akimichi, Argon edited Body Flicker
+(((((edit)))))Wed Aug 24 15:55:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Aug 24 15:55:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Aug 24 16:32:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Aug 24 16:33:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Aug 26 18:00:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Aug 26 18:00:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Aug 26 18:00:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 27 14:38:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Aug 27 14:38:56 2011:Akimichi, Argon edited the web
+(((((edit)))))Sun Aug 28 17:36:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:37:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:37:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:37:04 2011:Akimichi, Argon edited Mausoleum Earth Dumpling
+(((((edit)))))Sun Aug 28 17:37:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:37:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:38:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:38:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:38:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:38:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:39:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:40:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:40:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:44:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:45:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:49:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:49:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 17:49:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:32:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:32:57 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:32:57 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:33:23 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:50:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:57:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:57:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:57:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 18:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 19:38:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 19:39:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 19:39:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 19:48:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 20:30:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Aug 28 20:30:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 00:36:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 00:36:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 00:36:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 00:36:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 01:42:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 01:53:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 01:57:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 01:57:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 20:13:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Aug 30 20:13:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 02 13:34:24 2011:Akimichi, Argon edited Leaf Ninja(NPC)(Chuunin)
+(((((edit)))))Sat Sep 03 16:28:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 03 16:28:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 03 16:40:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 03 17:27:28 2011:Akimichi, Argon edited Door
+(((((edit)))))Sat Sep 03 17:29:36 2011:Akimichi, Argon edited Door
+(((((edit)))))Sat Sep 03 17:45:36 2011:Akimichi, Argon edited DoorSoundPrison
+(((((edit)))))Mon Sep 05 14:22:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Sep 05 14:22:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Sep 05 14:22:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Sep 05 14:22:24 2011:Akimichi, Argon edited Transformation Jutsu
+(((((edit)))))Wed Sep 07 20:57:04 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Wed Sep 07 20:57:36 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Wed Sep 07 21:00:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Sep 07 21:08:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Sep 07 21:15:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Sep 07 23:27:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Sep 07 23:36:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 09 15:10:24 2011:Akimichi, Argon edited Darkrai
+(((((edit)))))Fri Sep 09 15:11:28 2011:Akimichi, Argon edited Darkrai
+(((((edit)))))Fri Sep 09 15:14:40 2011:Akimichi, Argon edited Darkrai
+(((((edit)))))Fri Sep 09 15:21:04 2011:Akimichi, Argon edited Darkrai
+(((((edit)))))Sat Sep 10 20:51:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 10 20:52:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 10 20:52:16 2011:Akimichi, Argon edited Healing Resuscitation Regeneration
+(((((edit)))))Sat Sep 10 20:52:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 10 20:52:48 2011:Akimichi, Argon edited Mystical Hand
+(((((edit)))))Sat Sep 10 20:52:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Sep 11 16:54:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Sep 11 16:54:56 2011:Akimichi, Argon edited Shadow Clone Jutsu
+(((((edit)))))Fri Sep 16 13:01:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 16 13:01:52 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 16 13:02:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 16 13:04:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 17 03:25:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 17 03:25:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 17 03:29:04 2011:Akimichi, Argon edited Hyuuga Leaf Ninja(NPC)(Genin)
+(((((edit)))))Sat Sep 17 11:04:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 17 11:05:04 2011:Akimichi, Argon edited Uzumaki, Hitsugaya(NPC)
+(((((edit)))))Sat Sep 17 11:05:36 2011:Akimichi, Argon edited Uzumaki, Hitsugaya(NPC)
+(((((edit)))))Mon Sep 19 17:36:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Sep 19 17:36:32 2011:Akimichi, Argon edited Mass Shadow Clone Jutsu
+(((((edit)))))Mon Sep 19 17:40:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Sep 19 17:41:20 2011:Akimichi, Argon edited Mass Shadow Clone Jutsu
+(((((edit)))))Mon Sep 19 17:41:52 2011:Akimichi, Argon edited Mass Shadow Clone Jutsu
+(((((edit)))))Thu Sep 22 23:32:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Sep 22 23:33:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:22:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:22:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:22:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Sep 23 21:23:12 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Sat Sep 24 00:10:08 2011:Akimichi, Argon edited Windmill Shuriken (0)
+(((((edit)))))Sat Sep 24 00:12:48 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 00:14:56 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 00:16:00 2011:Akimichi, Argon edited Windmill Shuriken (0)
+(((((edit)))))Sat Sep 24 00:16:32 2011:Akimichi, Argon edited Windmill Shuriken (0)
+(((((edit)))))Sat Sep 24 00:18:08 2011:Akimichi, Argon edited Windmill Shuriken (0)
+(((((edit)))))Sat Sep 24 00:33:36 2011:Akimichi, Argon edited Windmill Shuriken (1)
+(((((edit)))))Sat Sep 24 00:36:48 2011:Akimichi, Argon edited Windmill Shuriken (1)
+(((((edit)))))Sat Sep 24 00:36:48 2011:Akimichi, Argon edited Windmill Shuriken (1)
+(((((edit)))))Sat Sep 24 00:54:56 2011:Akimichi, Argon edited Windmill Shuriken (1)
+(((((edit)))))Sat Sep 24 01:16:16 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:16:48 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:18:24 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:22:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 24 01:23:12 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:23:44 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:29:04 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:31:44 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 01:33:20 2011:Akimichi, Argon edited Ninja Supply Merchant(NPC)
+(((((edit)))))Sat Sep 24 03:10:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 24 03:11:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 24 03:18:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 24 03:18:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Sep 24 03:20:00 2011:Akimichi, Argon edited Karasu
+(((((edit)))))Sun Sep 25 14:59:12 2011:Akimichi, Argon edited Head Band
+(((((edit)))))Mon Sep 26 23:14:08 2011:Akimichi, Argon edited Hyuuga Leaf Ninja(NPC)(Genin)
+(((((edit)))))Sat Oct 01 20:26:08 2011:Akimichi, Argon edited Hyuuga Leaf Ninja(NPC)(Genin)
+(((((edit)))))Mon Oct 10 12:20:16 2011:Akimichi, Argon edited Goukakyuu
+(((((edit)))))Tue Oct 11 20:52:48 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Oct 12 17:20:00 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Thu Oct 13 20:51:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Thu Oct 13 20:51:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Oct 15 14:04:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Oct 15 14:04:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Oct 15 14:04:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Oct 15 14:04:48 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 16 23:29:04 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Oct 18 00:11:44 2011:Hoshigaki, Korona edited 
+(((((edit)))))Tue Oct 18 00:12:48 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Oct 18 00:14:24 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Oct 18 00:14:56 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Oct 19 22:45:20 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Oct 19 22:53:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Oct 19 23:14:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Oct 19 23:15:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Thu Oct 20 01:36:00 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 23 12:08:32 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 23 12:09:04 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 23 12:09:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 23 12:09:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Oct 23 12:10:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Oct 24 06:10:40 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Oct 24 06:11:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Oct 25 10:25:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Oct 25 10:44:16 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 10:45:20 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 11:02:56 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 11:17:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Oct 25 11:25:20 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 11:27:28 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 11:56:16 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 12:08:00 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Tue Oct 25 12:09:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Oct 25 20:57:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Oct 25 21:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 11:57:52 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Thu Oct 27 11:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 11:58:56 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Thu Oct 27 11:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 11:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 11:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 11:59:28 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Thu Oct 27 11:59:28 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Thu Oct 27 12:00:00 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Thu Oct 27 12:48:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:48:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:48:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:48:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:48:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:49:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:49:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:49:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:49:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:50:40 2011:Akimichi, Argon edited Mites
+(((((edit)))))Thu Oct 27 12:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:58:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:58:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 12:59:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:03:28 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Thu Oct 27 13:13:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:13:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Oct 27 13:14:08 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Thu Oct 27 13:14:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Nov 04 13:01:20 2011:Akimichi, Argon edited SmallAmat
+(((((edit)))))Fri Nov 04 13:09:52 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Fri Nov 04 13:13:36 2011:Akimichi, Argon edited Uchiha Sound Ninja(NPC)(Genin)
+(((((edit)))))Fri Nov 04 13:56:48 2011:Akimichi, Argon edited Sound Ninja(NPC)(Chuunin)
+(((((edit)))))Fri Nov 04 13:56:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Nov 04 13:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:24 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 14:58:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 06 15:00:32 2011:Akimichi, Argon edited Sound Ninja(NPC)(Chuunin)
+(((((edit)))))Sun Nov 06 15:04:16 2011:Akimichi, Argon edited Sound Ninja(NPC)(Chuunin)
+(((((edit)))))Sat Nov 12 00:30:08 2011:Hoshigaki, Korona edited Hoshigaki, Korona
+(((((edit)))))Sat Nov 12 00:31:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 00:40:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 00:40:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 00:40:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 00:41:20 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 01:00:32 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 01:00:32 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 01:01:04 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Nov 12 01:06:56 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 00:02:56 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 00:27:28 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 00:31:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:08:00 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:09:04 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:19:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:19:44 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:20:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:36:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:36:48 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:37:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Nov 14 01:45:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Nov 16 02:07:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 16 02:08:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 16 02:08:48 2011:Akimichi, Argon edited Wood Spikes Jutsu
+(((((edit)))))Wed Nov 16 02:08:48 2011:Akimichi, Argon edited Wood Spikes Jutsu
+(((((edit)))))Wed Nov 16 02:15:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 16 02:15:12 2011:Akimichi, Argon edited Wood Spikes Jutsu
+(((((edit)))))Sat Nov 19 23:21:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sat Nov 19 23:25:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 21:49:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 21:50:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 22:20:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 22:20:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 22:24:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Sun Nov 20 22:46:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:13:20 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:14:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:43:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:43:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:58:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:58:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:58:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:59:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 15:59:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 16:00:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 16:00:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 16:00:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 16:37:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Tue Nov 22 16:39:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 11:55:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 11:55:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 11:56:00 2011:Akimichi, Argon edited Advanced Lightning Style Armor
+(((((edit)))))Wed Nov 23 11:56:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:11:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:11:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:12:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:12:00 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:12:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:12:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:12:32 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:14:08 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 12:14:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Nov 23 13:15:28 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:47:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:47:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:48:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:48:48 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:49:20 2011:Akimichi, Argon edited Shuriken (100)
+(((((edit)))))Mon Nov 28 20:49:20 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Mon Nov 28 20:49:52 2011:Akimichi, Argon edited Shuriken (100)
+(((((edit)))))Mon Nov 28 20:50:56 2011:Akimichi, Argon edited Shadow Shuriken
+(((((edit)))))Mon Nov 28 20:54:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:54:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:54:40 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Nov 28 20:55:44 2011:Akimichi, Argon edited Shadow Shuriken
+(((((edit)))))Tue Dec 06 04:34:56 2011:Akimichi, Argon edited Dragon Fire Jutsu
+(((((edit)))))Thu Dec 08 13:01:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Dec 08 13:01:04 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Dec 08 13:01:36 2011:Akimichi, Argon edited demonick
+(((((edit)))))Thu Dec 08 13:01:36 2011:Akimichi, Argon edited Akimichi, Argon
+(((((edit)))))Thu Dec 08 13:02:08 2011:Akimichi, Argon edited Earth Dragon
+(((((edit)))))Fri Dec 09 12:31:44 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Dec 09 12:31:44 2011:Akimichi, Argon edited Swamp of the Underworld
+(((((edit)))))Fri Dec 09 12:32:16 2011:Akimichi, Argon edited demonick
+(((((edit)))))Fri Dec 16 11:37:52 2011:Akimichi, Argon edited Rain Ninja(NPC)(Chuunin)
+(((((edit)))))Fri Dec 16 11:38:24 2011:Akimichi, Argon edited Rain Ninja(NPC)(Chuunin)
+(((((edit)))))Fri Dec 16 11:38:24 2011:Akimichi, Argon edited Rain Ninja(NPC)(Chuunin)
+(((((edit)))))Fri Dec 16 12:19:28 2011:Akimichi, Argon edited Sound Ninja(NPC)(Chuunin)
+(((((edit)))))Sun Dec 18 21:12:48 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 01:53:26 2011:Hoshigaki, Korona edited Korona's Shadow White
+(((((edit)))))Mon Dec 19 15:17:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 15:18:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 15:19:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 15:27:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 16:53:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 16:56:16 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 17:00:32 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 19 17:00:57 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Dec 20 11:57:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Dec 20 11:57:36 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Tue Dec 20 12:02:24 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Fri Dec 23 13:11:12 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Fri Dec 23 13:13:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Fri Dec 23 22:47:44 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Fri Dec 23 23:08:32 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:46:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:46:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:46:40 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:57:20 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:57:20 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:57:20 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:57:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sat Dec 24 04:57:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Dec 25 23:53:52 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Dec 25 23:58:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Dec 25 23:58:08 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Sun Dec 25 23:58:40 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 26 00:02:56 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Mon Dec 26 00:03:28 2011:Hoshigaki, Korona edited mouchy
+(((((edit)))))Wed Dec 28 03:19:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Dec 28 03:19:12 2011:Akimichi, Argon edited demonick
+(((((edit)))))Wed Dec 28 03:28:48 2011:Akimichi, Argon edited Options
+(((((edit)))))Wed Dec 28 14:02:56 2011:Akimichi, Argon edited demonick
+(((((edit)))))Mon Jan 02 00:38:40 2012:Akimichi, Argon edited demonick
+(((((edit)))))Mon Jan 02 00:38:40 2012:Akimichi, Argon edited demonick
+(((((edit)))))Mon Jan 02 00:39:12 2012:Akimichi, Argon edited demonick
+(((((edit)))))Mon Jan 02 00:39:12 2012:Akimichi, Argon edited demonick
+(((((edit)))))Mon Jan 02 00:39:12 2012:Akimichi, Argon edited demonick
+(((((edit)))))Sat Jan 07 14:13:04 2012:Akimichi, Argon edited demonick
+(((((edit)))))Sat Jan 07 14:13:04 2012:Akimichi, Argon edited demonick
+(((((edit)))))Thu Jan 19 01:33:04 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 01:33:04 2012:Nara, Coke edited Eldest Monkey: Sageion
+(((((edit)))))Thu Jan 19 01:33:04 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 01:34:08 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 17:56:00 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 18:00:48 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 18:14:08 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 18:14:08 2012:Nara, Coke edited narakzi
+(((((edit)))))Thu Jan 19 18:17:20 2012:Hoshigaki, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 18:32:48 2012:Hoshigaki, Hawk edited 
+(((((edit)))))Thu Jan 19 18:33:20 2012:Hoshigaki, Hawk edited 
+(((((edit)))))Thu Jan 19 18:33:52 2012:Hoshigaki, Hawk edited 
+(((((edit)))))Thu Jan 19 18:33:52 2012:Hoshigaki, Hawk edited 
+(((((edit)))))Thu Jan 19 18:33:52 2012:Hoshigaki, Hawk edited 
+(((((edit)))))Thu Jan 19 18:39:44 2012:Shiroi, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 18:39:44 2012:Shiroi, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 18:43:28 2012:Shiroi, Hawk edited Shiroi, Hawk
+(((((edit)))))Thu Jan 19 18:44:00 2012:Shiroi, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 18:48:48 2012:Shiroi, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 18:58:24 2012:Shiroi, Hawk edited narakzi
+(((((edit)))))Thu Jan 19 19:05:52 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 19:07:28 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:08:48 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:08:48 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:09:20 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:09:52 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:10:56 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:12:32 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:12:32 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:12:32 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:13:04 2012:Hakw edited narakzi
+(((((edit)))))Thu Jan 19 20:13:36 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 14:52:32 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 14:53:04 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 15:32:00 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 15:32:32 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 17:14:56 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 17:15:28 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 21:44:48 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 21:51:44 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 21:51:44 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 21:51:44 2012:Hakw edited narakzi
+(((((edit)))))Fri Jan 20 22:00:16 2012:Hakw edited narakzi
+(((((edit)))))Sat Jan 21 01:15:28 2012:Hakw edited narakzi
+(((((edit)))))Sat Jan 21 17:05:20 2012:Hakw edited narakzi
+(((((edit)))))Sat Jan 21 17:34:08 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 00:57:20 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 14:54:40 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 14:54:40 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:16:32 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:16:32 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:16:32 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:17:04 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:17:04 2012:Hakw edited narakzi
+(((((edit)))))Tue Jan 24 15:17:36 2012:Hakw edited narakzi
+(((((edit)))))Wed Jan 25 14:38:40 2012:the fdsfdsfdsfds, ewfsdsfds edited narakzi
+(((((edit)))))Wed Jan 25 14:38:40 2012:the fdsfdsfdsfds, ewfsdsfds edited narakzi
+(((((edit)))))Wed Jan 25 14:38:40 2012:the fdsfdsfdsfds, ewfsdsfds edited narakzi
+(((((edit)))))Wed Jan 25 14:38:40 2012:the fdsfdsfdsfds, ewfsdsfds edited narakzi
+(((((edit)))))Wed Jan 25 14:39:12 2012:the fdsfdsfdsfds, ewfsdsfds edited narakzi
+(((((edit)))))Mon Jan 30 18:13:36 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Wed Feb 01 14:55:12 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Wed Feb 01 14:55:44 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Wed Feb 01 14:55:44 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Wed Feb 01 14:56:16 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Wed Feb 01 14:56:16 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:43:44 2012:the ewrewr, ewrewr edited Leaf Ninja(NPC)(Chuunin)
+(((((edit)))))Sat Feb 04 15:44:48 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:44:48 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:44:48 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:45:52 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:46:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:46:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:46:24 2012:the ewrewr, ewrewr edited Earth Dragon
+(((((edit)))))Sat Feb 04 15:46:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sat Feb 04 15:46:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sat Feb 04 15:46:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sat Feb 04 15:47:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:48:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:48:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:48:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:48:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:49:04 2012:the ewrewr, ewrewr edited Earth Dragon
+(((((edit)))))Sat Feb 04 15:49:36 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:50:08 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 15:57:36 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 16:19:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sat Feb 04 16:23:44 2012:the ewrewr, ewrewr edited Earth Dragon
+(((((edit)))))Sun Feb 05 16:54:08 2012:the ewrewr, ewrewr edited Earth Dragon
+(((((edit)))))Sun Feb 05 16:54:08 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 16:54:08 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 16:55:12 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 17:45:52 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:00:48 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:02:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:02:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:02:56 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:03:28 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:15:12 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:16:16 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:16:16 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:16:16 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:16:48 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:17:52 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:25:52 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:25:52 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:25:52 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:26:24 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sun Feb 05 18:26:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:26:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:28:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:34:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:34:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:36:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:42:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:42:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:43:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:43:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 18:43:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 19:00:32 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 19:00:32 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 19:01:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 19:07:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Sun Feb 05 19:07:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:46:08 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:46:40 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Tue Feb 07 02:46:40 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Tue Feb 07 02:47:12 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:47:12 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:52:32 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 02:53:36 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Tue Feb 07 21:26:08 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:24 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:02:56 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:03:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:03:28 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:04:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:04:00 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 02:04:00 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Fri Feb 10 02:05:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 23:49:04 2012:the ewrewr, ewrewr edited narakzi
+(((((edit)))))Fri Feb 10 23:49:36 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Fri Feb 10 23:49:36 2012:the ewrewr, ewrewr edited 
+(((((edit)))))Sat Feb 11 00:02:56 2012:Hoshigaki, hakw edited 
+(((((edit)))))Sat Feb 11 00:03:28 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sat Feb 11 00:03:28 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sat Feb 11 23:22:56 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sat Feb 11 23:22:56 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sat Feb 11 23:22:56 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sun Feb 12 02:54:40 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sun Feb 12 02:55:12 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Sun Feb 12 03:08:00 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:56:48 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:56:48 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:56:48 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:56:48 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:57:20 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 12:57:20 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:03:12 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:03:12 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:03:12 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:11:44 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:12:16 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:12:16 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:17:04 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:17:04 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:17:36 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:17:36 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Mon Feb 13 13:17:36 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Thu Mar 08 00:09:52 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Thu Mar 08 00:10:24 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Thu Mar 08 00:10:24 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Thu Mar 08 00:10:24 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Thu Mar 08 00:10:56 2012:Hoshigaki, hakw edited narakzi
+(((((edit)))))Fri Mar 16 01:48:00 2012:Uchiha, Sasuke edited Uchiha, Sasuke
+(((((edit)))))Fri Mar 16 04:15:12 2012:Uchiha, Sasuke edited Uchiha, Sasuke
+(((((edit)))))Fri Mar 16 04:18:24 2012:Uchiha, Sasuke edited Uchiha, Sasuke
+(((((edit)))))Fri Mar 16 04:18:56 2012:Uchiha, Sasuke edited Uchiha, Sasuke
+(((((edit)))))Mon Mar 19 19:53:52 2012:Uchiha, Sasuke edited Uchiha, Sasuke
+(((((edit)))))Sat Mar 24 00:34:56 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:37:04 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:38:40 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:39:44 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:45:04 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:45:36 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 00:46:40 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 10:49:52 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 11:17:04 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 11:34:40 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 22:20:00 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 23:02:40 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 23:15:28 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 24 23:30:56 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 31 22:39:12 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 31 22:41:20 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Mar 31 23:26:40 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sun Apr 01 00:01:20 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Fri Apr 06 22:50:56 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Sat Apr 07 20:11:28 2012:Akimichi, Taku edited Akimichi, Taku
+(((((edit)))))Mon Apr 09 15:14:24 2012:Kaguya, Sasuna edited Kaguya, Sasuna
+(((((edit)))))Tue Apr 10 02:18:24 2012:Kaguya, Sasuna edited Kaguya, Sasuna
+(((((edit)))))Tue Apr 10 02:22:08 2012:Kaguya, Sasuna edited Kaguya, Sasuna
+(((((edit)))))Tue Apr 10 02:42:56 2012:Iwazuka, Sasuna edited Iwazuka, Sasuna
+(((((edit)))))Tue Apr 10 02:49:20 2012:Iwazuka, SAsuna edited Iwazuka, SAsuna
+(((((edit)))))Tue Apr 10 03:07:28 2012:Iwazuka, SAsuna edited Iwazuka, SAsuna
+(((((edit)))))Fri Apr 13 23:07:28 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sat May 05 00:47:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 00:47:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 00:47:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 00:47:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 00:48:00 2012:Moo, moo edited Shadow Clone Jutsu
+(((((edit)))))Sat May 05 23:07:44 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 23:07:44 2012:Moo, moo edited Dragon Fire Jutsu
+(((((edit)))))Sat May 05 23:08:48 2012:Moo, moo edited ss10trunks
+(((((edit)))))Sat May 05 23:08:48 2012:Moo, moo edited Dragon Fire Jutsu
+(((((edit)))))Mon May 07 15:15:44 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon May 07 15:18:56 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon May 07 22:27:12 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon May 07 22:27:44 2012:Moo, moo edited Electromagnetic Murder
+(((((edit)))))Mon May 07 22:30:56 2012:Moo, moo edited Moo, moo
+(((((edit)))))Mon May 07 23:25:20 2012:Moo, moo edited ss10trunks
+(((((edit)))))Wed May 09 10:18:40 2012:Moo, moo edited Leaf ANBU
+(((((edit)))))Thu May 10 14:25:36 2012:Moo, moo edited ss10trunks
+(((((edit)))))Tue May 22 00:16:00 2012:Moo, moo edited ss10trunks
+(((((edit)))))Tue May 22 01:10:24 2012:Moo, moo edited Dance of the Camellia
+(((((edit)))))Thu Jun 14 13:42:56 2012:Moo, moo edited ss10trunks
+(((((edit)))))Thu Jun 14 13:42:56 2012:Moo, moo edited ss10trunks
+(((((edit)))))Thu Jun 14 13:43:28 2012:Moo, moo edited Katon: Gouenkyuu No Jutsu
+(((((edit)))))Thu Jun 14 13:44:00 2012:Moo, moo edited Katon: Gouenkyuu No Jutsu
+(((((edit)))))Thu Jun 14 13:50:56 2012:Moo, moo edited ss10trunks
+(((((edit)))))Thu Jun 14 13:50:56 2012:Moo, moo edited Suiton: Great Waterfall Flow
+(((((edit)))))Thu Jun 14 14:00:00 2012:Moo, moo edited ss10trunks
+(((((edit)))))Thu Jun 14 14:01:36 2012:Moo, moo edited ss10trunks
+(((((edit)))))Thu Jun 14 14:01:36 2012:Moo, moo edited Violent Water Wave
+(((((edit)))))Mon Jun 18 22:05:52 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 22:05:52 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 22:05:52 2012:Moo, moo edited Mythical Fire Phoenix Jutsu
+(((((edit)))))Mon Jun 18 22:06:24 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 22:06:56 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 23:09:52 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 23:51:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 23:51:28 2012:Moo, moo edited ss10trunks
+(((((edit)))))Mon Jun 18 23:56:16 2012:Moo, moo edited ss10trunks
+(((((edit)))))Tue Jun 26 18:54:20 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Fri Jun 29 20:01:42 2012:Argon edited demonick
+(((((edit)))))Fri Jun 29 20:01:42 2012:Argon edited demonick
+(((((edit)))))Fri Jun 29 20:01:42 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited demonick
+(((((edit)))))Sat Jun 30 20:00:27 2012:Argon edited Great Breakthrough Jutsu
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited NanoMite Gathering
+(((((edit)))))Sun Jul 01 20:01:30 2012:Argon edited demonick
+(((((edit)))))Sun Jul 01 20:01:31 2012:Argon edited demonick
+(((((edit)))))Mon Jul 16 17:00:03 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Mon Jul 16 17:00:04 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Mon Jul 16 17:00:14 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Jul 22 17:02:00 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Jul 22 17:02:04 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Jul 22 17:02:15 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Jul 22 17:02:15 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Mon Aug 13 20:00:27 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:00:27 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:00:27 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:00:27 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:00:27 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:43 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:45 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:45 2012:Hyuuga, dsfsdgf' edited Katon Dai Endan
+(((((edit)))))Mon Aug 13 20:01:46 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:46 2012:Hyuuga, dsfsdgf' edited Katon Dai Endan
+(((((SPY)))))Mon Aug 13 20:01:46 2012:Hyuuga, dsfsdgf' spied Hyuuga, Kero
+(((((SPY)))))Mon Aug 13 20:01:46 2012:Hyuuga, dsfsdgf' spied Hyuuga, Kero
+(((((edit)))))Mon Aug 13 20:01:48 2012:Hyuuga, dsfsdgf' edited FireSpit
+(((((edit)))))Mon Aug 13 20:01:48 2012:Hyuuga, dsfsdgf' edited FireSpit
+(((((edit)))))Mon Aug 13 20:01:48 2012:Hyuuga, dsfsdgf' edited FireSpit
+(((((edit)))))Mon Aug 13 20:01:48 2012:Hyuuga, dsfsdgf' edited FireSpit
+(((((edit)))))Mon Aug 13 20:01:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Aug 13 20:01:53 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited Insect Sphere
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited Insect Sphere
+(((((edit)))))Sat Sep 01 20:00:14 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Sep 03 20:02:01 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Wed Sep 05 20:02:04 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Wed Sep 05 20:02:19 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:49 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sun Sep 09 20:00:52 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Mon Sep 10 20:00:53 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:47 2012:Hyuuga, dsfsdgf' edited demonick
+(((((edit)))))Sat Sep 15 20:01:55 2012:Hyuuga, dsfsdgf' edited Slot13
+(((((edit)))))Thu Sep 27 17:01:49 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Sep 30 17:01:52 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Sun Sep 30 19:02:11 2012:Yotsuki, Sasu edited Yotsuki, Sasu
+(((((edit)))))Thu Oct 04 19:02:14 2012:Satou, Sas edited Satou, Sas
+(((((edit)))))Thu Oct 04 19:02:16 2012:Satou, Sas edited Satou, Sas
+(((((edit)))))Thu Oct 11 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:21 2012: Hyuuga, dsfsdgf' edited Hyuuga, dsfsdgf''s "NosinasisMemoriaMember" from "0" to "1"
+(((((edit)))))Thu Oct 11 20:00:21 2012: Hyuuga, dsfsdgf' edited Hyuuga, dsfsdgf''s "NosinasisMemoriaMember" from <i>1</i> to <i>1</i>
+(((((edit)))))Thu Oct 11 20:00:27 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 11 20:00:27 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 25 20:00:21 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing Door
+(((((edit)))))Thu Oct 25 20:00:21 2012: Hyuuga, dsfsdgf' edited Door's "density" from <i>0</i> to <i>1</i>
+(((((edit)))))Thu Oct 25 20:00:37 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing Bed2
+(((((edit)))))Thu Oct 25 20:00:37 2012: Hyuuga, dsfsdgf' edited Bed2's "layer" from <i>6</i> to <i>3</i>
+(((((edit)))))Thu Oct 25 20:00:45 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 25 20:01:35 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Thu Oct 25 20:01:36 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Wed Oct 31 19:02:03 2012: Uchiha, hjk(CobraT1337) created <i>/obj/WEAPONS/OriginalKubikiriHoucho</i>
+(((((edit)))))Thu Nov 01 17:01:23 2012: Uchiha, hjk(CobraT1337) created <i>/obj/WEAPONS/InvisibleKaito</i>
+(((((edit)))))Thu Nov 01 17:01:23 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 01 17:01:23 2012: Uchiha, hjk edited Uchiha, hjk's "WeaponInRightHand" from "" to "Invisible Kaito (/obj/WEAPONS/InvisibleKaito)"
+(((((edit)))))Thu Nov 01 17:01:51 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 01 17:01:51 2012: Uchiha, hjk edited Uchiha, hjk's "Mchakra" from <i>2100</i> to <i>9520</i>
+(((((edit)))))Thu Nov 01 17:01:51 2012:Uchiha, hjk ()(CobraT1337) started editing KaitoCuts
+(((((edit)))))Thu Nov 01 17:01:52 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 01 17:01:52 2012: Uchiha, hjk edited Uchiha, hjk's "NinjutsuMastery" from <i>0.6</i> to <i>282</i>
+(((((edit)))))Wed Nov 07 18:00:30 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Wed Nov 07 18:00:30 2012: Uchiha, hjk edited Uchiha, hjk's "CalloftheSwamp" from <i>0</i> to <i>3</i>
+(((((edit)))))Thu Nov 08 18:00:09 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:09 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:09 2012: Uchiha, hjk edited Uchiha, hjk's "TailState" from <i>0</i> to <i>2</i>
+(((((edit)))))Thu Nov 08 18:00:09 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:09 2012: Uchiha, hjk edited Uchiha, hjk's "Bijuu" from "" to "Sanbi"
+(((((edit)))))Thu Nov 08 18:00:10 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:10 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:10 2012: Uchiha, hjk edited Uchiha, hjk's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Thu Nov 08 18:00:18 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:18 2012: Uchiha, hjk edited Uchiha, hjk's "Bijuu" from "Sanbi" to "Nibi"
+(((((edit)))))Thu Nov 08 18:00:18 2012: Uchiha, hjk edited Uchiha, hjk's "TailState" from <i>2</i> to <i>2</i>
+(((((edit)))))Thu Nov 08 18:00:18 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:00:18 2012: Uchiha, hjk edited Uchiha, hjk's "Bijuu" from "Nibi" to "Sanbi"
+(((((edit)))))Thu Nov 08 18:02:22 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:02:22 2012: Uchiha, hjk edited Uchiha, hjk's "GenSkill" from <i>5</i> to <i>40</i>
+(((((edit)))))Thu Nov 08 18:02:23 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Thu Nov 08 18:02:23 2012: Uchiha, hjk edited Uchiha, hjk's "GenjutsuKnowledge" from <i>0</i> to <i>2000</i>
+(((((edit)))))Fri Nov 09 18:00:00 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Fri Nov 09 18:00:00 2012: Uchiha, hjk edited Uchiha, hjk's "GenSkill" from <i>5</i> to <i>40</i>
+(((((edit)))))Sat Nov 10 18:00:10 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sat Nov 10 18:00:10 2012: Uchiha, hjk edited Uchiha, hjk's "GenjutsuKnowledge" from <i>2000</i> to <i>21</i>
+(((((edit)))))Sat Nov 10 18:00:43 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sat Nov 10 18:00:43 2012: Uchiha, hjk edited Uchiha, hjk's "ConversusinSecondStageMastery" from <i>0</i> to <i>4123</i>
+(((((edit)))))Sat Nov 10 18:00:43 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sat Nov 10 18:00:43 2012: Uchiha, hjk edited Uchiha, hjk's "ConversusinMastery" from <i>0</i> to <i>500</i>
+(((((edit)))))Sat Nov 10 18:00:43 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sat Nov 10 18:00:43 2012: Uchiha, hjk edited Uchiha, hjk's "ConversusinChargeUp" from <i>4</i> to <i>35</i>
+(((((edit)))))Sun Nov 11 18:00:17 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Tue Nov 13 16:00:23 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Tue Nov 13 16:00:23 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 16:00:23 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 16:00:23 2012: Uchiha, hjk edited Beginner Fishing Rod's "Broken" from <i>1</i> to <i>0</i>
+(((((edit)))))Tue Nov 13 16:00:23 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Tue Nov 13 16:00:23 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 18:00:29 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 18:00:29 2012: Uchiha, hjk edited Beginner Fishing Rod's "ReeledOut" from <i>1</i> to <i>0</i>
+(((((edit)))))Tue Nov 13 18:00:29 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 18:00:29 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 18:00:29 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Tue Nov 13 18:00:29 2012: Uchiha, hjk edited Beginner Fishing Rod's "ReeledIn" from <i>0</i> to <i>1</i>
+(((((edit)))))Wed Nov 14 18:00:26 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Wed Nov 14 18:00:27 2012:Uchiha, hjk ()(CobraT1337) started editing Beginner Fishing Rod
+(((((edit)))))Wed Nov 14 18:00:30 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Fri Nov 16 18:02:01 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Fri Nov 16 18:02:01 2012: Uchiha, hjk edited Uchiha, hjk's "Inferno" from <i>0</i> to <i>3</i>
+(((((edit)))))Fri Nov 16 18:02:02 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Fri Nov 16 18:02:02 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Fri Nov 16 18:02:04 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Fri Nov 16 18:02:05 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Fri Nov 16 18:02:10 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Sat Nov 17 18:01:52 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sat Nov 17 18:01:52 2012: Uchiha, hjk edited Uchiha, hjk's "WaterWalkingMastery" from <i>0.67</i> to <i>10</i>
+(((((edit)))))Sun Nov 18 18:00:14 2012:Uchiha, hjk ()(CobraT1337) started editing Goukakyuu
+(((((edit)))))Sun Nov 18 18:00:41 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Sun Nov 18 18:01:47 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sun Nov 18 18:01:47 2012: Uchiha, hjk edited Uchiha, hjk's "chakra" from <i>9520</i> to <i>0</i>
+(((((edit)))))Sun Nov 18 18:01:48 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sun Nov 18 18:01:48 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sun Nov 18 18:02:04 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sun Nov 18 18:02:04 2012: Uchiha, hjk edited Uchiha, hjk's "icon_state" from "beastman" to """"
+(((((edit)))))Sun Nov 18 18:02:05 2012: Uchiha, hjk edited Uchiha, hjk's "Bijuu" from "Nibi" to """"
+(((((edit)))))Sun Nov 18 18:02:05 2012: Uchiha, hjk edited Uchiha, hjk's "TailState" from <i>2</i> to <i>0</i>
+(((((edit)))))Sun Nov 18 18:02:13 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Sun Nov 18 18:02:13 2012: Uchiha, hjk edited Uchiha, hjk's "Bijuu" from "Nibi" to """"
+(((((edit)))))Sun Nov 18 18:02:13 2012: Uchiha, hjk edited Uchiha, hjk's "TailState" from <i>2</i> to <i>0</i>
+(((((edit)))))Sun Nov 18 18:02:20 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Sun Nov 18 18:02:21 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Mon Nov 19 18:00:01 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:02 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:04 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BeginnerFishingRod</i>
+(((((edit)))))Mon Nov 19 18:00:20 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:20 2012: Uchiha, hjk edited Uchiha, hjk's "Anbu" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Nov 19 18:00:22 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:22 2012: Uchiha, hjk edited Uchiha, hjk's "Anbu" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Nov 19 18:00:23 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:23 2012: Uchiha, hjk edited Uchiha, hjk's "Anbu" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Nov 19 18:00:24 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:24 2012: Uchiha, hjk edited Uchiha, hjk's "Anbu" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Nov 19 18:00:30 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:30 2012: Uchiha, hjk edited Uchiha, hjk's "Yen" from <i>1000</i> to <i>543200</i>
+(((((edit)))))Mon Nov 19 18:00:31 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:31 2012: Uchiha, hjk edited Uchiha, hjk's "Yen" from <i>1000</i> to <i>65431</i>
+(((((edit)))))Mon Nov 19 18:00:31 2012: Uchiha, hjk edited Uchiha, hjk's "Yen" from <i>65431</i> to <i>3.88889e+006</i>
+(((((edit)))))Mon Nov 19 18:00:32 2012:Uchiha, hjk ()(CobraT1337) started editing Uchiha, hjk ()(CobraT1337)
+(((((edit)))))Mon Nov 19 18:00:32 2012: Uchiha, hjk edited Uchiha, hjk's "Magma" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Nov 19 18:00:40 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BoomBox</i>
+(((((edit)))))Mon Nov 19 18:00:40 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BoomBox</i>
+(((((edit)))))Mon Nov 19 18:00:42 2012: Uchiha, hjk(CobraT1337) created <i>/obj/BoomBox</i>
+(((((edit)))))Mon Nov 19 18:00:54 2012: Uchiha, hjk(CobraT1337) created <i>/obj/Flute</i>
+(((((edit)))))Mon Nov 19 18:02:02 2012: Uchiha, hjk(CobraT1337) created <i>/obj/Ocarina</i>
+(((((edit)))))Mon Nov 19 18:02:03 2012: Uchiha, hjk(CobraT1337) created <i>/obj/Ocarina</i>
+(((((edit)))))Mon Nov 19 18:02:05 2012: Uchiha, hjk(CobraT1337) created <i>/obj/Ocarina</i>
+(((((edit)))))Thu Nov 22 16:00:48 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Nov 22 16:00:48 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Thu Nov 22 16:00:48 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealSpeed" from <i>0</i> to <i>30</i>
+(((((edit)))))Thu Nov 22 16:00:48 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "FireChakra" from <i>0</i> to <i>20</i>
+(((((edit)))))Fri Nov 23 16:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 23 16:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Fri Nov 23 16:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealSpeed" from <i>0</i> to <i>30</i>
+(((((edit)))))Fri Nov 23 16:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 23 16:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "FireChakra" from <i>0</i> to <i>20</i>
+(((((edit)))))Fri Nov 23 16:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "NinSkill" from <i>10</i> to <i>40</i>
+(((((edit)))))Fri Nov 23 16:00:55 2012:Hoshigaki, Taku ()(CobraT1337) started editing HeavyRain
+(((((edit)))))Sun Nov 25 18:00:33 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Nov 25 18:00:33 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Sun Nov 25 18:00:33 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealSpeed" from <i>0</i> to <i>60</i>
+(((((edit)))))Sun Nov 25 18:00:34 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Nov 25 18:00:34 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Sun Nov 25 18:00:34 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "HandsealSpeed" from <i>0</i> to <i>60</i>
+(((((edit)))))Sun Nov 25 18:00:34 2012:Hoshigaki, Taku ()(CobraT1337) started editing P13
+(((((edit)))))Sun Nov 25 18:00:45 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Nov 25 18:00:45 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Nov 25 18:00:45 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Clan" from "Hoshigaki" to "Shiroi"
+(((((edit)))))Sun Nov 25 18:00:45 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "SuitonKnowledge" from <i>0</i> to <i>5000</i>
+(((((edit)))))Sun Nov 25 18:00:46 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Nov 25 18:00:46 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "SuitonKnowledge" from <i>0</i> to <i>356</i>
+(((((edit)))))Sun Nov 25 18:00:46 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "SuitonKnowledge" from <i>356</i> to <i>8461</i>
+(((((edit)))))Sun Nov 25 18:00:46 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Clan" from "Hoshigaki" to "Shiroi"
+(((((edit)))))Mon Nov 26 18:00:31 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/WEAPONS/Kunai</i>
+(((((edit)))))Mon Nov 26 18:00:31 2012:Hoshigaki, Taku ()(CobraT1337) started editing Kunai (1)
+(((((edit)))))Mon Nov 26 18:00:31 2012: Hoshigaki, Taku edited Kunai (1)'s "ammount" from <i>1</i> to <i>50</i>
+(((((edit)))))Thu Nov 29 18:00:28 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Nov 29 18:00:28 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "blevel" from "D" to ""C""
+(((((edit)))))Thu Nov 29 18:00:28 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Nov 29 18:00:28 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Nov 29 18:00:28 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "rank" from "Genin" to "Chuunin"
+(((((edit)))))Thu Nov 29 18:00:32 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Nov 29 18:00:32 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "CurrentMission" from "Find Dark Wolf Mane" to "Find Wolf Mane"
+(((((edit)))))Fri Nov 30 18:00:01 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:01 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "blevel" from "C" to "B"
+(((((edit)))))Fri Nov 30 18:00:01 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:01 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "rank" from "Chuunin" to "Jounin"
+(((((edit)))))Fri Nov 30 18:00:01 2012:Hoshigaki, Taku ()(CobraT1337) started editing PeaceNote
+(((((edit)))))Fri Nov 30 18:00:01 2012:Hoshigaki, Taku ()(CobraT1337) started editing PeaceNote
+(((((edit)))))Fri Nov 30 18:00:24 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/WEAPONS/Kunai</i>
+(((((edit)))))Fri Nov 30 18:00:24 2012:Hoshigaki, Taku ()(CobraT1337) started editing Kunai (1)
+(((((edit)))))Fri Nov 30 18:00:24 2012: Hoshigaki, Taku edited Kunai (1)'s "ammount" from <i>1</i> to <i>20</i>
+(((((edit)))))Fri Nov 30 18:00:24 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:24 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "ChakraEnhance" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:00:25 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/WEAPONS/Kunai</i>
+(((((edit)))))Fri Nov 30 18:00:25 2012:Hoshigaki, Taku ()(CobraT1337) started editing Kunai (1)
+(((((edit)))))Fri Nov 30 18:00:25 2012: Hoshigaki, Taku edited Kunai (1)'s "ammount" from <i>1</i> to <i>50</i>
+(((((edit)))))Fri Nov 30 18:00:25 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:25 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "ChakraEnhance" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:00:26 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/WEAPONS/Kunai</i>
+(((((edit)))))Fri Nov 30 18:00:26 2012:Hoshigaki, Taku ()(CobraT1337) started editing Kunai (1)
+(((((edit)))))Fri Nov 30 18:00:26 2012: Hoshigaki, Taku edited Kunai (1)'s "ammount" from <i>1</i> to <i>50</i>
+(((((edit)))))Fri Nov 30 18:00:26 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:26 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "ChakraEnhance" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "ChakraEnhance" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:00:27 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/WEAPONS/Kunai</i>
+(((((edit)))))Fri Nov 30 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Kunai (1)
+(((((edit)))))Fri Nov 30 18:00:27 2012: Hoshigaki, Taku edited Kunai (1)'s "ammount" from <i>1</i> to <i>75</i>
+(((((edit)))))Fri Nov 30 18:01:52 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:01:52 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Clan" from "Shiroi" to "Basic"
+(((((edit)))))Fri Nov 30 18:01:52 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Yen" from <i>36000</i> to <i>1e+013</i>
+(((((edit)))))Fri Nov 30 18:01:52 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Fri Nov 30 18:01:52 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Village" from "Rain" to "Rock"
+(((((edit)))))Fri Nov 30 18:01:52 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Adjustable_Room</i>
+(((((edit)))))Fri Nov 30 18:02:07 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Fri Nov 30 18:02:07 2012: Hoshigaki, Taku edited Dragon's "FireBreathing" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:02:07 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Fri Nov 30 18:02:07 2012: Hoshigaki, Taku edited Dragon's "FireBreathing" from <i>0</i> to <i>1</i>
+(((((edit)))))Fri Nov 30 18:02:07 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Fri Nov 30 18:02:08 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Sat Dec 01 18:00:05 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Sat Dec 01 18:00:16 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Talon_Puppet_Scroll</i>
+(((((edit)))))Sat Dec 01 18:00:17 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Talon_Puppet_Scroll</i>
+(((((edit)))))Sat Dec 01 18:00:17 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:18 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Talon_Puppet_Scroll</i>
+(((((edit)))))Sat Dec 01 18:00:19 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sat Dec 01 18:00:19 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "hunger" from <i>100</i> to <i>0</i>
+(((((edit)))))Sat Dec 01 18:00:19 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "thirst" from <i>100</i> to <i>0</i>
+(((((edit)))))Sat Dec 01 18:00:22 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sat Dec 01 18:00:22 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sat Dec 01 18:00:22 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "ThrowingStrength" from <i></i> to <i>10</i>
+(((((edit)))))Sat Dec 01 18:00:26 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Hawk_Puppet_Scroll</i>
+(((((edit)))))Sat Dec 01 18:00:38 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/Clothes/SleevelessShirt</i>
+(((((edit)))))Sat Dec 01 18:00:38 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/Clothes/SleevelessShirt</i>
+(((((edit)))))Sat Dec 01 18:00:38 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Clothing/Gray_Sleeveless_Shirt</i>
+(((((edit)))))Sat Dec 01 18:00:38 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Poison_Blades_Attachment</i>
+(((((edit)))))Sat Dec 01 18:00:38 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Adjustable_Room_Collapsing</i>
+(((((edit)))))Sat Dec 01 18:00:39 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Sat Dec 01 18:00:39 2012: Hoshigaki, Taku edited Dragon's "AdjustableRoomCollapse" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 01 18:00:40 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Sat Dec 01 18:00:48 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:48 2012: Hoshigaki, Taku edited Talon's "KunaiProjectile" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 01 18:00:49 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:49 2012: Hoshigaki, Taku edited Talon's "KunaiProjectile" from <i>1</i> to <i>0</i>
+(((((edit)))))Sat Dec 01 18:00:50 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:50 2012: Hoshigaki, Taku edited Talon's "KunaiProjectile" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 01 18:00:52 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:52 2012: Hoshigaki, Taku edited Talon's "KunaiProjectile" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 01 18:00:53 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:00:53 2012: Hoshigaki, Taku edited Talon's "KunaiProjectile" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 01 18:00:55 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Poison_Spread_Beginner</i>
+(((((edit)))))Sat Dec 01 18:01:56 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sat Dec 01 18:01:56 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/Kunai_Rapid_Attachment_Beginner</i>
+(((((edit)))))Sat Dec 01 18:01:56 2012:Hoshigaki, Taku ()(CobraT1337) started editing Talon
+(((((edit)))))Sat Dec 01 18:01:59 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/SmokeScreen_Spread_Beginner</i>
+(((((edit)))))Sat Dec 01 18:02:00 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/BuyableThings/Scrolls/SmokeScreen_Spread_Beginner</i>
+(((((edit)))))Sat Dec 01 18:02:04 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hawk
+(((((edit)))))Sat Dec 01 18:02:04 2012: Hoshigaki, Taku edited Hawk's "SpreadingSmokeScreen" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 02 18:00:34 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Trait" from "" to "Speedy"
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Age" from <i>10</i> to <i>15</i>
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Age" from <i>15</i> to <i>13</i>
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Trait" from "Speedy" to """"
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Age" from <i>13</i> to <i>12</i>
+(((((edit)))))Sun Dec 02 18:00:35 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "AgeEXP" from <i>7764</i> to <i>26198</i>
+(((((edit)))))Sun Dec 02 18:00:35 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Sun Dec 02 18:01:37 2012:Hoshigaki, Taku ()(CobraT1337) started editing Dragon
+(((((edit)))))Sun Dec 02 18:01:37 2012: Hoshigaki, Taku edited Dragon's "AdjustableRoom" from <i>1</i> to <i>0</i>
+(((((edit)))))Sun Dec 02 18:01:56 2012:Hoshigaki, Taku ()(CobraT1337) started editing Woodland
+(((((edit)))))Sun Dec 02 18:01:56 2012:Hoshigaki, Taku ()(CobraT1337) started editing Woodland
+(((((edit)))))Sun Dec 02 18:01:57 2012:Hoshigaki, Taku ()(CobraT1337) started editing Woodland
+(((((edit)))))Sun Dec 02 18:02:09 2012: Hoshigaki, Taku(CobraT1337) created <i>/obj/MissingStuff/MissionHazard</i>
+(((((edit)))))Mon Dec 03 18:00:16 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:16 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "RunningSpeed" from <i>0.2</i> to <i>5</i>
+(((((edit)))))Mon Dec 03 18:00:16 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "Acceleration" from <i>0</i> to <i>10</i>
+(((((edit)))))Mon Dec 03 18:00:24 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Dec 03 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Dec 03 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Dec 03 18:00:27 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>1</i> to <i>1</i>
+(((((edit)))))Mon Dec 03 18:00:28 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:28 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Dec 03 18:00:28 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Mon Dec 03 18:00:28 2012: Hoshigaki, Taku edited Hoshigaki, Taku's "TakingPartInChuunins" from <i>0</i> to <i>1</i>
+(((((edit)))))Tue Dec 04 18:00:27 2012:Hoshigaki, Taku ()(CobraT1337) started editing Hoshigaki, Taku ()(CobraT1337)
+(((((edit)))))Thu Dec 06 18:00:22 2012:Toko ()(CobraT1337) started editing WoodlandBranch
+(((((edit)))))Thu Dec 06 18:00:44 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Thu Dec 06 18:00:44 2012: Toko edited Toko's "mangekyouC" from "Itachi" to "sasuke"
+(((((edit)))))Thu Dec 06 18:00:44 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Thu Dec 06 18:00:44 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Thu Dec 06 18:00:44 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Thu Dec 06 18:00:45 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Thu Dec 06 18:00:45 2012: Toko edited Toko's "mangekyouC" from "sasuke" to "itachi"
+(((((edit)))))Thu Dec 06 18:00:45 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Fri Dec 07 18:00:02 2012: Toko(CobraT1337) created <i>/obj/WEAPONS/Bow</i>
+(((((edit)))))Fri Dec 07 18:00:03 2012: Toko(CobraT1337) created <i>/obj/WEAPONS/Bow</i>
+(((((edit)))))Fri Dec 07 18:00:17 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Fri Dec 07 18:00:18 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Fri Dec 07 18:00:21 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Fri Dec 07 18:00:21 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Fri Dec 07 18:00:23 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Fri Dec 07 18:00:25 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sat Dec 08 18:00:48 2012:Toko ()(CobraT1337) started editing Toko
+(((((edit)))))Sat Dec 08 18:02:23 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sat Dec 08 18:02:23 2012: Toko edited Toko's "RemovedUpperCloathing" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Dec 08 18:02:23 2012: Toko edited Toko's "ReverseFourSymbolsPlaced" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 09 18:00:10 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sun Dec 09 18:00:11 2012: Toko edited Toko's "Rasenganon" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 09 18:00:26 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sun Dec 09 18:00:27 2012:Toko ()(CobraT1337) started editing Electrocute
+(((((edit)))))Mon Dec 10 18:00:35 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Mon Dec 10 18:00:35 2012: Toko edited Toko's "Clan" from "Basic" to "Kumojin"
+(((((edit)))))Mon Dec 10 18:02:20 2012:Uchiha, Sasuna ()(XXSharingan123XX) started editing Uchiha, Sasuna ()(XXSharingan123XX)
+(((((edit)))))Mon Dec 10 18:02:20 2012:Toko ()(CobraT1337) started editing Body Flame Teleportation
+(((((edit)))))Mon Dec 10 18:02:20 2012: Toko edited Body Flame Teleportation's "Uses" from <i>0</i> to <i>5432</i>
+(((((edit)))))Wed Dec 12 18:02:21 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Wed Dec 12 18:02:21 2012: Toko edited Toko's "chakra" from <i>9303.74</i> to <i>505</i>
+(((((edit)))))Thu Dec 13 18:00:21 2012:Toko ()(CobraT1337) started editing Part2
+(((((edit)))))Thu Dec 13 18:00:24 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Thu Dec 13 18:00:24 2012: Toko edited Toko's "health" from <i>1267</i> to <i>750</i>
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top9
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "pixel_x" from <i>0</i> to <i>8</i>
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from "WEST+2:8,NORTH:-6" to "WEST+1:8,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from "WEST+1:8,NORTH:-6" to "WEST+2:8,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from "WEST+2:8,NORTH:-6" to "WEST+2:9,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from <i>WEST+2:9,NORTH:-6</i> to <i></i>
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from "" to "WEST+2:10,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top9
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top8
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top8's "screen_loc" from "WEST+1:7,NORTH:-6" to "WEST+1:9,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top9
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top9's "screen_loc" from "WEST+2:10,NORTH:-6" to "WEST+2:12,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top9
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top6
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top6's "screen_loc" from "WEST+2:8,NORTH-1:-6" to "WEST+2:12,NORTH-1:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top6
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top3
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top3's "screen_loc" from "WEST+2:8,NORTH-2:-6" to "WEST+2:12,NORTH-2:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012:Toko ()(CobraT1337) started editing Top2
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top2's "screen_loc" from "WEST+1:7,NORTH-2:-6" to "WEST+1:11,NORTH-2:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top2's "screen_loc" from <i>WEST+1:11,NORTH-2:-6</i> to <i></i>
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top2's "screen_loc" from "" to ""WEST+1:12,NORTH-1:-6""
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top2's "screen_loc" from ""WEST+1:12,NORTH-1:-6"" to ""WEST+1:12,NORTH-1:-6"
+(((((edit)))))Thu Dec 13 18:00:35 2012: Toko edited Top2's "screen_loc" from ""WEST+1:12,NORTH-1:-6" to "WEST+1:12,NORTH-1:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top2's "screen_loc" from "WEST+1:12,NORTH-1:-6" to "WEST+1:12,NORTH-2:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012:Toko ()(CobraT1337) started editing Top1
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top1's "screen_loc" from "WEST:6,NORTH-2:-6" to "WEST:12,NORTH-2:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012:Toko ()(CobraT1337) started editing Top4
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top4's "screen_loc" from "WEST:6,NORTH-1:-6" to "WEST:12,NORTH-1:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012:Toko ()(CobraT1337) started editing Top7
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top7's "screen_loc" from "WEST:6,NORTH:-6" to "WEST:12,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012:Toko ()(CobraT1337) started editing Top5
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top5's "screen_loc" from "WEST+1:7,NORTH-1:-6" to "WEST+1:12,NORTH-1:-6"
+(((((edit)))))Thu Dec 13 18:00:36 2012:Toko ()(CobraT1337) started editing Top8
+(((((edit)))))Thu Dec 13 18:00:36 2012: Toko edited Top8's "screen_loc" from "WEST+1:9,NORTH:-6" to "WEST+1:12,NORTH:-6"
+(((((edit)))))Thu Dec 13 18:00:42 2012:Toko ()(CobraT1337) started editing Part6
+(((((edit)))))Thu Dec 13 18:00:44 2012:Toko ()(CobraT1337) started editing Part5
+(((((edit)))))Thu Dec 13 18:00:44 2012: Toko edited Part5's "layer" from <i>55</i> to <i>0</i>
+(((((edit)))))Fri Dec 14 18:00:01 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Fri Dec 14 18:00:01 2012: Toko edited Toko's "StatusEffected" from <i>0</i> to <i>500</i>
+(((((edit)))))Fri Dec 14 18:00:01 2012: Toko edited Toko's "Status" from "" to "Burn"
+(((((edit)))))Fri Dec 14 18:00:04 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Fri Dec 14 18:00:04 2012: Toko edited Toko's "Broil" from <i>0</i> to <i>20</i>
+(((((edit)))))Fri Dec 14 18:00:05 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Fri Dec 14 18:00:06 2012: Toko edited Toko's "Broil" from <i>0</i> to <i>20</i>
+(((((edit)))))Fri Dec 14 18:00:10 2012:Toko ()(CobraT1337) started editing Part4
+(((((edit)))))Sat Dec 15 18:02:17 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sat Dec 15 18:02:17 2012:Toko ()(CobraT1337) started editing Top5
+(((((edit)))))Sat Dec 15 18:02:17 2012:Toko ()(CobraT1337) started editing Top2
+(((((edit)))))Sun Dec 16 18:00:06 2012:Toko ()(CobraT1337) started editing Rain
+(((((edit)))))Sun Dec 16 18:00:10 2012:Toko ()(CobraT1337) started editing Rain
+(((((edit)))))Sun Dec 16 18:00:14 2012:Toko ()(CobraT1337) started editing HeavyRain
+(((((edit)))))Mon Dec 17 18:00:13 2012:Toko ()(CobraT1337) started editing Owater
+(((((edit)))))Mon Dec 17 18:00:17 2012:Toko ()(CobraT1337) started editing Destructive Torrents
+(((((edit)))))Mon Dec 17 18:00:17 2012: Toko edited Destructive Torrents's "Uses" from <i>0</i> to <i>500</i>
+(((((edit)))))Tue Dec 25 18:02:04 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Tue Dec 25 18:02:04 2012: Toko edited Toko's "Swift" from <i>10</i> to <i>4</i>
+(((((edit)))))Tue Dec 25 18:02:04 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Tue Dec 25 18:02:04 2012: Toko edited Toko's "Swift" from <i>10</i> to <i>4</i>
+(((((edit)))))Tue Dec 25 18:02:06 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Tue Dec 25 18:02:06 2012: Toko edited Toko's "Swift" from <i>10</i> to <i>4</i>
+(((((edit)))))Wed Dec 26 18:00:02 2012:Toko ()(CobraT1337) started editing HeavyRain
+(((((edit)))))Wed Dec 26 18:00:02 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Wed Dec 26 18:00:02 2012: Toko edited Toko's "Dev" from <i>0</i> to <i>1</i>
+(((((edit)))))Wed Dec 26 18:00:03 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Wed Dec 26 18:00:03 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Wed Dec 26 18:00:05 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sat Dec 29 19:01:57 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sat Dec 29 19:01:57 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sat Dec 29 19:01:57 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:04 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:04 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing Byakugan
+(((((edit)))))Sun Dec 30 19:00:04 2012: Hyuuga, dsfsdgf' edited Byakugan's "Delay" from <i>0</i> to <i>0</i>
+(((((edit)))))Sun Dec 30 18:00:12 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sun Dec 30 18:00:12 2012: Toko edited Toko's "AutoSphere" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 30 18:00:13 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sun Dec 30 18:00:13 2012: Toko edited Toko's "AutoSphere" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 30 18:00:13 2012:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Sun Dec 30 18:00:13 2012: Toko edited Toko's "AutoSphere" from <i>0</i> to <i>1</i>
+(((((edit)))))Sun Dec 30 19:00:50 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:50 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:50 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:50 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing 64 Palms
+(((((edit)))))Sun Dec 30 19:00:50 2012: Hyuuga, dsfsdgf' edited 64 Palms's "Delay" from <i>1</i> to <i>0</i>
+(((((edit)))))Sun Dec 30 19:00:51 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:51 2012:Hyuuga, dsfsdgf' ()(DemonicK) started editing 64 Palms
+(((((edit)))))Sun Dec 30 19:00:51 2012: Hyuuga, dsfsdgf' edited 64 Palms's "Delay" from <i>0</i> to <i>0</i>
+(((((edit)))))Sun Dec 30 19:00:52 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:52 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Sun Dec 30 19:00:53 2012:Hyuuga, dsfsdgf' ()(DemonicK) edited Hyuuga, dsfsdgf' ()(DemonicK)
+(((((edit)))))Mon Jan 07 18:00:27 2013:Toko ()(CobraT1337) started editing Toko ()(CobraT1337)
+(((((edit)))))Mon Jan 07 18:00:27 2013: Toko edited Toko's "Village" from "Leaf" to "Sound"
+(((((edit)))))Tue Jan 08 19:00:36 2013:Hyuuga, sdfsdfs ()(DemonicK) edited Hyuuga, sdfsdfs ()(DemonicK)
+(((((edit)))))Wed Jan 09 19:00:06 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Jan 09 19:00:06 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Jan 09 19:00:06 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Jan 09 19:00:06 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Thu Jan 10 18:00:15 2013:Hoshigaki, Toko ()(CobraT1337) started editing Bubble Beam
+(((((edit)))))Thu Jan 10 18:00:15 2013: Hoshigaki, Toko edited Bubble Beam's "Uses" from <i>0</i> to <i>350</i>
+(((((edit)))))Thu Jan 10 18:00:16 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Thu Jan 10 18:00:22 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Thu Jan 10 18:00:23 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "firing" from <i>1</i> to <i>0</i>
+(((((edit)))))Fri Jan 11 18:02:10 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Fri Jan 11 18:02:10 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "GenSkill" from <i>10</i> to <i>25</i>
+(((((edit)))))Sat Jan 12 18:00:25 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Sat Jan 12 18:00:25 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "GenSkill" from <i>10</i> to <i>25</i>
+(((((edit)))))Fri Jan 18 19:01:57 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Fri Jan 18 19:01:57 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Fri Jan 18 19:01:57 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Sun Jan 20 18:01:51 2013: Hoshigaki, Toko(CobraT1337) created <i>/obj/Ocarina</i>
+(((((edit)))))Sat Feb 09 19:00:45 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Feb 20 19:01:55 2013:Akimichi, Argon ()(DemonicK) started editing Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Feb 20 19:01:56 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Wed Feb 20 19:01:56 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Mon Feb 25 18:00:22 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Mon Feb 25 18:00:22 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Hoshigaki" to "Uchiha"
+(((((edit)))))Mon Feb 25 18:00:25 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Mon Feb 25 18:00:25 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Hoshigaki" to "Uchiha"
+(((((edit)))))Tue Feb 26 19:00:02 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:02 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:08 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:08 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:08 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:09 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:09 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:09 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 18:00:12 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Tue Feb 26 18:00:12 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Hoshigaki" to "Uchiha"
+(((((edit)))))Tue Feb 26 18:00:12 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Uchiha" to "Uchiha"
+(((((edit)))))Tue Feb 26 19:00:13 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:13 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:13 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:13 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:13 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:14 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:15 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:15 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:15 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:15 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:15 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:16 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 19:00:16 2013:Akimichi, Argon ()(DemonicK) edited Akimichi, Argon ()(DemonicK)
+(((((edit)))))Tue Feb 26 18:00:16 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Tue Feb 26 18:00:16 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Hoshigaki" to "Uchiha"
+(((((edit)))))Tue Feb 26 18:00:19 2013:Hoshigaki, Toko ()(CobraT1337) started editing Hoshigaki, Toko ()(CobraT1337)
+(((((edit)))))Tue Feb 26 18:00:19 2013: Hoshigaki, Toko edited Hoshigaki, Toko's "Clan" from "Hoshigaki" to "Uchiha"
+(((((edit)))))Wed Feb 27 18:00:21 2013: Uchiha, Sasuna(CobraT1337) created <i>/obj/Clothes/HeavyArmor</i>
+(((((edit)))))Wed Feb 27 18:00:21 2013: Uchiha, Sasuna(CobraT1337) created <i>/obj/Clothes/HeavyArmor</i>
+(((((edit)))))Thu Feb 28 18:00:30 2013:Uchiha, Sasuna ()(CobraT1337) started editing Uchiha, Sasuna ()(CobraT1337)
+(((((edit)))))Thu Feb 28 18:02:11 2013: Iwazuka, Sasuna(CobraT1337) created <i>/obj/BuyableThings/Supplies/Clay</i>
+(((((edit)))))Thu Feb 28 18:02:11 2013: Iwazuka, Sasuna(CobraT1337) created <i>/obj/BuyableThings/Supplies/Clay</i>
+(((((edit)))))Thu Feb 28 18:02:13 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Thu Feb 28 18:02:13 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:12 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:12 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:12 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:12 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:13 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:13 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "DeathAvoidCount" from <i>0</i> to <i>84</i>
+(((((edit)))))Sun Mar 03 18:00:14 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:14 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:14 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "DeathAvoidCount" from <i>0</i> to <i>94</i>
+(((((edit)))))Sun Mar 03 18:00:14 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "DeathAvoidCount" from <i>91</i> to <i>84</i>
+(((((edit)))))Sun Mar 03 18:00:14 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:16 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:16 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:16 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:16 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:17 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:23 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:24 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:27 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:27 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:47 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:00:48 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Sun Mar 03 18:01:26 2013:Iwazuka, Sasuna (127.0.0.1)(CobraT1337) started editing Iwazuka, Sasuna (127.0.0.1)(CobraT1337)
+(((((edit)))))Sun Mar 03 18:01:26 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "NinjutsuMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Sun Mar 03 18:01:26 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Thu Mar 07 18:01:30 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Thu Mar 07 18:01:30 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "JutsuDelay" from <i>706044</i> to <i>0</i>
+(((((edit)))))Thu Mar 07 18:01:30 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Thu Mar 07 18:01:30 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "JutsuEXPCost" from <i>0</i> to <i>9999</i>
+(((((edit)))))Fri Mar 08 18:02:06 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Fri Mar 08 18:02:06 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "GenSkill" from <i>10</i> to <i>20</i>
+(((((edit)))))Sat Mar 09 18:00:08 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sat Mar 09 18:00:08 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "ByakuganMastery" from <i>0</i> to <i>500</i>
+(((((edit)))))Sun Mar 10 19:02:15 2013:Iwazuka, Sasuna ()(CobraT1337) started editing Iwazuka, Sasuna ()(CobraT1337)
+(((((edit)))))Sun Mar 10 19:02:15 2013: Iwazuka, Sasuna edited Iwazuka, Sasuna's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Tue Mar 12 19:00:23 2013: Uchah, Sasnan(CobraT1337) created <i>/obj/BuyableThings/Supplies/Paper</i>
+(((((edit)))))Tue Mar 12 19:00:30 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Tue Mar 12 19:02:03 2013:Uchah, Sasnan ()(CobraT1337) started editing Person Explosive
+(((((edit)))))Wed Mar 13 19:00:09 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Uchah, Sasnan (127.0.0.1)(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:09 2013: Uchah, Sasnan edited Uchah, Sasnan's "Trait" from "Speedy" to "Obese"
+(((((edit)))))Wed Mar 13 19:00:09 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Uchah, Sasnan (127.0.0.1)(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:09 2013: Uchah, Sasnan edited Uchah, Sasnan's "HandsealSpeed" from <i>45</i> to <i>30</i>
+(((((edit)))))Wed Mar 13 19:00:11 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Uchah, Sasnan (127.0.0.1)(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:11 2013: Uchah, Sasnan edited Uchah, Sasnan's "WindChakra" from <i>0</i> to <i>20</i>
+(((((edit)))))Wed Mar 13 19:00:11 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Uchah, Sasnan (127.0.0.1)(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:37 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Uchah, Sasnan (127.0.0.1)(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:37 2013: Uchah, Sasnan(CobraT1337) created <i>/obj/BuyableThings/Supplies/Clay</i>
+(((((edit)))))Wed Mar 13 19:00:37 2013: Uchah, Sasnan(CobraT1337) created <i>/obj/BuyableThings/Supplies/Clay</i>
+(((((edit)))))Wed Mar 13 19:00:37 2013: Uchah, Sasnan(CobraT1337) created <i>/obj/BuyableThings/Supplies/Clay</i>
+(((((edit)))))Wed Mar 13 19:00:38 2013: Uchah, Sasnan(CobraT1337) created <i>/obj/Iwazuka_GrassHopper</i>
+(((((edit)))))Wed Mar 13 19:00:46 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:46 2013: Uchah, Sasnan edited Uchah, Sasnan's "ShadowStrength" from <i>0.1</i> to <i>20</i>
+(((((edit)))))Wed Mar 13 19:00:47 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:47 2013: Uchah, Sasnan edited Uchah, Sasnan's "ShadowMastery" from <i>0</i> to <i>20</i>
+(((((edit)))))Wed Mar 13 19:00:49 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Wed Mar 13 19:00:49 2013: Uchah, Sasnan edited Uchah, Sasnan's "firing" from <i>1</i> to <i>0</i>
+(((((edit)))))Wed Mar 13 19:01:51 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Wed Mar 13 19:01:51 2013: Uchah, Sasnan edited Uchah, Sasnan's "firing" from <i>1</i> to <i>0</i>
+(((((edit)))))Wed Mar 13 19:01:54 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Wed Mar 13 19:02:17 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Thu Mar 14 19:00:26 2013:Hyuuga, sasna (127.0.0.1)(XXSharingan123XX) started editing Hyuuga, sasna (127.0.0.1)(XXSharingan123XX)
+(((((edit)))))Thu Mar 14 19:00:26 2013: Hyuuga, sasna edited Hyuuga, sasna's "HandsealsMastery" from <i>0</i> to <i>3</i>
+(((((edit)))))Thu Mar 14 19:00:29 2013:Hyuuga, sasna (127.0.0.1)(XXSharingan123XX) started editing Hyuuga, sasna (127.0.0.1)(XXSharingan123XX)
+(((((edit)))))Thu Mar 14 19:00:31 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Hyuuga, sasna (127.0.0.1)(XXSharingan123XX)
+(((((edit)))))Thu Mar 14 19:00:31 2013:Uchah, Sasnan (127.0.0.1)(CobraT1337) started editing Hyuuga, sasna (127.0.0.1)(XXSharingan123XX)
+(((((edit)))))Mon Mar 18 19:00:20 2013:Uchah, Sasnan ()(CobraT1337) started editing Uchah, Sasnan ()(CobraT1337)
+(((((edit)))))Mon Mar 18 19:00:20 2013: Uchah, Sasnan edited Uchah, Sasnan's "LifeGate" from <i>0</i> to <i>1</i>
+(((((edit)))))Mon Mar 18 19:00:20 2013: Uchah, Sasnan edited Uchah, Sasnan's "WoundGate" from <i>0</i> to <i>1</i>
+(((((edit)))))Sat Mar 23 19:02:04 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:04 2013: Uchiha, Chosen edited Uchiha, Chosen's "WindChakra" from <i>0.01</i> to <i>20</i>
+(((((edit)))))Sat Mar 23 19:02:04 2013: Uchiha, Chosen edited Uchiha, Chosen's "NinSkill" from <i>35</i> to <i>25</i>
+(((((edit)))))Sat Mar 23 19:02:04 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:04 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:04 2013: Uchiha, Chosen edited Uchiha, Chosen's "Endurance" from <i>150</i> to <i>100</i>
+(((((edit)))))Sat Mar 23 19:02:05 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "MEndurance" from <i>150</i> to <i>100</i>
+(((((edit)))))Sat Mar 23 19:02:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "Endurance" from <i>125</i> to <i>100</i>
+(((((edit)))))Sat Mar 23 19:02:05 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "NinSkill" from <i>25</i> to <i>40</i>
+(((((edit)))))Sat Mar 23 19:02:05 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sat Mar 23 19:02:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "nin" from <i>105</i> to <i>120</i>
+(((((edit)))))Sun Mar 24 19:02:13 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Sun Mar 24 19:02:13 2013: Uchiha, Chosen edited Uchiha, Chosen's "chakra" from <i>9250</i> to <i>4256</i>
+(((((edit)))))Tue Apr 02 19:00:05 2013: Uchiha, Chosen(CobraT1337) created <i>/obj/BuyableThings/Supplies/Wires</i>
+(((((edit)))))Tue Apr 02 19:00:17 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Tue Apr 02 19:00:17 2013: Uchiha, Chosen edited Uchiha, Chosen's "TaijutsuStyle" from "Quick Fist" to "Jyuken"
+(((((edit)))))Tue Apr 02 19:00:18 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Tue Apr 02 19:00:28 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Tue Apr 02 19:00:28 2013: Uchiha, Chosen edited Uchiha, Chosen's "TaijutsuStyle" from "Jyuken" to "Basic"
+(((((edit)))))Thu Apr 04 19:00:33 2013:Uchiha, Chosen ()(CobraT1337) started editing Uchiha, Chosen ()(CobraT1337)
+(((((edit)))))Thu Apr 04 19:00:33 2013: Uchiha, Chosen edited Uchiha, Chosen's "Age" from <i>47</i> to <i>12</i>
+(((((edit)))))Thu Apr 04 19:00:33 2013: Uchiha, Chosen edited Uchiha, Chosen's "Trait" from "Speedy" to """"
+(((((edit)))))Thu Apr 04 19:00:33 2013: Uchiha, Chosen edited Uchiha, Chosen's "AgeEXP" from <i>13477</i> to <i>35000</i>
+(((((edit)))))Thu Apr 04 19:01:21 2013: Uchiha, Chosen(CobraT1337) created <i>/obj/ObjectTurfs</i>
+(((((edit)))))Wed May 01 20:00:32 2013:Nara, Argon ()(DemonicK) started editing Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:00:32 2013:Nara, Argon ()(DemonicK) started editing Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:00:32 2013:Nara, Argon ()(DemonicK) started editing Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:03 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:03 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:04 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:17 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:17 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:19 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:19 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:19 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 01 20:01:19 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Mon May 06 20:01:38 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Mon May 06 20:01:38 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 08 20:01:50 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 08 20:01:50 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Wed May 08 20:01:50 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Tue May 14 20:01:14 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Tue May 14 20:01:15 2013:Nara, Argon ()(DemonicK) edited Nara, Argon ()(DemonicK)
+(((((edit)))))Tue May 14 20:01:15 2013: Nara, Argon edited Fuuinjutsu: Mind Control Jutsu's "Delay" from <i>1</i> to <i>0</i>
+(((((edit)))))Wed May 15 20:01:46 2013:??? ()(DemonicK) edited ??? ()(DemonicK)
+(((((edit)))))Wed May 15 20:01:46 2013:??? ()(DemonicK) edited ??? ()(DemonicK)
+(((((edit)))))Mon Jun 03 19:00:16 2013: Uchiha, Chosen edited Uchiha, Chosen's "Subscriber" from <i>1</i> to <i>0</i>
+(((((edit)))))Tue Jun 04 19:02:21 2013: Uchiha, Chosen edited Exploding Tag's "ammount" from <i>0</i> to <i>50</i>
+(((((edit)))))Tue Jun 04 19:02:21 2013: Uchiha, Chosen edited Exploding Tag's "ammount" from <i>50</i> to <i>25</i>
+(((((edit)))))Tue Jun 04 19:02:22 2013: Uchiha, Chosen edited Exploding Tag's "ammount" from <i>25</i> to <i>45</i>
+(((((edit)))))Thu Jun 20 19:00:03 2013: Uchiha, Chosen edited Uchiha, Chosen's "CalloftheSwamp" from <i>0</i> to <i>2</i>
+(((((edit)))))Thu Jun 20 19:00:14 2013: Uchiha, Chosen edited Grand Dragon Fire's "Uses" from <i>504</i> to <i>5000</i>
+(((((edit)))))Thu Jun 20 19:00:14 2013: Uchiha, Chosen edited Uchiha, Chosen's "DragonTamer" from <i>2</i> to <i>3</i>
+(((((edit)))))Fri Jun 21 19:00:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "CalloftheSwamp" from <i>2</i> to <i>3</i>
+(((((edit)))))Fri Jun 21 19:00:05 2013: Uchiha, Chosen edited Uchiha, Chosen's "CalloftheSwamp" from <i>3</i> to <i>2</i>
+(((((edit)))))Fri Jun 21 19:00:06 2013: Uchiha, Chosen edited Uchiha, Chosen's "NinjutsuMastery" from <i>10</i> to <i>1000</i>
+(((((edit)))))Fri Jun 21 19:00:06 2013: Uchiha, Chosen edited Swamp of the Underworld's "Delay" from <i>1</i> to <i>0</i>
+(((((edit)))))Fri Jun 21 19:00:06 2013: Uchiha, Chosen edited Uchiha, Chosen's "CalloftheSwamp" from <i>2</i> to <i>3</i>
+(((((edit)))))Fri Jun 21 19:00:06 2013: Uchiha, Chosen edited Uchiha, Chosen's "CalloftheSwamp" from <i>3</i> to <i>4</i>
+(((((edit)))))Mon Jun 24 19:00:03 2013: Uchiha, Chosen edited Grand Dragon Fire's "Uses" from <i>5002</i> to <i>300</i>
+(((((edit)))))Mon Jun 24 19:00:03 2013: Uchiha, Chosen edited Grand Dragon Fire's "Uses" from <i>301</i> to <i>1200</i>
+(((((edit)))))Mon Jun 24 19:00:04 2013: Uchiha, Chosen edited Grand Dragon Fire's "Uses" from <i>5001</i> to <i>200</i>
+(((((edit)))))Mon Jun 24 19:00:06 2013: Uchiha, Chosen edited Uchiha, Chosen's "FirstArenaWin" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Jun 24 19:00:07 2013: Uchiha, Chosen edited Uchiha, Chosen's "FirstArenaWin" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Jun 24 19:00:08 2013: Uchiha, Chosen edited Uchiha, Chosen's "FirstArenaWin" from <i>1</i> to <i>0</i>
+(((((edit)))))Mon Nov 03 22:00:11 2014: Iwazuka, Luu Halls edited Iwazuka, Luu Halls's "Yen" from <i>5000</i> to <i>2.5e+023</i>
+(((((edit)))))Mon Nov 03 22:01:35 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "Age" from <i>10</i> to <i>20</i>
+(((((edit)))))Mon Nov 03 22:01:38 2014: Momochi, Luu Halls edited Kusakin, Kuro's "ElementalPoints" from <i>33</i> to <i>150</i>
+(((((edit)))))Mon Nov 03 22:01:39 2014: Momochi, Luu Halls edited Kusakin, Kuro's "PrevChakraAmount" from <i>2675</i> to <i>8000</i>
+(((((edit)))))Mon Nov 03 22:01:39 2014: Momochi, Luu Halls edited Kusakin, Kuro's "PrevChakraResAmount" from <i>9900</i> to <i>25000</i>
+(((((edit)))))Mon Nov 03 22:02:07 2014: Momochi, Luu Halls edited Saru, Vongore's "Age" from <i>10</i> to <i>20</i>
+(((((SPY)))))Mon Nov 03 22:02:08 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:09 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:11 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:11 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:11 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((SPY)))))Mon Nov 03 22:02:11 2014:Momochi, Luu Halls (3864720729 127.0.0.1) spied Saru, Vongore
+(((((edit)))))Tue Nov 04 22:01:36 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "WindChakra" from <i>20</i> to <i>50000</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "NinSkill" from <i>5</i> to <i>40</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "ElementalCapacity" from <i>5</i> to <i>50</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "ElementalCapacity" from <i>50</i> to <i>50</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "SoulCap" from <i>25</i> to <i>100</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "nin" from <i>15</i> to <i>150</i>
+(((((edit)))))Tue Nov 04 22:01:37 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "tai" from <i>120</i> to <i>2500</i>
+(((((edit)))))Sun Nov 09 22:01:45 2014: Aburame, luu edited Aburame, luu's "oname" from "Aburame, luu" to "Aburame, luu' corpse"
+(((((edit)))))Sun Nov 09 22:01:45 2014: Aburame, luu edited Aburame, luu's "oname" from "Aburame, luu' corpse" to "Aburame, luu' corpse"
+(((((edit)))))Sun Nov 09 22:01:45 2014: Aburame, luu edited Aburame, luu's "victim" from "Aburame, luu" to "Aburame, luu' corpse"
+(((((edit)))))Sat Nov 15 22:01:53 2014: Uchiha, Luu Halls edited Uchiha, Luu Halls's "Age" from <i>10</i> to <i>20</i>
+(((((edit)))))Sat Nov 15 22:02:05 2014: Momochi, Luu Halls edited Momochi, Luu Halls's "Age" from <i>10</i> to <i>25</i>
+(((((edit)))))Mon Nov 24 22:02:09 2014: Satou, Luu Halls edited Satou, Luu Halls's "Drunk" from <i>0.1</i> to <i>10</i>
+(((((edit)))))Mon Nov 24 22:02:09 2014: Satou, Luu Halls edited Satou, Luu Halls's "Shield" from <i>0</i> to <i>5</i>
+(((((edit)))))Mon Nov 24 22:02:09 2014: Satou, Luu Halls edited Satou, Luu Halls's "LostBuzz" from <i>0</i> to <i>10</i>
+(((((edit)))))Tue Nov 25 22:01:52 2014: Satou, Luu Halls edited Satou, Luu Halls's "Age" from <i>10</i> to <i>20</i>
+(((((edit)))))Tue Nov 25 22:01:53 2014: Satou, Luu Halls edited Satou, Luu Halls's "NinSkill" from <i>35</i> to <i>40</i>
+(((((edit)))))Thu Dec 11 22:00:18 2014: Kusakin, Luu Halls edited Kusakin, Luu Halls's "Yen" from <i>0</i> to <i>1.5e+006</i>
+(((((edit)))))Sun May 03 21:01:42 2015: Shiroi, DASD edited Shiroi, DASD's "Yen" from <i>1000</i> to <i>10000</i>
+(((((edit)))))Sun May 03 21:01:42 2015: Shiroi, DASD edited Shiroi, DASD's "Yen" from <i>10000</i> to <i>2.12121e+012</i>
+(((((edit)))))Mon May 04 21:02:12 2015: Ningyo, Editado edited Ningyo, Editado's "Yen" from <i>5000</i> to <i>1e+006</i>
+(((((edit)))))Mon May 04 21:02:12 2015: Ningyo, Editado edited Ningyo, Editado's "NinjutsuKnowledge" from <i>250</i> to <i>13333</i>
+(((((edit)))))Mon May 04 21:02:16 2015: Ningyo, Editado edited Ningyo, Editado's "GenSkill" from <i>5</i> to <i>40</i>
+(((((edit)))))Mon May 04 21:02:16 2015: Ningyo, Editado edited Ningyo, Editado's "TaiSkill" from <i>5</i> to <i>40</i>
+(((((edit)))))Mon May 04 21:02:16 2015: Ningyo, Editado edited Ningyo, Editado's "TaiSkill" from <i>40</i> to <i>40</i>
+(((((edit)))))Tue May 05 21:01:38 2015: Ningyo, Math edited Ningyo, Math's "NinjutsuKnowledge" from <i>250</i> to <i>25000</i>
+(((((edit)))))Tue May 05 21:01:39 2015: Ningyo, Math edited Ningyo, Math's "NinjutsuKnowledge" from <i>25000</i> to <i>5000</i>
+(((((edit)))))Tue May 05 21:01:39 2015: Ningyo, Math edited Kyoumou, Setsu's "NinjutsuKnowledge" from <i>250</i> to <i>5000</i>
+(((((edit)))))Tue May 05 21:01:39 2015: Ningyo, Math edited Ningyo, Math's "NinjutsuKnowledge" from <i>250</i> to <i>5000</i>
+(((((edit)))))Tue May 05 21:01:40 2015: Ningyo, Math edited Shiroi, Setsu's "NinjutsuKnowledge" from <i>607</i> to <i>5000</i>
+(((((edit)))))Tue May 05 21:01:40 2015: Ningyo, Math edited Uchiha, Setsu's "NinjutsuKnowledge" from <i>250</i> to <i>5000</i>
+(((((edit)))))Tue May 05 21:01:40 2015: Ningyo, Math edited Uchiha, Wipe's "NinjutsuKnowledge" from <i>250</i> to <i>2399</i>
+(((((edit)))))Tue May 05 21:01:40 2015: Ningyo, Math edited Ningyo, Math's "Yen" from <i>5000</i> to <i>1e+007</i>
+(((((edit)))))Tue May 05 21:01:42 2015: Ningyo, Math edited Ningyo, Kuroha's "Yen" from <i>5000</i> to <i>1e+007</i>
+(((((edit)))))Wed May 06 21:02:06 2015: LAd, Olda edited LAd, Olda's "NinjutsuKnowledge" from <i>250</i> to <i>1.11111e+013</i>
+(((((edit)))))Thu Oct 20 22:02:01 2016:Yogan, Luui (127.0.0.1)(Lui12) edited Yogan, Luui (127.0.0.1)(Lui12)

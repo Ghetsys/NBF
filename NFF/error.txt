@@ -1,0 +1,16 @@
+runtime error: pick() from empty list
+proc name: New (/world/New)
+  source file: 1.1.Required.dm,26
+  usr: null
+  src: 
+  call stack:
+: New()
+: New()
+runtime error: pick() from empty list
+proc name: New (/world/New)
+  source file: 1.1.Required.dm,26
+  usr: null
+  src: 
+  call stack:
+: New()
+: New()

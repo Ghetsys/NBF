@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: Map\Turfs\Buildings.dm;Code\Check Proc.dm;Map\turf.dm;Code\Weapons.dm;Code\Legendary Blade Stuff.dm;Code\Techniques\Attack.dm;Code\Techniques\Clans\Uchiha.dm;Code\Techniques\Passives.dm;Code\Techniques\Skillcards.dm;Code\Techniques\Clans\Sabaku_Jutsu_Set.dm;Code\Techniques\Ninjutsu\Clone_Jutsu_Set.dm;Aburame.dm;Code\Death.dm;Code\NPCs\TeacherNPCs.dm;Code\Techniques\(Engine) Effects.dm;Code\Techniques\Clans\Aburame.dm;Code\Techniques\Ninjutsu\Fushi Tensei.dm
+LAST_COMPILE_VERSION: 499.1195
+DIR: Code Code\Engines Code\NPCs Code\NPCs\AISystem Code\NPCs\MerchantsSystem Code\OtherSystems Code\Techniques Code\Techniques\Clans Code\Techniques\Ninjutsu Map Map\Turfs 
+FILE: Code\Techniques\Clans\Sabaku_Jutsu_Set.dm
+LAST_COMPILE_TIME: 1372289229
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS

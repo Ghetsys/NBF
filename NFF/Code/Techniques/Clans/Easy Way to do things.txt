@@ -1,0 +1,108 @@
+/////////////////////////////////////////////////////////////////////////////////////////////
+//Village Capture the Flag 1.1
+
+mob/Bump(obj/src)
+	..()
+	if(istype(src,/obj/Hidden_Ninja_Scroll))
+		var/obj/Hidden_Ninja_Scroll/H=src
+		if(!usr.client) return
+		if(usr.Village!=H.VillageIn)
+			if(!H.CanBeTaken)
+				usr<<"Not yet, there is a 10 minute delay"
+				return
+			if(usr.pickedup)
+				return
+			usr.pickedup=1
+			sleep(1)
+			PreviousLocation=H.loc
+			H.loc=usr;usr.loc=PreviousLocation
+			usr.HasHiddenScroll=1
+			if(prob(10))
+				if(usr.Acceleration<10)
+					usr.Acceleration+=1
+					if(usr.Acceleration>10)
+						usr.Acceleration=10
+			ScrollIsIn="Not Currently Taken"
+			for(var/obj/VillageScrollPost/V in usr.loc)
+				V.density=1
+			if(H.VillageIn=="")
+				world<<"<font color=red size=2>[usr] has picked up the Hidden Ninja Scroll!</font>"
+			else
+				world<<"<font color=red size=2>[usr] has stolen the Hidden Ninja Scroll from the [H.VillageIn] Temple!</font>"
+		else
+			return 0
+
+	if(istype(src,/obj/captureTheFlagScroll))
+		var/obj/captureTheFlagScroll/H=src
+		if(!usr.client) return
+		if(usr.Village==H.VillageIn)
+			if(!H.CanBeTaken)
+				usr<<"Not yet, there is a 30 second delay"
+				return
+			if(usr.pickedup)
+				return
+			usr.pickedup=1
+			sleep(1)
+			PreviousLocation=H.loc
+			H.loc=usr;usr.loc=PreviousLocation
+			usr.HasHiddenScroll=1
+			for(var/obj/VillageScrollPost/V in usr.loc)
+				V.density=1
+			if(H.VillageIn=="")
+				world<<"<font color=red size=2>[usr] has picked up the Flag!</font>"
+			else
+				world<<"<font color=red size=2>[usr] has stolen the Flag from the [H.VillageIn] Post!</font>"
+		else
+			return 0
+
+	if(istype(src,/obj/VillageScrollPost))
+		var/obj/O=src
+		if(!usr.client) return
+		if(O.VillagePost in list("Team 1","Team 2")) //If this is a village war post...
+			if(usr.HasHiddenScroll)
+				var/PostIs = (O.VillagePost=="Team 1"?global.villageWarTeamOne:global.villageWarTeamTwo)
+				if(usr.Village == PostIs)
+					if(usr.delivered) return
+					usr.delivered=1
+					spawn(100)
+						usr.delivered=0
+					for(var/obj/Hidden_Ninja_Scroll/H in usr.contents)
+						H.loc=locate(O.x,O.y+1,O.z)
+						usr.HasHiddenScroll=0
+						H.VillageIn=O.VillagePost
+						world<<"<font color=red size=2>[usr] delivered the Flag to the [PostIs] Post!</font>"
+						if(src.Village = global.villageWarTeamOne)
+							global.villageWarTeamOneScore = ++
+						if(src.Village = global.villageWarTeamTwo)
+							global.villageWarTeamTwoScore = ++
+						usr.pickedup=0
+						H.ScrollWait()
+					return 0
+				else
+					usr<<"You cannot deliver it to a village other than your own!"
+					return
+		else
+			if(usr.HasHiddenScroll&&usr.Village==O.VillagePost)
+				if(usr.delivered) return
+				usr.delivered=1
+				spawn(100)
+					usr.delivered=0
+				for(var/obj/Hidden_Ninja_Scroll/H in usr.contents)
+					H.loc=locate(O.x,O.y+1,O.z)
+					usr.HasHiddenScroll=0
+					H.VillageIn=O.VillagePost
+					world<<"<font color=red size=2>[usr] delivered the Hidden Ninja Scroll to the [O.VillagePost] Temple</font>"
+					if(usr.JutsuInLearning!="") usr.JutsuEXPCost+=10000
+					if(usr.JutsuDelay>0) usr.JutsuDelay-=round(usr.JutsuDelay/10)
+					usr.pickedup=0
+					if(prob(10))
+						if(usr.RunningSpeed<5)
+							usr.RunningSpeed+=1
+							if(usr.RunningSpeed>5)
+								usr.RunningSpeed=5
+					ScrollIsIn="[O.VillagePost]"
+					H.ScrollWait()
+				return 0
+			else if(usr.Village!=O.VillagePost)
+				usr<<"You cannot deliver it to a village other than your own!"
+				return
