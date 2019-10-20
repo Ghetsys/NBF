@@ -309,6 +309,8 @@ mob/var
 	Buffet=0
 	AdvancedWielding=0
 	OnewiththeSword=1
+//Chinoike
+	KetsuryuganMastery=0
 //Uchiha
 	ArgonReincarnate=0
 	LoveAndHate=0//Will be a new passive that will give Uchihas a little more to do...

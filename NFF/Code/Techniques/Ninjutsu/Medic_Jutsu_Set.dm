@@ -46,6 +46,10 @@ mob/proc/Mystical_Hand_Technique(Uses)
 					M.Poisoned=0
 					M<<"[src] has cured your Poison."
 					return
+				if(M.ExplodingHuman&&src.Cure&&prob(src.GenSkill))
+					M.ExplodingHuman=0
+					M<<"[src] te cura, tirando a borbulha de seu sangue."
+					return
 				if(M.Status!=""&&src.Cure)
 					M.StatusEffected=0
 					M.Status=""

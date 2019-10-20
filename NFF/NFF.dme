@@ -127,6 +127,7 @@
 #include "Code\Techniques\Skillcards.dm"
 #include "Code\Techniques\techs.dm"
 #include "Code\Techniques\Clans\Akimichi.dm"
+#include "Code\Techniques\Clans\Chinoike_Jutsu_Set.dm"
 #include "Code\Techniques\Clans\Hoshigaki.dm"
 #include "Code\Techniques\Clans\Hyuuga_Jutsu_Set.dm"
 #include "Code\Techniques\Clans\Inuzuka.dm"

@@ -4610,6 +4610,7 @@ mob/proc/ApexStaffExtend()
 						AttackEfx(M.x,M.y,M.z)
 				if(NewLoc)
 					M.HitBack(1,src.dir)
+/*
 mob/proc/GashSystem()
 	var/tmp/Gashed=0
 	if(Gashed<5)
@@ -4621,7 +4622,7 @@ mob/proc/GashSystem()
 			return
 	if(src.knockedout)
 		return
-
+*/
 
 mob/var/tmp/UsingBow=0
 mob/var/BowTips=1

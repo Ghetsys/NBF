@@ -681,7 +681,7 @@ mob/proc
 				if(M.Majest)
 					src<<"Você olha profundamente para os olhos de [M]!"
 					spawn(15)
-						src<<"Seus olhos dourados Majestic viu através de sua hipnose, e impediu seu genjutsu de trabalhar!"
+						src<<"Seus olhos dourados viram através de sua hipnose, e impediu seu genjutsu de trabalhar!"
 				if(M.FrozenBind=="Sharingan")
 					src<<"Você já capturou-los em um genjutsu, você não pode lançar o feitiço Hypnosis quando eles estão com tanta dor!";return
 				M<<"[src] olha profundamente em seus olhos, seus olhos giram rapidamente!";src<<"Você olha profundamente para os olhos de [M]!";var/SleepingCount=30

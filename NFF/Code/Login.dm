@@ -1147,12 +1147,13 @@ turf/Finished
 //				usr.ElementalPoints+=60
 //			if(usr.key=="")
 //				usr.ElementalPoints+=30
-				usr.StartingPoints+=30
+//				usr.StartingPoints+=30
 			if(usr.Clan=="Aburame")
 				if(usr.Mchakra>1500)
-					usr.Mchakra-=rand(300,600);usr.chakra=usr.Mchakra
+					usr.Mchakra-=rand(300,600)
+					usr.chakra=usr.Mchakra
 				var/Nanos=20
-				if(usr.key in Subscribers)
+				if(usr.key in Subscribers&&usr.Clan=="Aburame")
 					Nanos=60
 				if(prob(Nanos))
 					usr.Canlearnnanobugs=1
@@ -1270,8 +1271,8 @@ turf/Finished
 					else
 						usr<<"As a result of using no special last name or creating a unique one, you have been given an additional 5 Starting Points! Thank you for being original."
 						usr.StartingPoints+=5
-					if(prob(1))
-						usr.AbleToGetConversusin=1
+				if(prob(1))
+					usr.AbleToGetConversusin=1
 			//Guest Check
 			if(findtext(usr.key,"Guest",1,6))
 				alert(usr,"You're almost done, but because you are using a BYOND Guest key you will need a Moderator's permission to enter the game. Click OK to send them a request message, or log out and create your own personal key at www.byond.com")
@@ -1438,19 +1439,19 @@ turf/Finished
 
 
 				if(usr.GetsBenefits)
-			//		var/obj/Drinks/Dew/D=new();D.loc=usr
-			//		var/obj/Drinks/Pepsi/P=new();P.loc=usr
-			//		var/obj/BonusScrolls/CoolDown/DAA=new();DAA.loc=usr
-			//		var/obj/BonusScrolls/CoolDown/DAD=new();DAD.loc=usr
-			//		var/obj/BonusScrolls/EXP/KAA=new();KAA.loc=usr
-			//		var/obj/BonusScrolls/EXP/KAD=new();KAD.loc=usr
-			//		var/obj/BonusScrolls/Knowledge_Scroll/FAA=new();FAA.loc=usr
-			//		var/obj/BonusScrolls/Token/TAA=new();TAA.ammount=2;TAA.loc=usr;TAA.name="[TAA.name] x[TAA.ammount]"
+					var/obj/Drinks/Dew/D=new();D.loc=usr
+					var/obj/Drinks/Pepsi/P=new();P.loc=usr
+					var/obj/BonusScrolls/CoolDown/DAA=new();DAA.loc=usr
+					var/obj/BonusScrolls/CoolDown/DAD=new();DAD.loc=usr
+					var/obj/BonusScrolls/EXP/KAA=new();KAA.loc=usr
+					var/obj/BonusScrolls/EXP/KAD=new();KAD.loc=usr
+					var/obj/BonusScrolls/Knowledge_Scroll/FAA=new();FAA.loc=usr
+					var/obj/BonusScrolls/Token/TAA=new();TAA.ammount=2;TAA.loc=usr;TAA.name="[TAA.name] x[TAA.ammount]"
 					usr.Yen+=25000
 					usr<<"You've recieved extra Ryo, 2x Cooldown Scrolls, 2x EXP Scrolls, 1x Knowledge Scroll, and 2x Ninja Tokens for Compensation Redemption at a later time."
 				usr.Yen+=5000
 				usr.move=0
-				if(usr.key=="Loose4")
+				/*if(usr.key=="Loose4")
 					var/obj/BonusScrolls/Knowledge_Scroll/FAAB=new();FAAB.loc=usr
 					var/obj/BonusScrolls/Knowledge_Scroll/FA=new();FA.loc=usr
 					var/obj/BonusScrolls/Knowledge_Scroll/AA=new();AA.loc=usr
@@ -1466,7 +1467,7 @@ turf/Finished
 						var/obj/BonusScrolls/EXP/EEE=new();EEE.loc=usr
 						var/obj/BonusScrolls/CoolDown/CC=new();CC.loc=usr
 						x++
-						sleep(1)
+						sleep(1)*/
 
 
 			var/X=300

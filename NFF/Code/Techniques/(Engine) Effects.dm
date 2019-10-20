@@ -612,7 +612,7 @@ obj/Jutsu
 					spawn()
 						if(M&&!M.UsingDomu&&!M.Kaiten&&!M.sphere&&!M.SusanooIn)
 							var/damage=M.maxstamina*0.25;var/damage2=M.maxhealth*0.50;var/Chakraz=M.ChakraArmor*0.01
-							view(M)<<output("<font color=red>[M] foi atingido pela explosão!</font>","Attack")
+							view(M)<<output("<font color=red>[M] foi atingido por uma explosão!</font>","Attack")
 							if(M)
 								if(M.PaperStyleDance)
 									M.PaperStyleDance=0
@@ -1365,6 +1365,7 @@ obj/proc/DamageIt(Damage)
 	src.health-=Damage
 	if(src.health<=0)
 		del(src)
+//PROCEDIMENTO DE DANO
 atom/movable/proc/DamageProc(Damage,WhereItHits,WhoDidIt,JutsuName,MessageColor="gray",JutsuType)
 	if(isobj(src))
 		src:DamageIt(Damage)

@@ -70,18 +70,19 @@ world
 world
 	mob=/mob/player
 	view = "9x9"
-	hub="MegaNarutoUzumaki.NarutoCronicasShinobi"
-	hub_password="meupau123"
+	//hub="MegaNarutoUzumaki.NarutoCronicasShinobi"
+	//hub_password="meupau123"
 	name = "NCS v1.0"
 	status = "<font color=red><b>Ncs v1.0<br>Alpha</br></font></b>"//"<font color=blue><b>NFF Version 3.8.2<br>Status: Beta</br></font></b>"
 	visibility=1
 	loop_checks=1
 	cache_lifespan=0
 	map_format = TILED_ICON_MAP
+	fps=20
 
 client
 	script = "<STYLE>BODY {background: black; font-size: 8px;color: white;}</STYLE>"
-
+	fps=60
 
 
 mob

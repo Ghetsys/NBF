@@ -2644,7 +2644,41 @@ obj/SkillCards
 					M.SandMastery+=pick(0.01,0.2);if(M.SandMastery>100) M.SandMastery=100
 				src.Uses+=1
 				M.SatetsuSphere(Uses)
-
+//Chinoike/////////////
+	Ketsuryugan
+		icon_state="Sharingan"//Adicionar icone
+		Activate(mob/M)
+			if(M.ketsu)
+				M.Ketsuryugan()
+				src.DelayIt(100,M,"Clan")
+				return
+			if(M.knockedout)
+				return
+			M.Ketsuryugan()
+			src.Uses+=1
+	KetsuryuganExplode
+		name="Ketusuryugan: Humano Explosivo"
+		icon_state="Sharingan"//Adicionar icone
+		Activate(mob/M)
+			src.Uses+=1
+			src.DelayIt(100,M,"Clan")//1200
+			M.ExplodingHumanTechnique()
+	KetsuryuganGenjutsu
+		name="Ketsuryugan: Genjutsu"
+		icon_state="Sharingan"//Adicionar icone
+		Activate(mob/M)
+			src.Uses+=1
+			src.DelayIt(100,M,"Clan")//300
+			M.KetsuryuganGenjutsu()
+	KetsuryuganIlluminate
+		name ="Ketsuryugan: Iluminar"
+		icon_state="SharIlluminate"//Adicionar icone
+		BunshinAble=0
+		NonKeepable=1
+		Activate(mob/M)
+			src.Uses+=1
+			src.DelayIt(250,M,"Clan")
+			M.KetsuryuganIlluminate()
 //Uchiha//////////////
 	Sharingan
 		icon_state="Sharingan"

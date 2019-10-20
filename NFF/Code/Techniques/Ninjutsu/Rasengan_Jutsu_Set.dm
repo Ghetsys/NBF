@@ -35,6 +35,7 @@ mob/proc/Rasengan()
 					if(src.DRasenganCounter>0)
 						src.DRasenganCounter=0;src.overlays-='Icons/Jutsus/Rasengan4.dmi'
 					src.overlays-='Icons/Jutsus/Rasengan2.dmi';src<<"Your Rasengan ran out of energy!";src.Rasenganon=0
+			sleep(8)
 mob/proc/Rasenshuriken()
 	if(src.intank|src.Kaiten|src.sphere|src.inso|src.firing|src.Rasenganon)
 		return
@@ -76,6 +77,7 @@ mob/proc/DoubleRasengan()
 			src.SoundEngine('SFX/RasCharge.wav',7,75)
 			src.RasenganType=50
 			src.RasenganD=(src.RasenganD/1.25)//src.RasenganD*2
+		sleep(8)
 /*Giant Rasengan:
 Increases the size of the current Rasengan causing it to do massive damage.
 */
@@ -100,7 +102,7 @@ mob/proc/Giant_Rasengan()
 			src.SoundEngine('SFX/RasCharge.wav',7,75)
 			src.RasenganType+=0.5
 			src.RasenganD=src.RasenganD*2
-
+		sleep(8)
 /*Fire Rasengan:
 Fire based version.
 */
