@@ -2,6 +2,48 @@
    KetsuryuganMastery;
 */
 obj/Jutsu
+	BloodNeedle
+		icon_state = "needles"
+		density=1
+		layer=MOB_LAYER+1
+		Move_Delay=0
+		var/TilesA=0
+		var/TilesMax=10
+		var/Ketsu
+		New()
+			..()
+			spawn(45)
+				del(src)
+		Bump(A)
+			..()
+			if(ismob(A))
+				var/mob/M = A
+				if(Ketsu>100) Ketsu=100
+				if(M.Kaiten||M.sphere)
+					return
+				if(M.Deflection)
+					walk(src,0);src.dir=turn(src.dir,pick(45,-45));walk(src,src.dir);return
+				var/mob/O=src.Owner;var/damage=300;Ketsu*=0.01
+				damage=((1+(src.TilesA*pick(0.01,0.025)))*((damage*Ketsu)/2));M.StunAdd(3);src.density=0;src.loc=M.loc;walk(src,0)
+				if(damage>125)
+					damage=125
+				M.DamageProc(damage,"Health",O,"Agulhas de Sangue","grey")
+				M.SoundEngine('SFX/Slice.wav',4)
+				spawn() M.Bloody()
+				spawn(10) del(src)
+			if(istype(A,/turf/))
+				var/turf/T = A
+				if(T.density)
+					del(src)
+			else if(istype(A,/obj/Doors/))
+				var/obj/O=A
+				O.DamageProc(rand(50,150),"Health",src.Owner)
+			else
+				del(src)
+		Move()
+			..()
+			if(src.TilesA<src.TilesMax)
+				src.TilesA++
 	KetsuryuganExplosion
 		icon='Icons/Jutsus/Explosion(1).dmi'
 		icon_state="ExplodeMiddle"
@@ -17,7 +59,7 @@ obj/Jutsu
 			overlays+=/obj/Jutsu/Explosion/E;overlays+=/obj/Jutsu/Explosion/F;overlays+=/obj/Jutsu/Explosion/G;overlays+=/obj/Jutsu/Explosion/H
 			spawn()
 				sleep(1)
-				for(var/mob/M in oview(1,src))
+				for(var/mob/M in oview(1,loc))
 					spawn()
 						if(M&&!M.UsingDomu&&!M.Kaiten&&!M.sphere&&!M.SusanooIn)
 							if(Kets>400) Kets=400
@@ -166,4 +208,41 @@ mob/proc
 			src.ChakraSight(0)
 			src.Illuminate()
 			src.ChakraSight(1)
-
+	//Agulha de Sangue
+	//Torna todo o sangue a vista em agulhas que vão em direção ao alvo
+	//As agulhas garantem sangramento
+	KetsuryuganNeedle()
+		src.Target()
+		if(src.ntarget)
+			src<<"Você necessita de um alvo!"
+			return
+		if(!src.ketsu)
+			src<<"Você precisa ativar o Ketsuryugan!";return
+		else
+			var/mob/M=src.target
+			src.ChakraDrain(6000)
+			for(var/obj/A in oview(25,src))
+				if(A.icon=='Blood.dmi')
+					var/obj/Jutsu/BloodNeedle/S=new()
+					S.loc=A.loc
+					S.Owner=src;
+					S.density=0
+					S.Ketsu=src.KetsuryuganMastery
+					spawn(7)
+						if(S)
+							S.density=1
+					var/D=get_dir(S,M);
+					var/T=4
+					//Para não atrapalhar o for
+					//1 tick depois ele vai fazer a agulha de sangue andar 4 vezes
+					spawn(1)
+						while(T)
+							walk(S,D)
+							T--
+	//Genjutsu: Soco
+	//Vai funcionar como o Cursed Seal Paralysis
+	//A diferença é em seu efeito
+	//Efeito:
+	//Após socar, começa uma batalha de struggle, como o Tsukiyomi
+	//Correntes vão em torno do alvo, ele perde stamina com o tempo
+	//KetsuryuganPunchGenjutsu()

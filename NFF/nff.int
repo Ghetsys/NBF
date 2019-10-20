@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1571605137
+LAST_COMPILE_TIME: 1571612697
 DIR: Code Code\Engines Code\NPCs Code\NPCs\AISystem Code\NPCs\MerchantsSystem Code\OtherSystems Code\Techniques Code\Techniques\Clans Code\Techniques\Genjutsu Code\Techniques\Kenjutsu Code\Techniques\Ninjutsu Code\Techniques\Ninjutsu\Elements Icons Icons\Jutsus 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 512.1477
-WINDOW: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm;Code\Techniques\Skillcards.dm;Code\Techniques\(Engine) Effects.dm;Code\Techniques\Clans\Uzumaki_Jutsu_set.dm;Code\Techniques\Clans\Iwazuka_Jutsu_Set.dm;Icons\Jutsus\Explosion(1).dmi;Code\Techniques\Ninjutsu\Rinnegan.dm;SageMode.dm;Code\Techniques\techs.dm;Code\Death.dm;Code\Check Proc.dm
-FILE: Code\Check Proc.dm
+LAST_COMPILE_VERSION: 512.1471
+WINDOW: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm;Code\Techniques\Ninjutsu\Elements\Hyouton_Jutsu_Set.dm;Code\Techniques\(Engine) Effects.dm;Code\Techniques\Clans\Ketsueki_Jutsu_Set.dm;Code\Techniques\Ninjutsu\Fuuinjutsu.dm;Code\Techniques\Attack.dm;Code\Techniques\techs.dm
+FILE: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm
 */
 // END_INTERNALS
