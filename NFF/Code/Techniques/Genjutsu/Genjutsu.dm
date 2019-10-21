@@ -431,19 +431,20 @@ mob/proc/GenjutsuProc(GenjutsuName,GenjutsuAffect,GenjutsuType="Target",ChakraCo
 				del(A)
 	//GENJUTSU SINGLE TARGET
 	if(GenjutsuType=="Target")
-		src.Target()
-		if(src.ntarget&&!src.PunchedTarget)
-			return
-			src<<"Retornou"
 		var/mob/M
-		if(src.target)
+		if(!src.PunchedTarget)
+			src.Target()
+			if(src.ntarget)
+				return
 			M=src.target
-		if(src.PunchedTarget!="")
+		else
 			M=src.PunchedTarget
-			src<<"[src.PunchedTarget]"
-			src.PunchedTarget=""
+			src<<"[M]" //para teste
+			src.PunchedTarget=null
 			src<<"Seu alvo conseguiu ser afetado"
 		var/G=round(src.GenjutsuKnowledge/100)//Quickly checked the Distance to see if they can get hit.
+		if(src.PunchedTarget)
+			G=round(G+(src.KetsuryuganMastery/100))
 		if(get_dist(src,M)>(2+G))
 			src<<"[M] esta muito longe para perturbar o seu chakra!"
 			return

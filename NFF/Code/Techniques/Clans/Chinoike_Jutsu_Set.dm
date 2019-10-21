@@ -5,8 +5,8 @@ mob/var
 	//Booleana para verificação da ativação do Ketsuryugan
 	tmp/ketsu
 	tmp/ExplodingHuman=0
-	PunchGen=0
-	PunchedTarget
+	tmp/PunchGen=0
+	tmp/PunchedTarget
 
 obj/Jutsu
 	BloodNeedle
@@ -67,7 +67,7 @@ mob/proc
 		else
 			src.icon_state="1";usr.ChangeEyeStyle(usr.EyeStyle,102,0,0)
 			//Aqui onde está o sharinganthing é onde adicionamos a animação para o Ketsuryugan
-			var/image/I = new('Icons/Jutsus/sharinganthing.dmi');I.pixel_y=32;I.layer=6
+			var/image/I = new('Icons/Jutsus/sharinganthing.dmi');I.pixel_y=32;I.layer=6 //Adicionar animação
 			//Provavelmente adicionar bonus para maestria maior
 			//Atualização do inventario do player
 			//Não só inventário de itens, mas inventário de Jutsu

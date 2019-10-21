@@ -3220,7 +3220,7 @@ mob/proc
 					spawn(src.GenSkill*10)
 						if(src.PunchedTarget)
 							src.PunchedTarget<<"O chakra que estava em você some"
-							src.PunchedTarget=""
+							src.PunchedTarget=null
 							src<<"Você perdeu o alvo"
 				if(!M.knockedout)
 					M.DamageProc(Damage,"Stamina",src)
