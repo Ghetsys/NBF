@@ -3212,6 +3212,16 @@ mob/proc
 						return
 					if(prob(20))
 						src.FuuinjutsuKnowledge+=pick(0.1,0.5,0.6,1)
+				if(src.PunchGen&&!M.knockedout&&M.icon_state!="Block")
+					src.PunchGen=0
+					src<<"Você marcou [M] com um soco, seu próximo Genjutsu poderá ser feito sem um alvo"
+					src.PunchedTarget=M
+					M<<"Você sente como se um pouco de chakra encostasse em você"
+					spawn(src.GenSkill*10)
+						if(src.PunchedTarget)
+							src.PunchedTarget<<"O chakra que estava em você some"
+							src.PunchedTarget=""
+							src<<"Você perdeu o alvo"
 				if(!M.knockedout)
 					M.DamageProc(Damage,"Stamina",src)
 				M<<output("[src] bate tirando [Damage] de Dano!","Attack")

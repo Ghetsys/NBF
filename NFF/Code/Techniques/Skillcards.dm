@@ -2671,7 +2671,7 @@ obj/SkillCards
 			src.DelayIt(100,M,"Clan")//300
 			M.KetsuryuganGenjutsu()
 	KetsuryuganIlluminate
-		name ="Ketsuryugan: Iluminar"
+		name="Ketsuryugan: Iluminar"
 		icon_state="SharIlluminate"//Adicionar icone
 		BunshinAble=0
 		NonKeepable=1
@@ -2679,6 +2679,20 @@ obj/SkillCards
 			src.Uses+=1
 			src.DelayIt(250,M,"Clan")
 			M.KetsuryuganIlluminate()
+	KetsuryuganNeedles
+		name="Ketsuryugan: Agulhas de Sangue"
+		icon_state="Sharingan"//Adicionar icone
+		Activate(mob/M)
+			src.Uses+=1
+			src.DelayIt(100,M,"Clan")//Pensar em delay
+			M.KetsuryuganNeedle()
+	KetsuryuganPunch
+		name="Ketsuryugan: Soco"
+		icon_state="Sharingan"//Adicionar icone
+		Activate(mob/M)
+			src.Uses+=1
+			src.DelayIt(100,M,"Clan")//Pensar em delay
+			M.KetsuryuganPunchGenjutsu()
 //Uchiha//////////////
 	Sharingan
 		icon_state="Sharingan"

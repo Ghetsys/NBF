@@ -1,8 +1,16 @@
 /* Outras variaveis de interesse:
    KetsuryuganMastery;
 */
+mob/var
+	//Booleana para verificação da ativação do Ketsuryugan
+	tmp/ketsu
+	tmp/ExplodingHuman=0
+	PunchGen=0
+	PunchedTarget
+
 obj/Jutsu
 	BloodNeedle
+		icon='Icons/Jutsus/HyoutonTechniques.dmi'
 		icon_state = "needles"
 		density=1
 		layer=MOB_LAYER+1
@@ -35,50 +43,16 @@ obj/Jutsu
 				var/turf/T = A
 				if(T.density)
 					del(src)
-			else if(istype(A,/obj/Doors/))
-				var/obj/O=A
-				O.DamageProc(rand(50,150),"Health",src.Owner)
-			else
-				del(src)
+			else if(istype(A,/obj/))
+				if(istype(A,/obj/Doors/))
+					var/obj/O=A
+					O.DamageProc(rand(50,150),"Health",src.Owner)
+				else
+					del(src)
 		Move()
 			..()
 			if(src.TilesA<src.TilesMax)
 				src.TilesA++
-	KetsuryuganExplosion
-		icon='Icons/Jutsus/Explosion(1).dmi'
-		icon_state="ExplodeMiddle"
-		JutsuLevel=150
-		layer=MOB_LAYER+2
-		dir=NORTH
-		var/Kets=0
-		var/Con=0
-		New()
-			spawn() src.SoundEngine('SFX/Bang.wav',100)
-			..()
-			overlays+=/obj/Jutsu/Explosion/A;overlays+=/obj/Jutsu/Explosion/B;overlays+=/obj/Jutsu/Explosion/C;overlays+=/obj/Jutsu/Explosion/D
-			overlays+=/obj/Jutsu/Explosion/E;overlays+=/obj/Jutsu/Explosion/F;overlays+=/obj/Jutsu/Explosion/G;overlays+=/obj/Jutsu/Explosion/H
-			spawn()
-				sleep(1)
-				for(var/mob/M in oview(1,loc))
-					spawn()
-						if(M&&!M.UsingDomu&&!M.Kaiten&&!M.sphere&&!M.SusanooIn)
-							if(Kets>400) Kets=400
-							var/damage=((Kets*(Con/100))*2);var/damage2=((Kets*(Con/100))*15);var/Chakraz=M.ChakraArmor*0.01
-							view(M)<<output("<font color=red>[M] foi atingido por uma explosão!</font>","Attack")
-							if(M)
-								if(M.PaperStyleDance)
-									M.PaperStyleDance=0
-								M.DamageProc(damage-(Chakraz*damage),"Stamina",src.Owner,"explosion","yellow")
-								if(M) M.DamageProc(damage2-(Chakraz*damage),"Health",src.Owner,"explosion","red")
-				for(var/obj/O in oview(1,src))
-					O.DamageProc(400)
-			spawn(5)
-				del(src)
-
-mob/var
-	//Booleana para verificação da ativação do Ketsuryugan
-	tmp/ketsu
-	tmp/ExplodingHuman=0
 
 mob/proc
 	//Ketsuryugan
@@ -125,7 +99,7 @@ mob/proc
 		if(src.firing||src.Frozen)
 			return
 		//Assim como o sleep de Uchiha, você necessita de um alvo
-		src.chakra-=(400-src.KetsuryuganMastery)*((80-src.GenSkill)/100)
+		src.ChakraDrain(10000)
 		var/mob/ST
 		var/Distance=round(src.KetsuryuganMastery/100)
 		if(Distance<1) Distance = 1
@@ -151,7 +125,7 @@ mob/proc
 		if(src.firing||src.Frozen)
 			return
 		//Assim como o sleep de Uchiha, você necessita de um alvo
-		src.chakra-=(800-src.KetsuryuganMastery)*((80-src.GenSkill)/100)
+		src.ChakraDrain(30000)
 		var/mob/ST
 		var/Distance=round(src.KetsuryuganMastery/100)
 		if(Distance<1) Distance = 1
@@ -176,27 +150,35 @@ mob/proc
 			return
 		if(ST.ExplodingHuman)
 			src<<"O alvo já está sob efeito do jutsu";return
-		ST<<"Você sente algo borbulhando pelo seu sangue";ST.ExplodingHuman++
+		ST<<"Você sente algo borbulhando pelo seu sangue";ST.ExplodingHuman=1
 		var/timer=((src.GenSkill*10)*(1+(src.KetsuryuganMastery/100)))
 		if(timer<100) timer = 100
 		if(timer>300) timer = 300
 		spawn(timer)
 			if(ST.ExplodingHuman)
 				ST.ExplodingHuman=0
+		sleep(8)
 		while(ST.ExplodingHuman)
 			if(ST.gencounter&&ST.ExplodingHuman)
 				view()<<"[ST] utiliza um contra genjutsu para repelir o jutsu de [src]!";ST.gencounter=0;ST.ExplodingHuman=0;return
-			if(ST.ExplodingHuman&&ST.health<=(ST.maxhealth*0.75))
+			if(ST.ExplodingHuman&&timer<=50)
 				ST.Running=0
 				ST<<"Você não aguenta mais correr, algo borbulha em você"
 			if(ST.Status=="Gashed")
-				var/obj/Jutsu/KetsuryuganExplosion/K=new();K.loc=ST.loc;K.Owner=src.Owner;K.Con=src.gen;K.Kets=src.KetsuryuganMastery
+				var/obj/Jutsu/Explosion/K=new()
+				K.loc=ST.loc
+				K.Owner=src
+				timer=0
 				ST.ExplodingHuman=0
-			if(ST.knockedout||ST.ImmuneToDeath||ST.Dead||(!ST.ExplodingHuman))
+			if(ST.knockedout||ST.ImmuneToDeath||ST.Dead)
 				src<<"O jutsu falhou."
 				if(ST.ExplodingHuman)
 					ST.ExplodingHuman=0
 				return
+			timer--
+			if(timer==0&&ST.ExplodingHuman)
+				ST.ExplodingHuman=0
+				src<<"O tempo para explodir [ST] acabou"
 			sleep(8)
 
 	KetsuryuganIlluminate()
@@ -219,30 +201,42 @@ mob/proc
 		if(!src.ketsu)
 			src<<"Você precisa ativar o Ketsuryugan!";return
 		else
-			var/mob/M=src.target
-			src.ChakraDrain(6000)
-			for(var/obj/A in oview(25,src))
-				if(A.icon=='Blood.dmi')
-					var/obj/Jutsu/BloodNeedle/S=new()
-					S.loc=A.loc
-					S.Owner=src;
-					S.density=0
-					S.Ketsu=src.KetsuryuganMastery
-					spawn(7)
-						if(S)
-							S.density=1
-					var/D=get_dir(S,M);
-					var/T=4
-					//Para não atrapalhar o for
-					//1 tick depois ele vai fazer a agulha de sangue andar 4 vezes
-					spawn(1)
-						while(T)
+			if(usr.firing||usr.knockedout)
+				return
+			else
+				var/T=src.target
+				src.ChakraDrain(6500)
+				oview(src)<<"[src] começa a manipular o sangue à sua volta, tornando-os em agulhas"
+				sleep(15)
+				for(var/obj/undereffect/X in oview())
+					spawn()
+						if(X.icon=='Blood.dmi')
+							var/obj/Jutsu/BloodNeedle/S=new()
+							S.loc=X.loc
+							del(X)
+							S.Owner=src
+							S.density=0
+							spawn(7)
+								if(S)
+									S.density=1
+							var/D=get_dir(S,T)
 							walk(S,D)
-							T--
+							walk(S,D)
+							walk(S,D)
+							walk(S,D)
+
 	//Genjutsu: Soco
-	//Vai funcionar como o Cursed Seal Paralysis
-	//A diferença é em seu efeito
 	//Efeito:
-	//Após socar, começa uma batalha de struggle, como o Tsukiyomi
-	//Correntes vão em torno do alvo, ele perde stamina com o tempo
-	//KetsuryuganPunchGenjutsu()
+	//Após socar, o alvo fica marcado em um target secundario
+	//O primeiro genjutsu dentro de X segundos não necessita de um alvo
+	KetsuryuganPunchGenjutsu()
+		if(!src.ketsu)
+			src<<"Você precisa ativar o Ketsuryugan"
+		else
+			src.ChakraDrain(5000)
+			src<<"Dentro dos próximo [src.GenSkill] segundos, seu soco marcará um alvo para ser afetado por Genjutsus"
+			src.PunchGen=1
+			spawn(src.GenSkill*10)
+				if(src.PunchGen)
+					src.PunchGen=0
+					src<<"Você perdeu a concentração"

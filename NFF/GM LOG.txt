@@ -1834,3 +1834,4 @@
 (((((edit)))))Sat Oct 19 21:01:55 2019: Shiroi, ghetsys edited Kyomou, aeg's "Status" from "" to "Gashed"
 (((((edit)))))Sat Oct 19 21:01:55 2019: Shiroi, ghetsys edited Kyomou, aeg's "ExplodingHuman" from <i>1</i> to <i>2</i>
 (((((edit)))))Sat Oct 19 21:02:06 2019: Shiroi, ghetsys edited Kyomou, aeg's "Age" from <i>10</i> to <i>32</i>
+(((((edit)))))Sun Oct 20 21:01:30 2019: Shiroi, ghetsys edited Clay's "ammount" from <i>0</i> to <i>100</i>

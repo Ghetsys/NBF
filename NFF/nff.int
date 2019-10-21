@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1571612697
-DIR: Code Code\Engines Code\NPCs Code\NPCs\AISystem Code\NPCs\MerchantsSystem Code\OtherSystems Code\Techniques Code\Techniques\Clans Code\Techniques\Genjutsu Code\Techniques\Kenjutsu Code\Techniques\Ninjutsu Code\Techniques\Ninjutsu\Elements Icons Icons\Jutsus 
+LAST_COMPILE_TIME: 1571674306
+DIR: Code Code\Engines Code\NPCs Code\NPCs\AISystem Code\NPCs\MerchantsSystem Code\OtherSystems Code\Techniques Code\Techniques\Clans Code\Techniques\Genjutsu Code\Techniques\Kenjutsu Code\Techniques\Ninjutsu Code\Techniques\Ninjutsu\Elements DamageF Icons Icons\Jutsus SFX SFX\Tracks 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 512.1471
-WINDOW: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm;Code\Techniques\Ninjutsu\Elements\Hyouton_Jutsu_Set.dm;Code\Techniques\(Engine) Effects.dm;Code\Techniques\Clans\Ketsueki_Jutsu_Set.dm;Code\Techniques\Ninjutsu\Fuuinjutsu.dm;Code\Techniques\Attack.dm;Code\Techniques\techs.dm
+LAST_COMPILE_VERSION: 512.1477
+WINDOW: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm
 FILE: Code\Techniques\Clans\Chinoike_Jutsu_Set.dm
 */
 // END_INTERNALS

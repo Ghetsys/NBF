@@ -429,11 +429,20 @@ mob/proc/GenjutsuProc(GenjutsuName,GenjutsuAffect,GenjutsuType="Target",ChakraCo
 		for(var/obj/Genjutsu/AOEGenjutsu/A in world)
 			if(A.Owner==src)
 				del(A)
+	//GENJUTSU SINGLE TARGET
 	if(GenjutsuType=="Target")
 		src.Target()
-		if(src.ntarget)
+		if(src.ntarget&&!src.PunchedTarget)
 			return
-		var/mob/M=src.target
+			src<<"Retornou"
+		var/mob/M
+		if(src.target)
+			M=src.target
+		if(src.PunchedTarget!="")
+			M=src.PunchedTarget
+			src<<"[src.PunchedTarget]"
+			src.PunchedTarget=""
+			src<<"Seu alvo conseguiu ser afetado"
 		var/G=round(src.GenjutsuKnowledge/100)//Quickly checked the Distance to see if they can get hit.
 		if(get_dist(src,M)>(2+G))
 			src<<"[M] esta muito longe para perturbar o seu chakra!"
